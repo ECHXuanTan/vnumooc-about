@@ -1,0 +1,93 @@
+{
+  "logos": [
+    {
+      "id": "hcmut",
+      "name": "Trường Đại học Bách khoa",
+      "website": "https://hcmut.edu.vn/",
+      "logo_source": "https://hcmut.edu.vn/img/bk.png",
+      "local_file": "hcmut.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "hcmus",
+      "name": "Trường Đại học Khoa học Tự nhiên",
+      "website": "https://hcmus.edu.vn/",
+      "logo_source": "https://hcmus.edu.vn/wp-content/uploads/2023/04/Logo-chinh-e1681638380305.png",
+      "local_file": "hcmus.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "ussh",
+      "name": "Trường Đại học Khoa học Xã hội và Nhân văn",
+      "website": "https://hcmussh.edu.vn/",
+      "logo_source": "https://hcmussh.edu.vn/image/logo-hcmussh.png",
+      "local_file": "ussh.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "uit",
+      "name": "Trường Đại học Công nghệ Thông tin",
+      "website": "https://www.uit.edu.vn/",
+      "logo_source": "https://www.uit.edu.vn/strapi/uploads/Logo_UIT_Web_Transparent_4d0634a917.png",
+      "local_file": "uit.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied.",
+      "brand_guidelines": "https://www.uit.edu.vn/bai-viet/nhan-dien-thuong-hieu"
+    },
+    {
+      "id": "iu",
+      "name": "Trường Đại học Quốc tế",
+      "website": "https://hcmiu.edu.vn/",
+      "logo_source": "https://hcmiu.edu.vn/wp-content/uploads/2017/02/logo-favicon-300x300.png",
+      "local_file": "iu.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "uel",
+      "name": "Trường Đại học Kinh tế – Luật",
+      "website": "https://uel.edu.vn/",
+      "logo_source": "https://uel.edu.vn/storage/logo.svg",
+      "local_file": "uel.svg",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "uhs",
+      "name": "Trường Đại học Khoa học Sức khỏe",
+      "website": "https://www.uhsvnu.edu.vn/",
+      "logo_source": "https://www.uhsvnu.edu.vn/_next/static/media/logo-UHS.0g-k__g6ji4_y.png",
+      "local_file": "uhs.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "agu",
+      "name": "Trường Đại học An Giang",
+      "website": "https://www.agu.edu.vn/",
+      "logo_source": "https://tuyensinh.agu.edu.vn/uploads/6748448a71b4079f5dd668d2b57875e7.png",
+      "local_file": "agu.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "ptnk",
+      "name": "Trường Phổ thông Năng khiếu",
+      "website": "https://ptnk.edu.vn/",
+      "logo_source": "https://ptnk.edu.vn/wp-content/uploads/2020/04/pho-thong-nang-khieu-logo.png",
+      "local_file": "ptnk.png",
+      "retrieved": "2026-09-21",
+      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    }
+  ],
+  "directory_sources": [
+    "https://www.vnuhcm.edu.vn/",
+    "https://hcmus.edu.vn/dhqg-tp-hcm-va-cac-don-vi-thanh-vien/",
+    "https://ptnk.edu.vn/"
+  ],
+  "ier_logo_status": "Official logo URL https://hcmier.edu.vn/vn/img/logoLogin.png repeatedly timed out; institute shown as text, no substitute logo invented.",
+  "list_update": "Eight universities from official VNU-HCM directory. Removed unverified University of Politics and Public Administration label from the earlier prototype."
+}
