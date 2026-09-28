@@ -7,7 +7,7 @@
   const motion = matchMedia('(prefers-reduced-motion: reduce)');
   const narrow = matchMedia('(max-width: 960px)');
   const navLinks = [...links.querySelectorAll('a')];
-  const sectionPairs = navLinks.map(link => ({link, section: document.querySelector(link.hash)}));
+  const sectionPairs = navLinks.filter(link => link.hash && link.pathname === location.pathname).map(link => ({link, section: document.querySelector(link.hash)})).filter(pair => pair.section);
   let ticking = false;
   function updateScroll() {
     nav.classList.toggle('scrolled', scrollY > 40);

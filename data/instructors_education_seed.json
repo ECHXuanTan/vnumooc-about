@@ -1,0 +1,4016 @@
+{
+  "hcmus:le-hoai-bac": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-tuan-anh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:mai-hoang-bien": {
+    "status": "source_candidate",
+    "source_url": "https://en.hcmus.edu.vn/profile/assoc-prof-mai-hoang-bien/",
+    "items": [
+      {
+        "period": "2004",
+        "degree": "Cử nhân",
+        "field": "Toán và Tin học",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2008",
+        "degree": "Thạc sĩ",
+        "field": "Đại số và Lý thuyết số",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2014",
+        "degree": "Tiến sĩ",
+        "field": "Toán học",
+        "institution": "Đại học Padua và Đại học Leiden"
+      }
+    ]
+  },
+  "hcmus:nguyen-thanh-binh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-duc-chinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:hoang-duc-huy": {
+    "status": "source_candidate",
+    "source_url": "https://en.hcmus.edu.vn/profile/assoc-prof-dr-hoang-duc-huy/",
+    "items": [
+      {
+        "period": "1998",
+        "degree": "Cử nhân",
+        "field": "Sinh học",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2002",
+        "degree": "Thạc sĩ",
+        "field": "Sinh học môi trường",
+        "institution": "Đại học Nữ Seoul, Hàn Quốc"
+      },
+      {
+        "period": "2005",
+        "degree": "Tiến sĩ",
+        "field": "Sinh thái học và Sinh học tiến hóa",
+        "institution": "Đại học Nữ Seoul, Hàn Quốc"
+      }
+    ]
+  },
+  "hcmut:nguyen-dinh-huy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:huynh-ky-phuong-ha": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:tran-thu-hanh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-thi-thuy-hang": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:huynh-quang-linh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:vu-duc-lung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:huynh-kim-lam": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-hong-nga": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-phuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:quach-ngo-diem-phuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:tran-hoang-phuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-quoc-thuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:nguyen-van-thuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:bui-hong-thuy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:le-thi-thuy-tien": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:nguyen-thao-trang": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-cong-tranh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:nguyen-minh-tri": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:cao-thanh-tinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:vu-tinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:do-phu-tran-tinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:le-minh-vien": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-thi-thanh-xuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-thi-thanh-an": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:mai-truong-an": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "agu:huynh-anh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-hoang-anh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-dinh-binh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-xuan-duy-bao": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:ho-vo-que-chi": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:huynh-ngoc-chuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:phan-ngoc-khuong-cat": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:pham-thi-dinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:huynh-thi-hong-diem": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:tran-ngoc-diem": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-thi-kim-dung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:nguyen-thi-thuy-duyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:huynh-vo-trung-dung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-tien-dung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:le-hai-duong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:le-thuy-thanh-giang": {
+    "status": "source_candidate",
+    "source_url": "https://phys.hcmus.edu.vn/vi/vat-ly-chat-ran/nhan-su/ts-le-thuy-thanh-giang",
+    "items": [
+      {
+        "period": "2008",
+        "degree": "Thạc sĩ",
+        "field": "",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2014",
+        "degree": "Tiến sĩ",
+        "field": "",
+        "institution": "Đại học Grenoble Alpes, Pháp"
+      }
+    ]
+  },
+  "uel:ha-van-hieu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-tri-hieu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:dau-sy-hieu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-huu-hiep": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-thanh-hoa": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-ngoc-huy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-tien-huy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thanh-huyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:hoang-van-ha": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:phan-thi-huong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:vo-duc-cam-hai": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-trung-hau": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:dao-tuan-hau": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:do-xuan-hoi": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:le-van-hop": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-minh-kha": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-khoa": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:le-quoc-khai": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-kien": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:do-thuong-kiet": {
+    "status": "source_candidate",
+    "source_url": "https://fbb.hcmus.edu.vn/do-thuong-kiet3.html",
+    "items": [
+      {
+        "period": "2001–2005",
+        "degree": "Cử nhân",
+        "field": "Sinh học",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2006–2009",
+        "degree": "Thạc sĩ",
+        "field": "Sinh lý thực vật",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2009–2014",
+        "degree": "Tiến sĩ",
+        "field": "Sinh lý thực vật",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      }
+    ]
+  },
+  "ussh:lam-ngoc-linh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:nguyen-thoai-linh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:tran-thi-hong-lien": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:dang-hai-long": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:le-van-luyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-quoc-lan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:bui-tien-len": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:tran-van-luong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:tran-ngoc-mai": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:than-ngoc-minh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:pham-thi-hai-mien": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:pham-thi-le-na": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:duong-nguyen-hong-nhung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-thi-hong-nhung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-huu-nha": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:bui-thi-ngoc-oanh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:dau-the-phiet": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:bui-kim-phuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-anh-phuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-phuc-son": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:ngo-thi-thuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:vi-chi-thanh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-ngoc-thao": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:vu-thi-thanh-thao": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:ho-xuan-thuy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:phung-trong-thuc": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:nguyen-vinh-tiep": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:vu-toan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:duong-thi-nhu-tranh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:dang-hoai-trung": {
+    "status": "source_candidate",
+    "source_url": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ts-dang-hoai-trung",
+    "items": [
+      {
+        "period": "2007",
+        "degree": "Cử nhân",
+        "field": "",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2012",
+        "degree": "Thạc sĩ",
+        "field": "",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2019",
+        "degree": "Tiến sĩ",
+        "field": "",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      }
+    ]
+  },
+  "uel:pham-trung-tuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:tran-anh-tuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:le-duy-tan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:tran-thanh-tung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:ly-anh-tu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:nguyen-van-tuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:huynh-to-uyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-thai-ngoc-uyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-hoang-uyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:dang-van-vinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:nguyen-ngoc-ai-van": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:phan-thi-khanh-van": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:phan-trung-vinh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:phan-hien-vu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-huy-doan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:trinh-thanh-deo": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-dong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:bui-duy-dang": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:le-xuan-dai": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-tien-dat": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Tiến sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:ha-manh-linh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Nghiên cứu sinh minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:le-hoang-tuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Nghiên cứu sinh minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:le-huynh-my-van": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Nghiên cứu sinh minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:quan-chi-khanh-an": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-thi-xuan-anh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-minh-chau": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-thi-thu-cuc": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:nguyen-thanh-danh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "agu:duong-thi-kim-duy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:phan-dinh-duy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "agu:pham-thi-tuyet-giang": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-hong-gam": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-chi-hieu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:hoang-hai-ha": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:nguyen-thi-minh-huong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-thu-huong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:tran-minh-huong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:le-tran-quang-khang": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:nguyen-vu-anh-khoa": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-chi-khoa": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:cao-minh-khoi": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-lai": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:luu-van-lap": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:tran-hoang-loc": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-binh-minh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-thi-ha-my": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-nhan-my": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:thai-van-nam": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:pham-trong-nghia": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:tran-thanh-thuy-ngoc": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:le-thi-yen-nhi": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:le-thi-tuyet-nhung": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "agu:le-thi-huynh-nhu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:truong-quang-nhat": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-kim-oanh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:mai-thu-phuong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:pham-thi-huyen-quyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:huynh-thanh-son": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "iu:le-thanh-son": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:nguyen-thanh-son": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-minh-thoai": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-anh-thy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:le-ngoc-thanh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:nguyen-thi-phuong-thanh": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmut:le-nguyen-bao-thu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:nguyen-thi-anh-thu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:nguyen-le-thuy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-thi-thanh-thuy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-thu-thuy": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uit:do-van-tien": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-huu-toan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "ussh:vo-phuc-toan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-ngoc-truong": {
+    "status": "source_candidate",
+    "source_url": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ths-nguyen-ngoc-truong",
+    "items": [
+      {
+        "period": "2012",
+        "degree": "Cử nhân",
+        "field": "",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      },
+      {
+        "period": "2015",
+        "degree": "Thạc sĩ",
+        "field": "",
+        "institution": "Trường Đại học Khoa học tự nhiên, ĐHQG-HCM"
+      }
+    ]
+  },
+  "uel:tran-luc-thanh-tuyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:dao-anh-tuan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:phan-huy-tam": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:tran-quoc-tan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "agu:nguyen-thanh-tin": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:luu-thi-thanh-tu": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:vo-thi-le-uyen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-dinh-uong": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:le-cat-vi": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:mai-le-thuy-van": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "uel:nguyen-thi-yen": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:nguyen-ngoc-duc": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Cử nhân minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      },
+      {
+        "period": "20XX",
+        "degree": "Mốc Thạc sĩ minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:dang-thi-thanh-lan": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Học vấn minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  },
+  "hcmus:chau-hoang-ngoc": {
+    "status": "demo",
+    "source_url": null,
+    "items": [
+      {
+        "period": "20XX",
+        "degree": "Mốc Học vấn minh họa",
+        "field": "Ngành học đang cập nhật",
+        "institution": "Cơ sở đào tạo đang cập nhật"
+      }
+    ]
+  }
+}

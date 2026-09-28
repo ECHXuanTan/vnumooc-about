@@ -1,0 +1,4268 @@
+{
+  "hcmus:le-hoai-bac": {
+    "person_id": "hcmus:le-hoai-bac",
+    "n": "Lê Hoài Bắc",
+    "t": "GS.TS.",
+    "cv": "Trưởng Bộ môn Khoa học máy tính Khoa CNTT, Trường Đại học Khoa học tự nhiên (Trường ĐH KHTN)",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/hcmus-le-hoai-bac.jpg",
+    "photo_status": "pending",
+    "bio": "GS. TS. LÊ HOÀI BẮC hiện là Trưởng Bộ môn Khoa học Máy tính. Ông tốt nghiệp tiến sĩ ngành Công nghệ Thông tin tại trường ĐH. KHTN           năm 1999. Ông được phong Giáo sư năm 2019. Ông thực hiện nhiều đề tài NAFOSTED, đề tài Sở Khoa học & Công           nghệ TP.HCM, Đề tài ĐHQG-HCM và sở hữu nhiều bài báo khoa học, tạp chí quốc tế.",
+    "expertise": [
+      "Trí tuệ Nhân tạo",
+      "Khai thác dữ liệu",
+      "Khoa học dữ liệu",
+      "Máy học"
+    ],
+    "education": [],
+    "links": {
+      "official": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1109"
+    },
+    "sources": {
+      "photo": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1109",
+      "bio": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1109",
+      "expertise": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1109",
+      "links": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1109"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-tuan-anh": {
+    "person_id": "hcmut:nguyen-tuan-anh",
+    "n": "Nguyễn Tuấn Anh",
+    "t": "PGS.TS.",
+    "cv": "Phó chủ nhiệm bộ môn Kỹ thuật Hóa vô cơ, giảng viên, Khoa Kỹ thuật Hoá học, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:mai-hoang-bien": {
+    "person_id": "hcmus:mai-hoang-bien",
+    "n": "Mai Hoàng Biên",
+    "t": "PGS.TS.",
+    "cv": "Trưởng khoa Khoa Toán - Tin học Trường Đại học Khoa học tự nhiên (Trường ĐH KHTN)",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Đại số tuyến tính"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-mai-hoang-bien.png",
+    "photo_status": "pending",
+    "bio": "Đó là sự biết ơn sâu sắc của GS.TS Mai Hoàng Biên (Khoa Toán-Tin học, Trường ĐH Khoa học tự nhiên) đối với đơn vị mà mình gắn bó trong suốt chặng hành trình dài. GS Mai Hoàng Biên đã xuất sắc trở thành là một trong những ứng viên được công nhận đạt chuẩn giáo sư bằng những cống hiến của mình cho khoa học nước nhà.",
+    "expertise": [],
+    "education": [
+      "In 2004 VNUHCM-University of Science BSc. in Mathematics and Computer Science In 2008 VNUHCM-University of Science MSc. in Algebra and Number Theory In 2014 University of Padua (Università degli Studi di Padova) and Leiden University (Universiteit Leiden) PhD. in Mathematics",
+      "In 2004"
+    ],
+    "links": {
+      "official": "https://hcmus.edu.vn/giao-su-mai-hoang-bien-neu-khong-cong-tac-tai-truong-dh-khoa-hoc-tu-nhien-co-le-toi-chua-the-dat-chuan-giao-su-thoi-diem-nay/"
+    },
+    "sources": {
+      "bio": "https://hcmus.edu.vn/giao-su-mai-hoang-bien-neu-khong-cong-tac-tai-truong-dh-khoa-hoc-tu-nhien-co-le-toi-chua-the-dat-chuan-giao-su-thoi-diem-nay/",
+      "links": "https://hcmus.edu.vn/giao-su-mai-hoang-bien-neu-khong-cong-tac-tai-truong-dh-khoa-hoc-tu-nhien-co-le-toi-chua-the-dat-chuan-giao-su-thoi-diem-nay/",
+      "education": "https://en.hcmus.edu.vn/profile/assoc-prof-mai-hoang-bien/",
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/bcn-khoa-bo-mon"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-thanh-binh": {
+    "person_id": "hcmus:nguyen-thanh-binh",
+    "n": "Nguyễn Thanh Bình",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Toán ứng dụng Khoa Toán - Tin học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn khoa học dữ liệu"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/hcmus-nguyen-thanh-binh.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/tin-t%E1%BB%A9c/th%C3%B4ng-tin-to%C3%A1n-tin-h%E1%BB%8Dc/553-ph%E1%BB%8Fng-v%E1%BA%A5n-ti%E1%BA%BFn-s%C4%A9-nguy%E1%BB%85n-thanh-b%C3%ACnh"
+    },
+    "sources": {
+      "links": "https://www.math.hcmus.edu.vn/tin-t%E1%BB%A9c/th%C3%B4ng-tin-to%C3%A1n-tin-h%E1%BB%8Dc/553-ph%E1%BB%8Fng-v%E1%BA%A5n-ti%E1%BA%BFn-s%C4%A9-nguy%E1%BB%85n-thanh-b%C3%ACnh",
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "review_status": "pending"
+  },
+  "uel:pham-duc-chinh": {
+    "person_id": "uel:pham-duc-chinh",
+    "n": "Phạm Đức Chính",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:hoang-duc-huy": {
+    "person_id": "hcmus:hoang-duc-huy",
+    "n": "Hoàng Đức Huy",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Sinh học - Công nghệ sinh học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-hoang-duc-huy.jpg",
+    "photo_status": "pending",
+    "bio": "Ngày 22-24 tháng Tám năm 2017, tại Thành phố Hồ Chí Minh, Hội thảo thường niên của Hiệp hội các nhà Ngư học Châu Á đã được long trọng diễn ra dưới sự tổ chức của trường Đại học Khoa học Tự nhiên, ĐH Quốc gia Thành phố Hồ Chí Minh và Hiệp hội các nhà Ngư học Châu Á và sự chủ trì của PGS.TS. Hoàng Đức Huy-ĐH Khoa học Tự nhiên-ĐHQG Tp.HCM.",
+    "expertise": [],
+    "education": [
+      "In 1998 VNUHCM-University of Science BSc of Biology In 2002 Seoul Women’s University, Korea MSc Environmental Biology In 2005 Seoul Women’s University, Korea DSc of Ecology and Evolutionary Biology",
+      "In 1998"
+    ],
+    "links": {
+      "official": "https://en.hcmus.edu.vn/profile/assoc-prof-dr-hoang-duc-huy/"
+    },
+    "sources": {
+      "education": "https://en.hcmus.edu.vn/profile/assoc-prof-dr-hoang-duc-huy/",
+      "links": "https://en.hcmus.edu.vn/profile/assoc-prof-dr-hoang-duc-huy/",
+      "photo": "https://en.hcmus.edu.vn/profile/assoc-prof-dr-hoang-duc-huy/0813-hoangduchuy-hoang-duc-huy/",
+      "bio": "https://hcmus.edu.vn/hoi-thao-thuong-nien-cua-hiep-hoi-cac-nha-ngu-hoc-chau-a-asi-2017/"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-dinh-huy": {
+    "person_id": "hcmut:nguyen-dinh-huy",
+    "n": "Nguyễn Đình Huy",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:huynh-ky-phuong-ha": {
+    "person_id": "hcmut:huynh-ky-phuong-ha",
+    "n": "Huỳnh Kỳ Phương Hạ",
+    "t": "PGS.TS.",
+    "cv": "Trưởng phòng Tổ chức - Hành chính, giảng viên, Khoa Kỹ thuật Hoá học, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:tran-thu-hanh": {
+    "person_id": "hcmut:tran-thu-hanh",
+    "n": "Trần Thu Hạnh",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Vật lý Kỹ thuật Y sinh, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-thi-thuy-hang": {
+    "person_id": "hcmut:nguyen-thi-thuy-hang",
+    "n": "Nguyễn Thị Thúy Hằng",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Ứng dụng, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:huynh-quang-linh": {
+    "person_id": "hcmut:huynh-quang-linh",
+    "n": "Huỳnh Quang Linh",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Kỹ thuật Y sinh Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:vu-duc-lung": {
+    "person_id": "uit:vu-duc-lung",
+    "n": "Vũ Đức Lung",
+    "t": "PGS.TS.",
+    "cv": "Chủ tịch Hội đồng trường, Trường Đại học Công nghệ thông tin",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Kiến trúc máy tính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:huynh-kim-lam": {
+    "person_id": "iu:huynh-kim-lam",
+    "n": "Huỳnh Kim Lâm",
+    "t": "PGS.TS.",
+    "cv": "Trưởng khoa Khoa Kỹ thuật Hóa học và Môi trường Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-hong-nga": {
+    "person_id": "uel:nguyen-hong-nga",
+    "n": "Nguyễn Hồng Nga",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường Đại học Kinh tế - Luật (Trường ĐH KTL)",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-phuong": {
+    "person_id": "uel:le-phuong",
+    "n": "Lê Phương",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:quach-ngo-diem-phuong": {
+    "person_id": "hcmus:quach-ngo-diem-phuong",
+    "n": "Quách Ngô Diễm Phương",
+    "t": "PGS.TS.",
+    "cv": "Trưởng khoa Khoa Sinh học - Công nghệ sinh học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmus.edu.vn/hoi-dong-khoa-hoc-va-dao-tao/"
+    },
+    "sources": {
+      "links": "https://hcmus.edu.vn/hoi-dong-khoa-hoc-va-dao-tao/"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:tran-hoang-phuong": {
+    "person_id": "hcmus:tran-hoang-phuong",
+    "n": "Trần Hoàng Phương",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Khoa Hóa học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:pham-quoc-thuan": {
+    "person_id": "uel:pham-quoc-thuan",
+    "n": "Phạm Quốc Thuần",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Kế toán Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:nguyen-van-thuan": {
+    "person_id": "iu:nguyen-van-thuan",
+    "n": "Nguyễn Văn Thuận",
+    "t": "PGS.TS.",
+    "cv": "Trưởng khoa Khoa Công nghệ sinh học Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:bui-hong-thuy": {
+    "person_id": "iu:bui-hong-thuy",
+    "n": "Bùi Hồng Thủy",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Công nghệ sinh học Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:le-thi-thuy-tien": {
+    "person_id": "hcmut:le-thi-thuy-tien",
+    "n": "Lê Thị Thủy Tiên",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Bộ môn Công nghệ sinh học Khoa Kỹ thuật Hóa học Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:nguyen-thao-trang": {
+    "person_id": "iu:nguyen-thao-trang",
+    "n": "Nguyễn Thảo Trang",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Kỹ thuật Hóa học và Môi trường Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-cong-tranh": {
+    "person_id": "hcmus:nguyen-cong-tranh",
+    "n": "Nguyễn Công Tránh",
+    "t": "PGS.TS.",
+    "cv": "Phó Trưởng khoa Khoa Hóa học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:nguyen-minh-tri": {
+    "person_id": "uit:nguyen-minh-tri",
+    "n": "Nguyễn Minh Trí",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Bộ môn Toán - Lý Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Khối học phần Toán rời rạc"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://tuyensinh.uit.edu.vn/truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm"
+    },
+    "sources": {
+      "links": "https://tuyensinh.uit.edu.vn/truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm"
+    },
+    "review_status": "pending"
+  },
+  "uit:cao-thanh-tinh": {
+    "person_id": "uit:cao-thanh-tinh",
+    "n": "Cao Thanh Tình",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Toán - Lý Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Khối học phần Toán rời rạc"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/uit-cao-thanh-tinh.jpg",
+    "photo_status": "pending",
+    "bio": "Vừa qua, TS Cao Thanh Tình - Giảng viên Bộ môn Toán Lý, Trường Đại học Công nghệ Thông tin (UIT) được Đại học Quốc gia Thành phố Hồ Chí Minh vinh danh là “Giảng viên của năm 2022”. Đây là giải thưởng tôn vinh các giảng viên đạt nhiều thành tích cao trong công tác giảng dạy, nghiên cứu khoa học, là tấm gương điển hình góp phần xây dựng đội ngũ cán bộ giảng dạy ĐHQG-HCM có năng lực toàn diện, có phẩm chất và uy tín cao đáp ứng yêu cầu của công tác giáo dục và đào tạo hiện nay.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://tuyensinh.uit.edu.vn/ts-cao-thanh-tinh-phuong-huong-phat-trien-mang-tam-chien-luoc-khien-toi-mong-muon-tro-thanh-mot-phan-tai-uit"
+    },
+    "sources": {
+      "bio": "https://tuyensinh.uit.edu.vn/ts-cao-thanh-tinh-phuong-huong-phat-trien-mang-tam-chien-luoc-khien-toi-mong-muon-tro-thanh-mot-phan-tai-uit",
+      "links": "https://tuyensinh.uit.edu.vn/ts-cao-thanh-tinh-phuong-huong-phat-trien-mang-tam-chien-luoc-khien-toi-mong-muon-tro-thanh-mot-phan-tai-uit",
+      "photo": "https://tuyensinh.uit.edu.vn/cau-chuyen-uit?qt-th_ng_b_o=0&page=12"
+    },
+    "review_status": "pending"
+  },
+  "ussh:vu-tinh": {
+    "person_id": "ussh:vu-tinh",
+    "n": "Vũ Tình",
+    "t": "PGS.TS.",
+    "cv": "Nguyên Phó Hiệu trưởng Trường Đại học Khoa học Xã hội và Nhân văn",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Triết học Mác - Lênin",
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://thuvien.hcmussh.edu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=52033&query_desc=au%3A%22V%C5%A9%2C%20T%C3%ACnh%2C%22"
+    },
+    "sources": {
+      "links": "https://thuvien.hcmussh.edu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=52033&query_desc=au%3A%22V%C5%A9%2C%20T%C3%ACnh%2C%22"
+    },
+    "review_status": "pending"
+  },
+  "uel:do-phu-tran-tinh": {
+    "person_id": "uel:do-phu-tran-tinh",
+    "n": "Đỗ Phú Trần Tình",
+    "t": "PGS.TS.",
+    "cv": "Trưởng Bộ môn Kinh tế học Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế chính trị Mác - Lênin",
+      "Kinh tế vĩ mô"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": "PGS.TS ĐỖ PHÚ TRẦN TÌNH PHÂN TÍCH CHUYỂN ĐỘNG CỦA BÁO CHÍ TRONG KỶ NGUYÊN SỐ NHÂN DỊP 100 NĂM NGÀY BÁO CHÍ CÁCH MẠNG VIỆT NAM",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://idp.uel.edu.vn/hoat-dong-nghien-cuu-5/pgsts-do-phu-tran-tinh-phan-tich-chuyen-dong-cua-bao-chi-trong-ky-nguyen-so-nhan-dip-100-nam-ngay-bao-chi-cach-mang-viet-nam"
+    },
+    "sources": {
+      "bio": "https://idp.uel.edu.vn/hoat-dong-nghien-cuu-5/pgsts-do-phu-tran-tinh-phan-tich-chuyen-dong-cua-bao-chi-trong-ky-nguyen-so-nhan-dip-100-nam-ngay-bao-chi-cach-mang-viet-nam",
+      "links": "https://idp.uel.edu.vn/hoat-dong-nghien-cuu-5/pgsts-do-phu-tran-tinh-phan-tich-chuyen-dong-cua-bao-chi-trong-ky-nguyen-so-nhan-dip-100-nam-ngay-bao-chi-cach-mang-viet-nam"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:le-minh-vien": {
+    "person_id": "hcmut:le-minh-vien",
+    "n": "Lê Minh Viễn",
+    "t": "PGS.TS.",
+    "cv": "Chủ nhiệm bộ môn Kỹ thuật Hóa vô cơ, giảng viên, Khoa Kỹ thuật Hoá học, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:pham-thi-thanh-xuan": {
+    "person_id": "uel:pham-thi-thanh-xuan",
+    "n": "Phạm Thị Thanh Xuân",
+    "t": "PGS.TS.",
+    "cv": "Giảng viên Khoa Tài chính - Ngân hàng, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý thị trường tài chính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-thi-thanh-an": {
+    "person_id": "uel:le-thi-thanh-an",
+    "n": "Lê Thị Thanh An",
+    "t": "TS.",
+    "cv": "Trưởng Bộ môn Toán Kinh tế Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:mai-truong-an": {
+    "person_id": "uel:mai-truong-an",
+    "n": "Mai Trường An",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "agu:huynh-anh": {
+    "person_id": "agu:huynh-anh",
+    "n": "Huỳnh Anh",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Luật Khoa Luật và Khoa học chính trị Trường Đại học An Giang",
+    "dv": "Trường Đại học An Giang",
+    "u": "agu",
+    "us": "ĐH An Giang",
+    "mon": [
+      "Pháp luật đại cương"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-hoang-anh": {
+    "person_id": "uel:nguyen-hoang-anh",
+    "n": "Nguyễn Hoàng Anh",
+    "t": "TS.",
+    "cv": "Trưởng Bộ môn Tài chính Khoa Tài chính - Ngân hàng, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý thị trường tài chính"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Ngày 13/05/2026, NCS Nguyễn Hoàng Anh đã bảo vệ thành công luận án tiến sĩ cấp trường, ngành Kinh tế chính trị tại Trường Đại học Kinh tế - Luật, ĐHQG-HCM (UEL).",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://uel.edu.vn/ncs-nguyen-hoang-anh-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-chinh-tri"
+    },
+    "sources": {
+      "bio": "https://uel.edu.vn/ncs-nguyen-hoang-anh-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-chinh-tri",
+      "links": "https://uel.edu.vn/ncs-nguyen-hoang-anh-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-chinh-tri"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-dinh-binh": {
+    "person_id": "uel:nguyen-dinh-binh",
+    "n": "Nguyễn Đình Bình",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Kinh tế Trường Đại học Kinh tế - Luật (Trường ĐH KTL)",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế chính trị Mác - Lênin"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Sáng ngày 10.10.2018, tại Trường Đại học Kinh tế - Luật (ĐHQG TP.HCM), nghiên cứu sinh Nguyễn Đình Bình đã bảo vệ thành công luận án tiến sĩ kinh tế cấp cơ sở đào tạo",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.uel.edu.vn/nghien-cuu-sinh-nguyen-dinh-binh-bao-ve-thanh-cong-luan-an-tien-si"
+    },
+    "sources": {
+      "bio": "https://www.uel.edu.vn/nghien-cuu-sinh-nguyen-dinh-binh-bao-ve-thanh-cong-luan-an-tien-si",
+      "links": "https://www.uel.edu.vn/nghien-cuu-sinh-nguyen-dinh-binh-bao-ve-thanh-cong-luan-an-tien-si"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-xuan-duy-bao": {
+    "person_id": "hcmut:nguyen-xuan-duy-bao",
+    "n": "Nguyễn Xuân Duy Bảo",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "ussh:ho-vo-que-chi": {
+    "person_id": "ussh:ho-vo-que-chi",
+    "n": "Hồ Võ Quế Chi",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Giáo dục Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tâm lý học"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/ussh-ho-vo-que-chi.jpg",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hrc.hcmussh.edu.vn/giang-vien/ho-vo-que-chi/"
+    },
+    "sources": {
+      "photo": "https://hrc.hcmussh.edu.vn/giang-vien/ho-vo-que-chi/",
+      "links": "https://hrc.hcmussh.edu.vn/giang-vien/ho-vo-que-chi/"
+    },
+    "review_status": "pending"
+  },
+  "uel:huynh-ngoc-chuong": {
+    "person_id": "uel:huynh-ngoc-chuong",
+    "n": "Huỳnh Ngọc Chương",
+    "t": "TS.",
+    "cv": "Giảng viên, Khoa Kinh tế Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vĩ mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Ngày 28/6/2023 tại Trường Đại học Kinh tế - Luật, NCS Huỳnh Ngọc Chương đã bảo vệ thành công luận án tiến sĩ cấp cơ sở đào tạo, chuyên ngành Kinh tế học",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.uel.edu.vn/ncs-huynh-ngoc-chuong-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-hoc"
+    },
+    "sources": {
+      "bio": "https://www.uel.edu.vn/ncs-huynh-ngoc-chuong-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-hoc",
+      "links": "https://www.uel.edu.vn/ncs-huynh-ngoc-chuong-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-hoc"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:phan-ngoc-khuong-cat": {
+    "person_id": "hcmut:phan-ngoc-khuong-cat",
+    "n": "Phan Ngọc Khương Cát",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "ussh:pham-thi-dinh": {
+    "person_id": "ussh:pham-thi-dinh",
+    "n": "Phạm Thị Dinh",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Chủ nghĩa xã hội khoa học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/news/item/21102"
+    },
+    "sources": {
+      "links": "https://hcmussh.edu.vn/news/item/21102"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:huynh-thi-hong-diem": {
+    "person_id": "hcmut:huynh-thi-hong-diem",
+    "n": "Huỳnh Thị Hồng Diễm",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:tran-ngoc-diem": {
+    "person_id": "hcmut:tran-ngoc-diem",
+    "n": "Trần Ngọc Diễm",
+    "t": "TS.",
+    "cv": "Phó Trưởng Bộ môn Toán Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-thi-kim-dung": {
+    "person_id": "hcmus:nguyen-thi-kim-dung",
+    "n": "Nguyễn Thị Kim Dung",
+    "t": "TS.",
+    "cv": "Trưởng Bộ môn Bộ môn Sinh thái và Sinh học tiến hóa Khoa Sinh học - Công nghệ sinh học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmus.edu.vn/dong-luc-he-thong-sinh-thai-xa-hoi-goc-nhin-tap-trung-vao-cac-ben-lien-quan-trong-bao-ton/"
+    },
+    "sources": {
+      "links": "https://hcmus.edu.vn/dong-luc-he-thong-sinh-thai-xa-hoi-goc-nhin-tap-trung-vao-cac-ben-lien-quan-trong-bao-ton/"
+    },
+    "review_status": "pending"
+  },
+  "ussh:nguyen-thi-thuy-duyen": {
+    "person_id": "ussh:nguyen-thi-thuy-duyen",
+    "n": "Nguyễn Thị Thùy Duyên",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Chủ nghĩa xã hội khoa học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://thuvien.hcmussh.edu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=51537&query_desc=su%3A%22Tri%E1%BA%BFt%20h%E1%BB%8Dc%22"
+    },
+    "sources": {
+      "links": "https://thuvien.hcmussh.edu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=51537&query_desc=su%3A%22Tri%E1%BA%BFt%20h%E1%BB%8Dc%22"
+    },
+    "review_status": "pending"
+  },
+  "iu:huynh-vo-trung-dung": {
+    "person_id": "iu:huynh-vo-trung-dung",
+    "n": "Huỳnh Võ Trung Dũng",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Điện - Điện Tử Trường Đại học Quốc tế",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Kỹ năng số"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-tien-dung": {
+    "person_id": "hcmut:nguyen-tien-dung",
+    "n": "Nguyễn Tiến Dũng",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:le-hai-duong": {
+    "person_id": "iu:le-hai-duong",
+    "n": "Lê Hải Dương",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Lập trình hướng đối tượng",
+      "Trực quan hóa dữ liệu"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:le-thuy-thanh-giang": {
+    "person_id": "hcmus:le-thuy-thanh-giang",
+    "n": "Lê Thụy Thanh Giang",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý chất rắn Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-le-thuy-thanh-giang.jpg",
+    "photo_status": "pending",
+    "bio": "TS. Lê Thụy Thanh Giang - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [
+      "PhD.: Grenoble Alpes University, France, 2014."
+    ],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-chat-ran/nhan-su/ts-le-thuy-thanh-giang"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-chat-ran/nhan-su/ts-le-thuy-thanh-giang",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-chat-ran/nhan-su/ts-le-thuy-thanh-giang",
+      "education": "https://phys.hcmus.edu.vn/vi/vat-ly-chat-ran/nhan-su/ts-le-thuy-thanh-giang",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-chat-ran/nhan-su/ts-le-thuy-thanh-giang"
+    },
+    "review_status": "pending"
+  },
+  "uel:ha-van-hieu": {
+    "person_id": "uel:ha-van-hieu",
+    "n": "Hà Văn Hiếu",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-tri-hieu": {
+    "person_id": "hcmus:nguyen-tri-hieu",
+    "n": "Nguyễn Trí Hiếu",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Hóa học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:dau-sy-hieu": {
+    "person_id": "hcmut:dau-sy-hieu",
+    "n": "Đậu Sỹ Hiếu",
+    "t": "TS.",
+    "cv": "Trưởng Bộ môn Vật lý Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-huu-hiep": {
+    "person_id": "hcmut:nguyen-huu-hiep",
+    "n": "Nguyễn Hữu Hiệp",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Toán Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-thanh-hoa": {
+    "person_id": "uel:le-thanh-hoa",
+    "n": "Lê Thanh Hoa",
+    "t": "TS.",
+    "cv": "Trưởng Bộ môn Phân tích dữ liệu Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-ngoc-huy": {
+    "person_id": "uel:nguyen-ngoc-huy",
+    "n": "Nguyễn Ngọc Huy",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-tien-huy": {
+    "person_id": "hcmus:nguyen-tien-huy",
+    "n": "Nguyễn Tiến Huy",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-thanh-huyen": {
+    "person_id": "uel:nguyen-thanh-huyen",
+    "n": "Nguyễn Thanh Huyền",
+    "t": "TS.",
+    "cv": "Giảng viên, Khoa Kinh tế Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vĩ mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Ngày 27/4/2023, NCS Nguyễn Thanh Huyền đã bảo vệ thành công luận án tiến sĩ cấp cơ sở đào tạo, chuyên ngành Kinh tế học tại Trường Đại học Kinh tế - Luật.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.uel.edu.vn/ncs-nguyen-thanh-huyen-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-hoc"
+    },
+    "sources": {
+      "bio": "https://www.uel.edu.vn/ncs-nguyen-thanh-huyen-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-hoc",
+      "links": "https://www.uel.edu.vn/ncs-nguyen-thanh-huyen-bao-ve-thanh-cong-luan-an-tien-si-nganh-kinh-te-hoc"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:hoang-van-ha": {
+    "person_id": "hcmus:hoang-van-ha",
+    "n": "Hoàng Văn Hà",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Toán - Tin học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Xác suất thống kê"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/hcmus-hoang-van-ha.jpg",
+    "photo_status": "pending",
+    "bio": "WORLDQUANT OFFICE TOURProf. Laurent Delsol -  StatisticsProf. Gaël Raoul - Theoretical partial differential equationsProf. Marc Peigné - ProbabilitiesThS. Trần Quang Vinh - TS. Hoàng Văn Hà - Xác suấtTS. Nguyễn Đình Thi - Giải tích cơ sởTS. Nguyễn Thị Hoài Thương - Lập trình tính toánTS. Nguyễn Đăng Khoa - Tối ưu",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/gioi-thieu/bcn-khoa-bo-mon"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/bcn-khoa-bo-mon",
+      "links": "https://www.math.hcmus.edu.vn/gioi-thieu/bcn-khoa-bo-mon",
+      "bio": "https://mfvma.hcmus.edu.vn/pages/photo-gallery-2025-2026"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:phan-thi-huong": {
+    "person_id": "hcmut:phan-thi-huong",
+    "n": "Phan Thị Hường",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:vo-duc-cam-hai": {
+    "person_id": "hcmus:vo-duc-cam-hai",
+    "n": "Võ Đức Cẩm Hải",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Toán - Tin học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn khoa học dữ liệu"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-vo-duc-cam-hai.jpg",
+    "photo_status": "pending",
+    "bio": "Mở đầu chương trình, TS. Võ Đức Cẩm Hải – Phó Trưởng khoa Toán – Tin học trình bày báo cáo tổng hợp, trong đó phân tích rõ bức tranh hiện tại của ngành Toán tại Trường và trong hệ thống ĐHQG-HCM , trên cơ sở dữ liệu cụ thể.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/tin-tuc/20-t%E1%BB%95-ch%E1%BB%A9c"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/tin-tuc/20-t%E1%BB%95-ch%E1%BB%A9c",
+      "links": "https://www.math.hcmus.edu.vn/tin-tuc/20-t%E1%BB%95-ch%E1%BB%A9c",
+      "bio": "https://hcmus.edu.vn/toa-dam-lay-y-kien-de-an-phat-trien-nganh-toan/"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-trung-hau": {
+    "person_id": "hcmut:nguyen-trung-hau",
+    "n": "Nguyễn Trung Hậu",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Kỹ thuật Y sinh, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "ussh:dao-tuan-hau": {
+    "person_id": "ussh:dao-tuan-hau",
+    "n": "Đào Tuấn Hậu",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Khoa học liên ngành Trường Đại học Khoa học Xã hội và Nhân văn (Trường ĐH KHXH&NV)",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh",
+      "Chủ nghĩa xã hội khoa học"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Tại chương trình, các đại biểu lắng nghe các báo cáo chuyên đề xoay quanh công tác đào tạo. Mở đầu, TS. Đào Tuấn Hậu, Phó Trưởng khoa Khoa học liên ngành báo cáo tình hình và lộ trình triển khai Chương trình Giáo dục đại cương - liên ngành bằng tiếng Anh. Thầy cho biết: “Việc triển khai chương trình giáo dục đại cương liên ngành bằng tiếng Anh nằm trong định hướng chung của nhà trường, đó là định hướng quốc tế hóa chương trình đào tạo, từng bước nâng cao năng lực sử dụng tiếng Anh trong học tập, nghiên cứu và hoạt động chuyên môn của sinh viên” .",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/news/item/20311"
+    },
+    "sources": {
+      "links": "https://hcmussh.edu.vn/news/item/20311",
+      "bio": "https://hcmussh.edu.vn/bai-viet/toa-dam-giang-day-chuong-trinh-giao-duc-dai-cuong-lien-nganh-bang-tieng-anh-tai-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dhqg-hcm"
+    },
+    "review_status": "pending"
+  },
+  "iu:do-xuan-hoi": {
+    "person_id": "iu:do-xuan-hoi",
+    "n": "Đỗ Xuân Hội",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:le-van-hop": {
+    "person_id": "hcmus:le-van-hop",
+    "n": "Lê Văn Hợp",
+    "t": "TS.",
+    "cv": "Giảng viên, Khoa Toán - Tin học, Trường Đại học Khoa học tự nhiên",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Đại số tuyến tính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-minh-kha": {
+    "person_id": "hcmut:nguyen-minh-kha",
+    "n": "Nguyễn Minh Kha",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Kỹ thuật Hóa học, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "PGS. TS. Nguyễn Minh Kha – Giảng viên Bộ môn Kỹ thuật Hóa Vô cơ, Phó trưởng khoa Khoa Kỹ thuật hóa học",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://fme.hcmut.edu.vn/truong-dai-hoc-bach-khoa-co-them-05-giao-su-va-09-pho-giao-su-nam-2025.html"
+    },
+    "sources": {
+      "bio": "https://fme.hcmut.edu.vn/truong-dai-hoc-bach-khoa-co-them-05-giao-su-va-09-pho-giao-su-nam-2025.html",
+      "links": "https://fme.hcmut.edu.vn/truong-dai-hoc-bach-khoa-co-them-05-giao-su-va-09-pho-giao-su-nam-2025.html"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-khoa": {
+    "person_id": "uel:nguyen-thi-khoa",
+    "n": "Nguyễn Thị Khoa",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Ngày 05/8/2016, tại Trường ĐH Kinh tế - Luật, ĐHQG HCM, Nghiên cứu sinh Nguyễn Thị Khoa đã bảo vệ thành công luận án tiến sĩ kinh tế chuyên ngành Kinh tế học.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.uel.edu.vn/nghien-cuu-sinh-nguyen-thi-khoa-bao-ve-thanh-cong-luan-an-tien-si-kinh-te-cap-co-so-dao-tao-chuyen-nganh-kinh-te-hoc"
+    },
+    "sources": {
+      "bio": "https://www.uel.edu.vn/nghien-cuu-sinh-nguyen-thi-khoa-bao-ve-thanh-cong-luan-an-tien-si-kinh-te-cap-co-so-dao-tao-chuyen-nganh-kinh-te-hoc",
+      "links": "https://www.uel.edu.vn/nghien-cuu-sinh-nguyen-thi-khoa-bao-ve-thanh-cong-luan-an-tien-si-kinh-te-cap-co-so-dao-tao-chuyen-nganh-kinh-te-hoc"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:le-quoc-khai": {
+    "person_id": "hcmut:le-quoc-khai",
+    "n": "Lê Quốc Khải",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Kỹ thuật Y sinh, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-kien": {
+    "person_id": "uel:le-kien",
+    "n": "Lê Kiên",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:do-thuong-kiet": {
+    "person_id": "hcmus:do-thuong-kiet",
+    "n": "Đỗ Thường Kiệt",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Sinh học - Công nghệ sinh học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-do-thuong-kiet.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [
+      "Kiểm soát các quá trình liên quan đến ánh sáng và quang hợp ở thực vật (phát sinh hình thái",
+      "cân bằng năng lượng",
+      "stress ánh sáng",
+      "source-sink và hợp chất thứ cấp",
+      ")"
+    ],
+    "education": [
+      "Thời gian"
+    ],
+    "links": {
+      "official": "https://fbb.hcmus.edu.vn/do-thuong-kiet3.html"
+    },
+    "sources": {
+      "photo": "https://fbb.hcmus.edu.vn/do-thuong-kiet3.html",
+      "expertise": "https://fbb.hcmus.edu.vn/do-thuong-kiet3.html",
+      "education": "https://fbb.hcmus.edu.vn/do-thuong-kiet3.html",
+      "links": "https://fbb.hcmus.edu.vn/do-thuong-kiet3.html"
+    },
+    "review_status": "pending"
+  },
+  "ussh:lam-ngoc-linh": {
+    "person_id": "ussh:lam-ngoc-linh",
+    "n": "Lâm Ngọc Linh",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Chủ nghĩa xã hội khoa học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/news/item/22535"
+    },
+    "sources": {
+      "links": "https://hcmussh.edu.vn/news/item/22535"
+    },
+    "review_status": "pending"
+  },
+  "ussh:nguyen-thoai-linh": {
+    "person_id": "ussh:nguyen-thoai-linh",
+    "n": "Nguyễn Thoại Linh",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/news/item/3531"
+    },
+    "sources": {
+      "links": "https://hcmussh.edu.vn/news/item/3531"
+    },
+    "review_status": "pending"
+  },
+  "uel:tran-thi-hong-lien": {
+    "person_id": "uel:tran-thi-hong-lien",
+    "n": "Trần Thị Hồng Liên",
+    "t": "TS.",
+    "cv": "Trưởng khoa Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/uel-tran-thi-hong-lien.jpg",
+    "photo_status": "pending",
+    "bio": "PGS.TS Trần Thị Hồng Liên – Trưởng khoa Quản trị kinh doanh UEL",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.uel.edu.vn/uel-gioi-thieu-pgsts-tran-thi-hong-lien-ung-cu-dai-bieu-quoc-hoi-khoa-xvi"
+    },
+    "sources": {
+      "links": "https://www.uel.edu.vn/uel-gioi-thieu-pgsts-tran-thi-hong-lien-ung-cu-dai-bieu-quoc-hoi-khoa-xvi",
+      "bio": "https://tuyendung.uel.edu.vn/vi/nhip-song-uel/69ce0e889501f9fe3c55381e",
+      "photo": "https://uel.edu.vn/tin-tuc?page=9"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:dang-hai-long": {
+    "person_id": "hcmut:dang-hai-long",
+    "n": "Đặng Hải Long",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Toán Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:le-van-luyen": {
+    "person_id": "hcmus:le-van-luyen",
+    "n": "Lê Văn Luyện",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán - Tin học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Đại số tuyến tính"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-le-van-luyen.jpg",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/tin-tuc/20-t%E1%BB%95-ch%E1%BB%A9c"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/tin-tuc/20-t%E1%BB%95-ch%E1%BB%A9c",
+      "links": "https://www.math.hcmus.edu.vn/tin-tuc/20-t%E1%BB%95-ch%E1%BB%A9c"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-quoc-lan": {
+    "person_id": "hcmut:nguyen-quoc-lan",
+    "n": "Nguyễn Quốc Lân",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Toán Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:bui-tien-len": {
+    "person_id": "hcmus:bui-tien-len",
+    "n": "Bùi Tiến Lên",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:tran-van-luong": {
+    "person_id": "hcmut:tran-van-luong",
+    "n": "Trần Văn Lượng",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Ứng dụng, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:tran-ngoc-mai": {
+    "person_id": "hcmus:tran-ngoc-mai",
+    "n": "Trần Ngọc Mai",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Hóa học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:than-ngoc-minh": {
+    "person_id": "uel:than-ngoc-minh",
+    "n": "Thân Ngọc Minh",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Tài chính - Ngân hàng, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý thị trường tài chính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:pham-thi-hai-mien": {
+    "person_id": "hcmut:pham-thi-hai-mien",
+    "n": "Phạm Thị Hải Miền",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Ứng dụng, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:pham-thi-le-na": {
+    "person_id": "hcmut:pham-thi-le-na",
+    "n": "Phạm Thị Lê Na",
+    "t": "TS.",
+    "cv": "Giảng viên, Khoa Kỹ thuật Hoá học, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:duong-nguyen-hong-nhung": {
+    "person_id": "hcmut:duong-nguyen-hong-nhung",
+    "n": "Dương Nguyễn Hồng Nhung",
+    "t": "TS.",
+    "cv": "Giảng viên, Khoa Kỹ thuật Hoá học, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-thi-hong-nhung": {
+    "person_id": "hcmus:nguyen-thi-hong-nhung",
+    "n": "Nguyễn Thị Hồng Nhung",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán - Tin học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Xác suất thống kê"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-nguyen-thi-hong-nhung.jpg",
+    "photo_status": "pending",
+    "bio": "Sáng ngày 19 tháng 01, tại phòng F102, trường Đại học Khoa học tự nhiên, ĐHQG-HCM, Nghiên cứu sinh (NCS) Nguyễn Thị Hồng Nhung đã bảo vệ thành công luận án tiến sĩ với đề tài “Chỉnh hóa bài toán sideways”. Luận án được thực hiện dưới sự hướng dẫn của GS.TS. Đặng Đức Trọng , thuộc ngành Toán ứng dụng.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmus.edu.vn/nghien-cuu-sinh-nguyen-thi-hong-nhung-bao-ve-luan-an-tien-si-cap-co-so-dao-tao-voi-de-tai-chinh-hoa-bai-toan-sideways/"
+    },
+    "sources": {
+      "bio": "https://hcmus.edu.vn/nghien-cuu-sinh-nguyen-thi-hong-nhung-bao-ve-luan-an-tien-si-cap-co-so-dao-tao-voi-de-tai-chinh-hoa-bai-toan-sideways/",
+      "links": "https://hcmus.edu.vn/nghien-cuu-sinh-nguyen-thi-hong-nhung-bao-ve-luan-an-tien-si-cap-co-so-dao-tao-voi-de-tai-chinh-hoa-bai-toan-sideways/",
+      "photo": "https://en.hcmus.edu.vn/doctoral-thesis-defence-doctoral-candidate-nguyen-thi-hong-nhung-defended-the-doctoral-thesis-at-university-level-on-the-topic-sideways-problem-formulation/"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-huu-nha": {
+    "person_id": "hcmus:nguyen-huu-nha",
+    "n": "Nguyễn Hữu Nhã",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý lý thuyết Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-nguyen-huu-nha.jpg",
+    "photo_status": "pending",
+    "bio": "TS. Nguyễn Hữu Nhã - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-ly-thuyet/nhan-su/nhh",
+      "orcid": "https://orcid.org/0000-0002-9009-4025"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-ly-thuyet/nhan-su/nhh",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-ly-thuyet/nhan-su/nhh",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-ly-thuyet/nhan-su/nhh"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:bui-thi-ngoc-oanh": {
+    "person_id": "hcmus:bui-thi-ngoc-oanh",
+    "n": "Bùi Thị Ngọc Oanh",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Hải dương - Khí tượng - Thủy văn Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [
+      "Thủy động lực học vùng rừng ngập mặn",
+      "vùng ven bờ",
+      "sông ngòi",
+      "vùng cửa sông và biển",
+      "Quá trình động lực xói lở và bồi tụ trầm tích trong vùng rừng ngập mặn"
+    ],
+    "education": [],
+    "links": {
+      "official": "https://oceanology.hcmus.edu.vn/gioi-thieu-bo-mon/nhan-su/"
+    },
+    "sources": {
+      "expertise": "https://oceanology.hcmus.edu.vn/gioi-thieu-bo-mon/nhan-su/",
+      "links": "https://oceanology.hcmus.edu.vn/gioi-thieu-bo-mon/nhan-su/"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:dau-the-phiet": {
+    "person_id": "hcmut:dau-the-phiet",
+    "n": "Đậu Thế Phiệt",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:bui-kim-phuong": {
+    "person_id": "uel:bui-kim-phuong",
+    "n": "Bùi Kim Phương",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Tài chính - Ngân hàng, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý thị trường tài chính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-anh-phuong": {
+    "person_id": "uel:nguyen-anh-phuong",
+    "n": "Nguyễn Anh Phương",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-phuc-son": {
+    "person_id": "uel:nguyen-phuc-son",
+    "n": "Nguyễn Phúc Sơn",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Toán Kinh tế Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:ngo-thi-thuan": {
+    "person_id": "iu:ngo-thi-thuan",
+    "n": "Ngô Thị Thuận",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Kỹ thuật Hóa học và Môi trường Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:vi-chi-thanh": {
+    "person_id": "iu:vi-chi-thanh",
+    "n": "Vi Chí Thành",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Lập trình hướng đối tượng",
+      "Trực quan hóa dữ liệu"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-ngoc-thao": {
+    "person_id": "hcmus:nguyen-ngoc-thao",
+    "n": "Nguyễn Ngọc Thảo",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-nguyen-ngoc-thao.jpg",
+    "photo_status": "pending",
+    "bio": "CN. Nguyễn Ngọc Thảo Nhi - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/cn-nguyen-ngoc-thao-nhi"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/cn-nguyen-ngoc-thao-nhi",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/cn-nguyen-ngoc-thao-nhi",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/cn-nguyen-ngoc-thao-nhi"
+    },
+    "review_status": "pending"
+  },
+  "ussh:vu-thi-thanh-thao": {
+    "person_id": "ussh:vu-thi-thanh-thao",
+    "n": "Vũ Thị Thanh Thảo",
+    "t": "TS.",
+    "cv": "Chủ nhiệm Bộ môn Triết học Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Chủ nghĩa xã hội khoa học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Tại phiên toàn thể, tham luận “Từ điểm mới về văn hóa, con người trong Đại hội XIV đến đổi mới nội dung giảng dạy Triết học Mác – Lênin” của TS. Phạm Thị Loan và TS. Vũ Thị Thanh Thảo tập trung phân tích những điểm mới trong tư duy của Đảng về giá trị văn hóa và hệ giá trị con người Việt Nam. Từ đó, nhóm tác giả đề xuất tích hợp những nội dung này vào giảng dạy Triết học Mác – Lênin theo hướng gắn lý luận với thực tiễn, góp phần tăng cường năng lực tư duy và khả năng vận dụng của người học.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/bai-viet/nha-truong-dong-gop-nhieu-goc-nhin-moi-ve-van-dung-van-kien-dai-hoi-xiv-trong-giang-day-ly-luan-chinh-tri"
+    },
+    "sources": {
+      "bio": "https://hcmussh.edu.vn/bai-viet/nha-truong-dong-gop-nhieu-goc-nhin-moi-ve-van-dung-van-kien-dai-hoi-xiv-trong-giang-day-ly-luan-chinh-tri",
+      "links": "https://hcmussh.edu.vn/bai-viet/nha-truong-dong-gop-nhieu-goc-nhin-moi-ve-van-dung-van-kien-dai-hoi-xiv-trong-giang-day-ly-luan-chinh-tri"
+    },
+    "review_status": "pending"
+  },
+  "uel:ho-xuan-thuy": {
+    "person_id": "uel:ho-xuan-thuy",
+    "n": "Hồ Xuân Thủy",
+    "t": "TS.",
+    "cv": "Trưởng Khoa Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:phung-trong-thuc": {
+    "person_id": "hcmut:phung-trong-thuc",
+    "n": "Phùng Trọng Thực",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:nguyen-vinh-tiep": {
+    "person_id": "uit:nguyen-vinh-tiep",
+    "n": "Nguyễn Vinh Tiệp",
+    "t": "TS.",
+    "cv": "Trưởng phòng, Phòng thí nghiệm Truyền thông đa phương tiện, Trường Đại học Công nghệ thông tin (Trường ĐH CNTT)",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Lập trình Python",
+      "Phân tích dữ liệu với Python"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Trường Đại học Công nghệ Thông tin sẽ tổ chức phiên họp Hội đồng đánh giá luận án tiến sĩ cấp Trường đối với: - Nghiên cứu sinh: Nguyễn Vinh Tiệp, Chuyên ngành: Khoa học máy tính, Mã số: 62 48 01 01 (9 48 01 01). - Tên đề tài luận án: Truy vấn hiệu quả thông tin thị giác từ dữ liệu lớn để phát triển môi trường thông minh. - Thời gian: 14 giờ 00, ngày 06 tháng 8 năm 2019. -",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://sdh.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-phien-hop-hoi-dong-danh-gia-luan-tien-si-cap-truong-cua-ncs-nguyen"
+    },
+    "sources": {
+      "bio": "https://sdh.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-phien-hop-hoi-dong-danh-gia-luan-tien-si-cap-truong-cua-ncs-nguyen",
+      "links": "https://sdh.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-phien-hop-hoi-dong-danh-gia-luan-tien-si-cap-truong-cua-ncs-nguyen"
+    },
+    "review_status": "pending"
+  },
+  "ussh:vu-toan": {
+    "person_id": "ussh:vu-toan",
+    "n": "Vũ Toản",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:duong-thi-nhu-tranh": {
+    "person_id": "hcmut:duong-thi-nhu-tranh",
+    "n": "Dương Thị Như Tranh",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý Ứng dụng, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:dang-hoai-trung": {
+    "person_id": "hcmus:dang-hoai-trung",
+    "n": "Đặng Hoài Trung",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/hcmus-dang-hoai-trung.png",
+    "photo_status": "pending",
+    "bio": "TS. Đặng Hoài Trung - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ts-dang-hoai-trung"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ts-dang-hoai-trung",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ts-dang-hoai-trung",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ts-dang-hoai-trung"
+    },
+    "review_status": "pending"
+  },
+  "uel:pham-trung-tuan": {
+    "person_id": "uel:pham-trung-tuan",
+    "n": "Phạm Trung Tuấn",
+    "t": "TS.",
+    "cv": "Trưởng Bộ môn Quản trị Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://international.uel.edu.vn/tat-ca-giang-vien/"
+    },
+    "sources": {
+      "links": "https://international.uel.edu.vn/tat-ca-giang-vien/"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:tran-anh-tuan": {
+    "person_id": "hcmus:tran-anh-tuan",
+    "n": "Trần Anh Tuấn",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán - Tin học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn khoa học dữ liệu"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-tran-anh-tuan.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon",
+      "links": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "review_status": "pending"
+  },
+  "iu:le-duy-tan": {
+    "person_id": "iu:le-duy-tan",
+    "n": "Lê Duy Tân",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Công nghệ thông tin Trường Đại học Quốc tế",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Kỹ năng số"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "iu:tran-thanh-tung": {
+    "person_id": "iu:tran-thanh-tung",
+    "n": "Trần Thanh Tùng",
+    "t": "TS.",
+    "cv": "Phó Trưởng khoa Khoa Công nghệ thông tin (CNTT), Trường Đại học Quốc tế (Trường ĐHQT)",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Lập trình hướng đối tượng",
+      "Trực quan hóa dữ liệu"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:ly-anh-tu": {
+    "person_id": "hcmut:ly-anh-tu",
+    "n": "Lý Anh Tú",
+    "t": "TS.",
+    "cv": "Chủ nhiệm Bộ môn Vật lý Ứng dụng, Khoa Khoa học Ứng dụng, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "ussh:nguyen-van-tuong": {
+    "person_id": "ussh:nguyen-van-tuong",
+    "n": "Nguyễn Văn Tường",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Giáo dục Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tâm lý học"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/ussh-nguyen-van-tuong.jpg",
+    "photo_status": "pending",
+    "bio": "TTO - Một bộ sách dày hơn 1.800 trang tập hợp tư liệu về cuộc đời nhân vật Nguyễn Văn Tường - vị quan Phụ Chánh đại thần dưới triều Nguyễn - do người cháu cố là giáo sư Nguyễn Quốc Trị dày công khảo cứu vừa ra mắt bạn đọc Việt Nam.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hrc.hcmussh.edu.vn/giang-vien/nguyen-van-tuong/"
+    },
+    "sources": {
+      "photo": "https://hrc.hcmussh.edu.vn/giang-vien/nguyen-van-tuong/",
+      "links": "https://hrc.hcmussh.edu.vn/giang-vien/nguyen-van-tuong/",
+      "bio": "https://hcmussh.edu.vn/post/25794"
+    },
+    "review_status": "pending"
+  },
+  "uel:huynh-to-uyen": {
+    "person_id": "uel:huynh-to-uyen",
+    "n": "Huỳnh Tố Uyên",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Sáng ngày 22/03/2021, tại Trường Đại học Kinh tế - Luật, NCS Huỳnh Tố Uyên - giảng viên Khoa Toán Kinh Tế đã bảo vệ  thành công Luận án tiến sĩ, chuyên ngành Applied Statistics (Thống kê Ứng Dụng), tại Trường  Đại học Mahidol University, Bangkok, Thá...",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.uel.edu.vn/ncs-huynh-to-uyen-bao-ve-thanh-cong-luan-an-tien-si-bang-hinh-thuc-truc-tuyen"
+    },
+    "sources": {
+      "bio": "https://www.uel.edu.vn/ncs-huynh-to-uyen-bao-ve-thanh-cong-luan-an-tien-si-bang-hinh-thuc-truc-tuyen",
+      "links": "https://www.uel.edu.vn/ncs-huynh-to-uyen-bao-ve-thanh-cong-luan-an-tien-si-bang-hinh-thuc-truc-tuyen"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-thai-ngoc-uyen": {
+    "person_id": "hcmus:nguyen-thai-ngoc-uyen",
+    "n": "Nguyễn Thái Ngọc Uyên",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Khoa học Vật liệu, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:pham-hoang-uyen": {
+    "person_id": "uel:pham-hoang-uyen",
+    "n": "Phạm Hoàng Uyên",
+    "t": "TS.",
+    "cv": "Trưởng khoa Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:dang-van-vinh": {
+    "person_id": "hcmut:dang-van-vinh",
+    "n": "Đặng Văn Vinh",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Toán Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": true,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:nguyen-ngoc-ai-van": {
+    "person_id": "uit:nguyen-ngoc-ai-van",
+    "n": "Nguyễn Ngọc Ái Vân",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Toán - Lý Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Khối học phần Toán rời rạc"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://tuyensinh.uit.edu.vn/truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm"
+    },
+    "sources": {
+      "links": "https://tuyensinh.uit.edu.vn/truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:phan-thi-khanh-van": {
+    "person_id": "hcmut:phan-thi-khanh-van",
+    "n": "Phan Thị Khánh Vân",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Toán Ứng dụng Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:phan-trung-vinh": {
+    "person_id": "hcmus:phan-trung-vinh",
+    "n": "Phan Trung Vĩnh",
+    "t": "TS.",
+    "cv": "Giảng viên Bộ môn Vật lý ứng dụng Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-phan-trung-vinh.png",
+    "photo_status": "pending",
+    "bio": "TS. Phan Trung Vĩnh - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ts-phan-trung-vinh"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ts-phan-trung-vinh",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ts-phan-trung-vinh",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ts-phan-trung-vinh"
+    },
+    "review_status": "pending"
+  },
+  "iu:phan-hien-vu": {
+    "person_id": "iu:phan-hien-vu",
+    "n": "Phan Hiền Vũ",
+    "t": "TS.",
+    "cv": "Phó Trưởng Bộ môn Vật lý Trường Đại học Quốc tế (Trường ĐHQT)",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-huy-doan": {
+    "person_id": "uel:le-huy-doan",
+    "n": "Lê Huy Đoàn",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:trinh-thanh-deo": {
+    "person_id": "hcmus:trinh-thanh-deo",
+    "n": "Trịnh Thanh Đèo",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán - Tin học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Đại số tuyến tính"
+    ],
+    "lead": true,
+    "photo": "assets/about/instructors/hcmus-trinh-thanh-deo.jpg",
+    "photo_status": "pending",
+    "bio": "Tại phiên họp, TS. Trịnh Thanh Đèo – Ủy viên thường trực, Thư ký Hội đồng đã trình bày báo cáo kết quả hoạt động đảm bảo chất lượng 6 tháng đầu năm, kế hoạch 6 tháng cuối năm, cũng như kết quả cải tiến sau khảo sát các bên liên quan năm học 2024-2025. Hội đồng cũng thảo luận sơ lược kế hoạch kiểm định chất lượng các chương trình đào tạo giai đoạn 2026-2030.",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-khang-dinh-vi-the-chat-luong-giao-duc-thong-qua-kiem-dinh-quoc-te/"
+    },
+    "sources": {
+      "bio": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-khang-dinh-vi-the-chat-luong-giao-duc-thong-qua-kiem-dinh-quoc-te/",
+      "links": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-khang-dinh-vi-the-chat-luong-giao-duc-thong-qua-kiem-dinh-quoc-te/",
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-dong": {
+    "person_id": "uel:nguyen-thi-dong",
+    "n": "Nguyễn Thị Đông",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế chính trị Mác - Lênin"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:bui-duy-dang": {
+    "person_id": "hcmus:bui-duy-dang",
+    "n": "Bùi Duy Đăng",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:le-xuan-dai": {
+    "person_id": "hcmut:le-xuan-dai",
+    "n": "Lê Xuân Đại",
+    "t": "TS.",
+    "cv": "Trưởng khoa Khoa Khoa học Ứng dụng (KHUD) Trường Đại học Bách khoa (Trường ĐHBK)",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-tien-dat": {
+    "person_id": "hcmus:nguyen-tien-dat",
+    "n": "Nguyễn Tiến Đạt",
+    "t": "TS.",
+    "cv": "Giảng viên Khoa Toán - Tin học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Xác suất thống kê"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-nguyen-tien-dat.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon",
+      "links": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "review_status": "pending"
+  },
+  "uit:ha-manh-linh": {
+    "person_id": "uit:ha-manh-linh",
+    "n": "Hà Mạnh Linh",
+    "t": "NCS.ThS.",
+    "cv": "Giảng viên Bộ môn Toán - Lý Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Khối học phần Toán rời rạc"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Mọi người ai có số điện thoại của thầy Hà Mạnh Linh dạy toán cho mình xin với!",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://forum.uit.edu.vn/t/hoi-so-dien-thoai-cua-thay-ha-manh-linh/126384"
+    },
+    "sources": {
+      "bio": "https://forum.uit.edu.vn/t/hoi-so-dien-thoai-cua-thay-ha-manh-linh/126384",
+      "links": "https://forum.uit.edu.vn/t/hoi-so-dien-thoai-cua-thay-ha-manh-linh/126384"
+    },
+    "review_status": "pending"
+  },
+  "uit:le-hoang-tuan": {
+    "person_id": "uit:le-hoang-tuan",
+    "n": "Lê Hoàng Tuấn",
+    "t": "NCS.ThS.",
+    "cv": "Giảng viên Bộ môn Toán - Lý Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Khối học phần Toán rời rạc"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:le-huynh-my-van": {
+    "person_id": "uit:le-huynh-my-van",
+    "n": "Lê Huỳnh Mỹ Vân",
+    "t": "NCS.ThS.",
+    "cv": "Giảng viên Bộ môn Toán - Lý Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Khối học phần Toán rời rạc"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Phòng Đào tạo Đại học thông báo llịch dạy bù của GV Lê Huỳnh Mỹ Vân như sau: \n1. Lớp MA002.D24, dạy ngày 15/6, phòng C202, tiết 6,7,8. \n2. Lớp MA002.D23, dạy ngày 08/6, phòng C202, tiết 6,7,8. \n3. Lớp Ma001.D22, dạy ngày…",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://portal.uit.edu.vn/bai-viet/thongbao-thong-bao-lich-day-bu-mon-toan-cua-giang-vien-le-huynh-my-van"
+    },
+    "sources": {
+      "links": "https://portal.uit.edu.vn/bai-viet/thongbao-thong-bao-lich-day-bu-mon-toan-cua-giang-vien-le-huynh-my-van",
+      "bio": "https://forum.uit.edu.vn/t/thong-bao-lich-day-bu-mon-toan-cua-giang-vien-le-huynh-my-van/127022"
+    },
+    "review_status": "pending"
+  },
+  "uit:quan-chi-khanh-an": {
+    "person_id": "uit:quan-chi-khanh-an",
+    "n": "Quan Chí Khánh An",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Công nghệ phần mềm Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Phân tích dữ liệu với Python"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "CBGD : Quan Chí Khánh An Khoa/ Bộ môn : CNPM Môn học : Nhập môn Công nghệ phần mềm (SE104) Lớp : SE104.Q210.1 Phòng : C202 Thời gian : - Tiết bắt đầu : 9 - Tiết kết thúc : 9 Thứ : 4 , ngày 06/05/2026",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-1632021-thay-doi-cvht-lop-ktpm0001-ks-quan-chi-khanh"
+    },
+    "sources": {
+      "links": "https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-1632021-thay-doi-cvht-lop-ktpm0001-ks-quan-chi-khanh",
+      "bio": "https://daa.uit.edu.vn/thong-bao-nghi-bu?page=65"
+    },
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-thi-xuan-anh": {
+    "person_id": "hcmut:nguyen-thi-xuan-anh",
+    "n": "Nguyễn Thị Xuân Anh",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Toán Ứng dụng Khoa Khoa KHUD Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-minh-chau": {
+    "person_id": "uel:nguyen-minh-chau",
+    "n": "Nguyễn Minh Châu",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:pham-thi-thu-cuc": {
+    "person_id": "uel:pham-thi-thu-cuc",
+    "n": "Phạm Thị Thu Cúc",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:nguyen-thanh-danh": {
+    "person_id": "uit:nguyen-thanh-danh",
+    "n": "Nguyễn Thành Danh",
+    "t": "ThS.",
+    "cv": "Nghiên cứu viên Phòng thí nghiệm Truyền thông đa phương tiện, Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Lập trình Python",
+      "Phân tích dữ liệu với Python"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "agu:duong-thi-kim-duy": {
+    "person_id": "agu:duong-thi-kim-duy",
+    "n": "Dương Thị Kim Duy",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Luật Khoa Luật và Khoa học chính trị Trường Đại học An Giang",
+    "dv": "Trường Đại học An Giang",
+    "u": "agu",
+    "us": "ĐH An Giang",
+    "mon": [
+      "Pháp luật đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:phan-dinh-duy": {
+    "person_id": "uit:phan-dinh-duy",
+    "n": "Phan Đình Duy",
+    "t": "ThS.",
+    "cv": "Phó Trưởng khoa, Khoa Kỹ thuật máy tính, Trường Đại học Công nghệ thông tin",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Kiến trúc máy tính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Ngày 26/12/2025, Thạc sĩ Phan Đình Duy – Phó Trưởng khoa Khoa Kỹ thuật Máy tính, Trường Đại học Công nghệ Thông tin đã vinh dự được Giám đốc Đại học Quốc",
+    "expertise": [
+      "Computer Vision",
+      "AI for IoT",
+      "Smart Classroom/SmartHome/SmartBuilding"
+    ],
+    "education": [],
+    "links": {
+      "official": "https://fce.uit.edu.vn/ths-phan-dinh-duy-dat-danh-hieu-giang-vien-cua-nam-nam-2025/"
+    },
+    "sources": {
+      "bio": "https://fce.uit.edu.vn/ths-phan-dinh-duy-dat-danh-hieu-giang-vien-cua-nam-nam-2025/",
+      "links": "https://fce.uit.edu.vn/ths-phan-dinh-duy-dat-danh-hieu-giang-vien-cua-nam-nam-2025/",
+      "expertise": "https://fce.uit.edu.vn/lecturer-info/phan-dinh-duy/"
+    },
+    "review_status": "pending"
+  },
+  "agu:pham-thi-tuyet-giang": {
+    "person_id": "agu:pham-thi-tuyet-giang",
+    "n": "Phạm Thị Tuyết Giang",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Luật Khoa Luật và Khoa học chính trị Trường Đại học An Giang",
+    "dv": "Trường Đại học An Giang",
+    "u": "agu",
+    "us": "ĐH An Giang",
+    "mon": [
+      "Pháp luật đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-hong-gam": {
+    "person_id": "uel:nguyen-thi-hong-gam",
+    "n": "Nguyễn Thị Hồng Gấm",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-chi-hieu": {
+    "person_id": "uel:nguyen-chi-hieu",
+    "n": "Nguyễn Chí Hiếu",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:hoang-hai-ha": {
+    "person_id": "hcmut:hoang-hai-ha",
+    "n": "Hoàng Hải Hà",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:nguyen-thi-minh-huong": {
+    "person_id": "hcmut:nguyen-thi-minh-huong",
+    "n": "Nguyễn Thị Minh Hương",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Vật lý Kỹ thuật Y sinh, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-thu-huong": {
+    "person_id": "uel:nguyen-thi-thu-huong",
+    "n": "Nguyễn Thị Thu Hương",
+    "t": "ThS.",
+    "cv": "Giảng viên, Khoa Kinh tế Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vĩ mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:tran-minh-huong": {
+    "person_id": "hcmut:tran-minh-huong",
+    "n": "Trần Minh Hương",
+    "t": "ThS.",
+    "cv": "Giảng viên, Khoa Kỹ thuật Hoá học, Trường Đại học Bách khoa",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "ussh:le-tran-quang-khang": {
+    "person_id": "ussh:le-tran-quang-khang",
+    "n": "Lê Trần Quang Khang",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Lịch sử và Quan hệ Quốc tế, Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:nguyen-vu-anh-khoa": {
+    "person_id": "uit:nguyen-vu-anh-khoa",
+    "n": "Nguyễn Vũ Anh Khoa",
+    "t": "ThS.",
+    "cv": "Nghiên cứu viên Phòng thí nghiệm Truyền thông đa phương tiện, Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Lập trình Python",
+      "Phân tích dữ liệu với Python"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:pham-chi-khoa": {
+    "person_id": "uel:pham-chi-khoa",
+    "n": "Phạm Chí Khoa",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Tài chính - Ngân hàng, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý thị trường tài chính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:cao-minh-khoi": {
+    "person_id": "hcmus:cao-minh-khoi",
+    "n": "Cao Minh Khôi",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Vật lý điện tử Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-cao-minh-khoi.png",
+    "photo_status": "pending",
+    "bio": "ThS. Cao Minh Khôi - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/ths-cao-minh-khoi"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/ths-cao-minh-khoi",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/ths-cao-minh-khoi",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-dien-tu/nhan-su/ths-cao-minh-khoi"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-lai": {
+    "person_id": "uel:nguyen-thi-lai",
+    "n": "Nguyễn Thị Lài",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://psdh.uel.edu.vn/nganh-quan-tri-kinh-doanh4-2893/tien-do-thuc-hien-ncs-nguyen-thi-lai"
+    },
+    "sources": {
+      "links": "https://psdh.uel.edu.vn/nganh-quan-tri-kinh-doanh4-2893/tien-do-thuc-hien-ncs-nguyen-thi-lai"
+    },
+    "review_status": "pending"
+  },
+  "uel:luu-van-lap": {
+    "person_id": "uel:luu-van-lap",
+    "n": "Lưu Văn Lập",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:tran-hoang-loc": {
+    "person_id": "uit:tran-hoang-loc",
+    "n": "Trần Hoàng Lộc",
+    "t": "ThS.",
+    "cv": "Giảng viên, Khoa Kỹ thuật máy tính, Trường Đại học Công nghệ thông tin",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Kiến trúc máy tính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "TRẦN HOÀNG LỘC - Giải nhất toàn quốc cuộc thi MONOKON 2016 - Giải nhì Poster Presentation trong CDIO Academy khu vực Châu Á năm 2018 - Á quân Nét đẹp Sinh viên ĐHQG-HCM năm 2017 - Danh hiệu Sao Tháng Giêng năm 2017 - Sinh viên 5 tốt cấp Trung ương năm 2017 - Thanh niên tiên tiến làm theo lời Bác toàn quốc năm 2018 - Tốt nghiệp Thủ khoa ngành Kỹ thuật Máy tính",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://tuyensinh.uit.edu.vn/tran-hoang-loc-uit-mang-den-cho-toi-co-hoi-de-kham-pha-va-chinh-phuc-gioi-han-ban"
+    },
+    "sources": {
+      "bio": "https://tuyensinh.uit.edu.vn/tran-hoang-loc-uit-mang-den-cho-toi-co-hoi-de-kham-pha-va-chinh-phuc-gioi-han-ban",
+      "links": "https://tuyensinh.uit.edu.vn/tran-hoang-loc-uit-mang-den-cho-toi-co-hoi-de-kham-pha-va-chinh-phuc-gioi-han-ban"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-binh-minh": {
+    "person_id": "uel:nguyen-thi-binh-minh",
+    "n": "Nguyễn Thị Bình Minh",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-thi-ha-my": {
+    "person_id": "uel:le-thi-ha-my",
+    "n": "Lê Thị Hà My",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-nhan-my": {
+    "person_id": "uel:le-nhan-my",
+    "n": "Lê Nhân Mỹ",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô",
+      "Kinh tế vĩ mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://psdh.uel.edu.vn/nganh-kinh-te-hoc6-1373/tien-do-thuc-hien-ncs-le-nhan-my"
+    },
+    "sources": {
+      "links": "https://psdh.uel.edu.vn/nganh-kinh-te-hoc6-1373/tien-do-thuc-hien-ncs-le-nhan-my"
+    },
+    "review_status": "pending"
+  },
+  "ussh:thai-van-nam": {
+    "person_id": "ussh:thai-van-nam",
+    "n": "Thái Văn Nam",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Lịch sử Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:pham-trong-nghia": {
+    "person_id": "hcmus:pham-trong-nghia",
+    "n": "Phạm Trọng Nghĩa",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.fit.hcmus.edu.vn/tin-tuc/d/thong-bao-lich-co-van-hoc-tap-hoc-ky-1-nam-hoc-2026-2027"
+    },
+    "sources": {
+      "links": "https://www.fit.hcmus.edu.vn/tin-tuc/d/thong-bao-lich-co-van-hoc-tap-hoc-ky-1-nam-hoc-2026-2027"
+    },
+    "review_status": "pending"
+  },
+  "uel:tran-thanh-thuy-ngoc": {
+    "person_id": "uel:tran-thanh-thuy-ngoc",
+    "n": "Trần Thanh Thúy Ngọc",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:le-thi-yen-nhi": {
+    "person_id": "hcmut:le-thi-yen-nhi",
+    "n": "Lê Thị Yến Nhi",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Giải tích"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:le-thi-tuyet-nhung": {
+    "person_id": "hcmus:le-thi-tuyet-nhung",
+    "n": "Lê Thị Tuyết Nhung",
+    "t": "ThS.",
+    "cv": "Trợ Giảng, Khoa Toán - tin học Trường Đại học Khoa học tự nhiên",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn khoa học dữ liệu"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-le-thi-tuyet-nhung.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon",
+      "links": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "review_status": "pending"
+  },
+  "agu:le-thi-huynh-nhu": {
+    "person_id": "agu:le-thi-huynh-nhu",
+    "n": "Lê Thị Huỳnh Như",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Luật Khoa Luật và Khoa học chính trị Trường Đại học An Giang",
+    "dv": "Trường Đại học An Giang",
+    "u": "agu",
+    "us": "ĐH An Giang",
+    "mon": [
+      "Pháp luật đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:truong-quang-nhat": {
+    "person_id": "uel:truong-quang-nhat",
+    "n": "Trương Quang Nhật",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-kim-oanh": {
+    "person_id": "uel:nguyen-thi-kim-oanh",
+    "n": "Nguyễn Thị Kim Oanh",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:mai-thu-phuong": {
+    "person_id": "uel:mai-thu-phuong",
+    "n": "Mai Thu Phương",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:pham-thi-huyen-quyen": {
+    "person_id": "uel:pham-thi-huyen-quyen",
+    "n": "Phạm Thị Huyền Quyên",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:huynh-thanh-son": {
+    "person_id": "hcmus:huynh-thanh-son",
+    "n": "Huỳnh Thanh Sơn",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Toán - Tin học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn khoa học dữ liệu"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-huynh-thanh-son.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "sources": {
+      "photo": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon",
+      "links": "https://www.math.hcmus.edu.vn/gioi-thieu/doi-ngu-chuyen-mon"
+    },
+    "review_status": "pending"
+  },
+  "iu:le-thanh-son": {
+    "person_id": "iu:le-thanh-son",
+    "n": "Lê Thanh Sơn",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa CNTT, Trường ĐHQT",
+    "dv": "Trường Đại học Quốc tế",
+    "u": "iu",
+    "us": "ĐH Quốc tế",
+    "mon": [
+      "Lập trình hướng đối tượng"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:nguyen-thanh-son": {
+    "person_id": "uit:nguyen-thanh-son",
+    "n": "Nguyễn Thanh Sơn",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Khoa học máy tính Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Phân tích dữ liệu với Python"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "CBGD : Nguyễn Thanh Sơn Khoa/ Bộ môn : KHMT Môn học : Cấu trúc dữ liệu và giải thuật nâng cao (CS523) Lớp : CS523.Q21.1 Phòng : B3.12 Thời gian : - Tiết bắt đầu : 4 - Tiết kết thúc : 4 Thứ : 2 , ngày 01/06/2026",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://portal.uit.edu.vn/bai-viet/thong-bao-nghi-lop-cau-truc-du-lieu-va-giai-thuat-it003-r17-ngay-24-09-2026"
+    },
+    "sources": {
+      "links": "https://portal.uit.edu.vn/bai-viet/thong-bao-nghi-lop-cau-truc-du-lieu-va-giai-thuat-it003-r17-ngay-24-09-2026",
+      "bio": "https://daa.uit.edu.vn/thongbaochinhquy?page=13"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-minh-thoai": {
+    "person_id": "uel:nguyen-minh-thoai",
+    "n": "Nguyễn Minh Thoại",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-anh-thy": {
+    "person_id": "hcmus:nguyen-anh-thy",
+    "n": "Nguyễn Anh Thy",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Hóa học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:le-ngoc-thanh": {
+    "person_id": "hcmus:le-ngoc-thanh",
+    "n": "Lê Ngọc Thành",
+    "t": "ThS.",
+    "cv": "Phó Trưởng Bộ môn Khoa học máy tính, Khoa Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&id=16766"
+    },
+    "sources": {
+      "links": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&id=16766"
+    },
+    "review_status": "pending"
+  },
+  "ussh:nguyen-thi-phuong-thanh": {
+    "person_id": "ussh:nguyen-thi-phuong-thanh",
+    "n": "Nguyễn Thị Phương Thành",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Triết học Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Chủ nghĩa xã hội khoa học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmut:le-nguyen-bao-thu": {
+    "person_id": "hcmut:le-nguyen-bao-thu",
+    "n": "Lê Nguyễn Bảo Thư",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Vật lý Ứng dụng, Khoa KHUD, Trường ĐHBK",
+    "dv": "Trường Đại học Bách khoa",
+    "u": "hcmut",
+    "us": "ĐH Bách khoa",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "ussh:nguyen-thi-anh-thu": {
+    "person_id": "ussh:nguyen-thi-anh-thu",
+    "n": "Nguyễn Thị Anh Thư",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Giáo dục Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tâm lý học"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/ussh-nguyen-thi-anh-thu.jpg",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hrc.hcmussh.edu.vn/giang-vien/nguyen-thi-anh-thu/"
+    },
+    "sources": {
+      "photo": "https://hrc.hcmussh.edu.vn/giang-vien/nguyen-thi-anh-thu/",
+      "links": "https://hrc.hcmussh.edu.vn/giang-vien/nguyen-thi-anh-thu/"
+    },
+    "review_status": "pending"
+  },
+  "ussh:nguyen-le-thuy": {
+    "person_id": "ussh:nguyen-le-thuy",
+    "n": "Nguyễn Lệ Thủy",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Lịch sử Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/news/item/43066"
+    },
+    "sources": {
+      "links": "https://hcmussh.edu.vn/news/item/43066"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-thi-thanh-thuy": {
+    "person_id": "hcmus:nguyen-thi-thanh-thuy",
+    "n": "Nguyễn Thị Thanh Thủy",
+    "t": "ThS.",
+    "cv": "Phó Trưởng Bộ môn Khoa Hóa học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-thu-thuy": {
+    "person_id": "uel:nguyen-thi-thu-thuy",
+    "n": "Nguyễn Thị Thu Thủy",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kế toán - Kiểm toán, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý kế toán"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uit:do-van-tien": {
+    "person_id": "uit:do-van-tien",
+    "n": "Đỗ Văn Tiến",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Khoa học máy tính Trường ĐH CNTT",
+    "dv": "Trường Đại học Công nghệ thông tin",
+    "u": "uit",
+    "us": "ĐH Công nghệ Thông tin",
+    "mon": [
+      "Phân tích dữ liệu với Python"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Trường Đại học Công nghệ Thông tin tổ chức phiên bảo vệ luận án tiến sĩ cấp Đơn vị chuyên môn với đề tài: “Khai thác nội dung văn bản trong ảnh và video”  Của nghiên cứu sinh: Đỗ Văn Tiến  Ngành: Khoa học máy tính  Mã số: 9 48 01 01 Trường Đại học Công nghệ Thông tin, ĐHQG-HCM trân trọng kính mời: các giảng viên, nhà khoa học, nghiên cứu sinh, học viên cao học, sinh viên và",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://sdh.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-phien-hop-hoi-dong-bao-ve-luan-tien-si-cap-don-vi-chuyen-mon-cua-16"
+    },
+    "sources": {
+      "bio": "https://sdh.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-phien-hop-hoi-dong-bao-ve-luan-tien-si-cap-don-vi-chuyen-mon-cua-16",
+      "links": "https://sdh.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-phien-hop-hoi-dong-bao-ve-luan-tien-si-cap-don-vi-chuyen-mon-cua-16"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-huu-toan": {
+    "person_id": "hcmus:nguyen-huu-toan",
+    "n": "Nguyễn Hữu Toàn",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Toán - Tin học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Xác suất thống kê"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-nguyen-huu-toan.png",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://math.hcmus.edu.vn/admissions/graduate/26-%C4%91%C3%A0o-t%E1%BA%A1o/c%E1%BB%91-v%E1%BA%A5n-h%E1%BB%8Dc-t%E1%BA%ADp"
+    },
+    "sources": {
+      "links": "https://math.hcmus.edu.vn/admissions/graduate/26-%C4%91%C3%A0o-t%E1%BA%A1o/c%E1%BB%91-v%E1%BA%A5n-h%E1%BB%8Dc-t%E1%BA%ADp",
+      "photo": "https://www.math.hcmus.edu.vn/tin-tuc/thong-tin-hoat-dong-khoa/2-t%C3%A0i-nguy%C3%AAn"
+    },
+    "review_status": "pending"
+  },
+  "ussh:vo-phuc-toan": {
+    "person_id": "ussh:vo-phuc-toan",
+    "n": "Võ Phúc Toàn",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Lịch sử và Quan hệ Quốc tế, Trường ĐH KHXH&NV",
+    "dv": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "u": "ussh",
+    "us": "ĐH KHXH&NV",
+    "mon": [
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/ussh-vo-phuc-toan.jpg",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://hcmussh.edu.vn/news/item/28893"
+    },
+    "sources": {
+      "links": "https://hcmussh.edu.vn/news/item/28893",
+      "photo": "https://chungngoncohong.hcmussh.edu.vn/cap-uy-cac-thoi-ky/"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-ngoc-truong": {
+    "person_id": "hcmus:nguyen-ngoc-truong",
+    "n": "Nguyễn Ngọc Trường",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Vật lý địa cầu Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-nguyen-ngoc-truong.jpg",
+    "photo_status": "pending",
+    "bio": "ThS. Nguyễn Ngọc Trường - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [],
+    "education": [
+      "MSc: VNUHCM - University of Science, Vietnam, 2015"
+    ],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ths-nguyen-ngoc-truong"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ths-nguyen-ngoc-truong",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ths-nguyen-ngoc-truong",
+      "education": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ths-nguyen-ngoc-truong",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-dia-cau/nhan-su/ths-nguyen-ngoc-truong"
+    },
+    "review_status": "pending"
+  },
+  "uel:tran-luc-thanh-tuyen": {
+    "person_id": "uel:tran-luc-thanh-tuyen",
+    "n": "Trần Lục Thanh Tuyền",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô",
+      "Kinh tế vĩ mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:dao-anh-tuan": {
+    "person_id": "hcmus:dao-anh-tuan",
+    "n": "Đào Anh Tuấn",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Vật lý ứng dụng Khoa Vật lý - Vật lý kỹ thuật Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Vật lý đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-dao-anh-tuan.jpg",
+    "photo_status": "pending",
+    "bio": "NCS. ThS. Đào Anh Tuấn - Khoa Vật lý - Vật lý kỹ thuật, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+    "expertise": [
+      "Vật liệu nano ứng dụng quang học"
+    ],
+    "education": [],
+    "links": {
+      "official": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ncs-ths-dao-anh-tuan",
+      "orcid": "https://orcid.org/0000-0003-3834-6632"
+    },
+    "sources": {
+      "photo": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ncs-ths-dao-anh-tuan",
+      "bio": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ncs-ths-dao-anh-tuan",
+      "expertise": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ncs-ths-dao-anh-tuan",
+      "links": "https://phys.hcmus.edu.vn/vi/vat-ly-ung-dung/nhan-su/ncs-ths-dao-anh-tuan"
+    },
+    "review_status": "pending"
+  },
+  "uel:phan-huy-tam": {
+    "person_id": "uel:phan-huy-tam",
+    "n": "Phan Huy Tâm",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Tài chính - Ngân hàng, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Nguyên lý thị trường tài chính"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://psdh.uel.edu.vn/nganh-tai-chinh-ngan-hang5/tien-do-thuc-hien-ncs-phan-huy-tam-2"
+    },
+    "sources": {
+      "links": "https://psdh.uel.edu.vn/nganh-tai-chinh-ngan-hang5/tien-do-thuc-hien-ncs-phan-huy-tam-2"
+    },
+    "review_status": "pending"
+  },
+  "hcmus:tran-quoc-tan": {
+    "person_id": "hcmus:tran-quoc-tan",
+    "n": "Trần Quốc Tân",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Sinh học - Công nghệ sinh học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-tran-quoc-tan.jpg",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://fbb.hcmus.edu.vn/tran-quoc-tan.html"
+    },
+    "sources": {
+      "photo": "https://fbb.hcmus.edu.vn/tran-quoc-tan.html",
+      "links": "https://fbb.hcmus.edu.vn/tran-quoc-tan.html"
+    },
+    "review_status": "pending"
+  },
+  "agu:nguyen-thanh-tin": {
+    "person_id": "agu:nguyen-thanh-tin",
+    "n": "Nguyễn Thành Tín",
+    "t": "ThS.",
+    "cv": "Giảng viên Bộ môn Luật Khoa Luật và Khoa học chính trị Trường Đại học An Giang",
+    "dv": "Trường Đại học An Giang",
+    "u": "agu",
+    "us": "ĐH An Giang",
+    "mon": [
+      "Pháp luật đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:luu-thi-thanh-tu": {
+    "person_id": "hcmus:luu-thi-thanh-tu",
+    "n": "Lưu Thị Thanh Tú",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Sinh học - Công nghệ sinh học Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Sinh học đại cương"
+    ],
+    "lead": false,
+    "photo": "assets/about/instructors/hcmus-luu-thi-thanh-tu.jpg",
+    "photo_status": "pending",
+    "bio": null,
+    "expertise": [
+      "- Nhân giống vô tính những dòng thực vật quý hiếm",
+      "cây thuốc"
+    ],
+    "education": [
+      "Thời gian"
+    ],
+    "links": {
+      "official": "https://fbb.hcmus.edu.vn/luu-thi-thanh-tu.html"
+    },
+    "sources": {
+      "photo": "https://fbb.hcmus.edu.vn/luu-thi-thanh-tu.html",
+      "expertise": "https://fbb.hcmus.edu.vn/luu-thi-thanh-tu.html",
+      "education": "https://fbb.hcmus.edu.vn/luu-thi-thanh-tu.html",
+      "links": "https://fbb.hcmus.edu.vn/luu-thi-thanh-tu.html"
+    },
+    "review_status": "pending"
+  },
+  "uel:vo-thi-le-uyen": {
+    "person_id": "uel:vo-thi-le-uyen",
+    "n": "Võ Thị Lệ Uyển",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:nguyen-dinh-uong": {
+    "person_id": "uel:nguyen-dinh-uong",
+    "n": "Nguyễn Đình Uông",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Toán Kinh tế, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Thống kê trong kinh doanh"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:le-cat-vi": {
+    "person_id": "uel:le-cat-vi",
+    "n": "Lê Cát Vi",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh, Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "uel:mai-le-thuy-van": {
+    "person_id": "uel:mai-le-thuy-van",
+    "n": "Mai Lê Thúy Vân",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Kinh tế Trường ĐH KTL",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Kinh tế vi mô",
+      "Kinh tế vĩ mô"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": "Lịch xét duyệt đề cương LATS của NCS Mai Lê Thúy Vân",
+    "expertise": [],
+    "education": [],
+    "links": {
+      "official": "https://psdh.uel.edu.vn/tien-do-thuc-hien-ncs/lich-xet-duyet-de-cuong-lats-cua-ncs-mai-le-thuy-van"
+    },
+    "sources": {
+      "bio": "https://psdh.uel.edu.vn/tien-do-thuc-hien-ncs/lich-xet-duyet-de-cuong-lats-cua-ncs-mai-le-thuy-van",
+      "links": "https://psdh.uel.edu.vn/tien-do-thuc-hien-ncs/lich-xet-duyet-de-cuong-lats-cua-ncs-mai-le-thuy-van"
+    },
+    "review_status": "pending"
+  },
+  "uel:nguyen-thi-yen": {
+    "person_id": "uel:nguyen-thi-yen",
+    "n": "Nguyễn Thị Yến",
+    "t": "ThS.",
+    "cv": "Giảng viên Khoa Quản trị Kinh doanh Trường ĐH KT-L",
+    "dv": "Trường Đại học Kinh tế - Luật",
+    "u": "uel",
+    "us": "ĐH Kinh tế – Luật",
+    "mon": [
+      "Quản trị học"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:nguyen-ngoc-duc": {
+    "person_id": "hcmus:nguyen-ngoc-duc",
+    "n": "Nguyễn Ngọc Đức",
+    "t": "ThS.",
+    "cv": "Trợ giảng Khoa CNTT, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Nhập môn trí tuệ nhân tạo"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:dang-thi-thanh-lan": {
+    "person_id": "hcmus:dang-thi-thanh-lan",
+    "n": "Đặng Thị Thanh Lan",
+    "t": "Bà",
+    "cv": "Thư ký, trợ lý sinh viên, Khoa Hóa học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  },
+  "hcmus:chau-hoang-ngoc": {
+    "person_id": "hcmus:chau-hoang-ngoc",
+    "n": "Châu Hoàng Ngọc",
+    "t": "Bà",
+    "cv": "Thư ký, trợ lý sinh viên, Khoa Hóa học, Trường ĐH KHTN",
+    "dv": "Trường Đại học Khoa học tự nhiên",
+    "u": "hcmus",
+    "us": "ĐH Khoa học Tự nhiên",
+    "mon": [
+      "Khối học phần Hóa học đại cương"
+    ],
+    "lead": false,
+    "photo": null,
+    "photo_status": null,
+    "bio": null,
+    "expertise": [],
+    "education": [],
+    "links": {},
+    "sources": {},
+    "review_status": "pending"
+  }
+}

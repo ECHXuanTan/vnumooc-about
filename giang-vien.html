@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Đội ngũ giảng viên VNU-MOOC</title>
+<meta name="description" content="Giảng viên, chuyên gia từ các trường đại học thành viên ĐHQG-HCM trực tiếp xây dựng nội dung và bài giảng trên VNU-MOOC.">
+<link rel="icon" type="image/png" href="assets/about/logos/VNUHCM2.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Patrick+Hand&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#14213d;--blue:#1d3faf;--sky:#e7ecf8;--accent:#d7263d;--ink:#1a2238;--muted:#535d74;
+    --line:#d6deeb;--rule:#c9d3ee;--bg:#fafbfd;--bg-soft:#f0f3f9;--max:1280px;
+    --ruled:repeating-linear-gradient(180deg,transparent 0 9px,#d6deeb 9px 10px);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Archivo",system-ui,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  body.locked{overflow:hidden}
+  img{max-width:100%;display:block}
+  a{color:var(--blue);text-decoration:none}
+  a:hover{color:var(--navy)}
+  button,input,select{font:inherit;color:inherit}
+  :focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+  .wrap{max-width:var(--max);margin:0 auto;padding:0 48px}
+  .hand{font-family:"Patrick Hand",cursive;color:var(--accent)}
+  .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .skip-link{position:absolute;left:16px;top:-60px;background:var(--navy);color:#fff;padding:10px 14px;border-radius:4px;z-index:100}
+  .skip-link:focus{top:12px;color:#fff}
+  [hidden]{display:none!important}
+
+  /* header */
+  .top{position:sticky;top:0;z-index:30;background:rgba(250,251,253,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .top .wrap{height:68px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+  .top .logo img{height:38px;width:auto}
+  .top nav{display:flex;gap:21px;font-size:14px;font-weight:500}
+  .top nav a{color:var(--muted);padding:10px 0;border-bottom:2px solid transparent}
+  .top nav a[aria-current]{color:var(--navy);border-color:var(--accent)}
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:4px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;border:1.5px solid var(--blue)}
+  .btn-primary{background:var(--blue);color:#fff}
+  .btn-primary:hover{background:var(--navy);border-color:var(--navy);color:#fff}
+  .btn-ghost{background:transparent;color:var(--blue)}
+  .btn-ghost:hover{background:var(--sky)}
+
+  /* hero */
+  .hero{position:relative;padding:72px 0 56px;overflow:hidden}
+  .hero::before{content:"";position:absolute;inset:0;background-image:linear-gradient(90deg,var(--rule) 1px,transparent 1px),linear-gradient(var(--rule) 1px,transparent 1px),repeating-linear-gradient(180deg,transparent 0 9px,#e4e9f6 9px 10px);background-size:40px 40px,40px 40px,auto;-webkit-mask-image:linear-gradient(90deg,#000 45%,rgba(0,0,0,.35));mask-image:linear-gradient(90deg,#000 45%,rgba(0,0,0,.35));pointer-events:none}
+  .hero::after{content:"";position:absolute;top:0;bottom:0;left:40px;border-left:2px solid var(--accent);opacity:.7}
+  .hero .wrap{position:relative}
+  .hero .hand{display:inline-block;font-size:24px;transform:rotate(-1.2deg);transform-origin:left center}
+  .hero h1{margin:18px 0 22px;font-size:clamp(38px,6vw,64px);line-height:1.08;font-weight:800;font-stretch:112%;letter-spacing:-.035em;color:var(--blue);max-width:780px;text-wrap:balance}
+  .hero p{font-size:clamp(16px,1.7vw,19px);max-width:620px;text-wrap:pretty}
+  .stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));margin-top:44px;border-block:2px solid var(--navy);max-width:900px}
+  .stats div{padding:18px 0 18px 22px;border-left:1px solid var(--line);display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .stats div:first-child{padding-left:0;border-left:0}
+  .stats b{font-size:44px;font-weight:800;font-stretch:118%;color:var(--blue);letter-spacing:-.03em;line-height:1;font-variant-numeric:tabular-nums}
+  .stats span{font-size:15px;font-weight:500}
+
+  /* directory */
+  .dir{background:var(--bg-soft);border-top:1px solid var(--line);padding:40px 0 72px}
+  .units{display:grid;grid-template-columns:repeat(8,minmax(0,1fr));border-top:1px solid var(--line);border-left:1px solid var(--line);background:#fff}
+  .unit{cursor:pointer;border:0;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:#fff;padding:14px 8px 12px;display:flex;flex-direction:column;align-items:center;gap:8px;min-height:112px}
+  .unit:hover{background:var(--bg-soft)}
+  .unit[aria-pressed="true"]{background:var(--sky);box-shadow:inset 0 -3px 0 var(--blue)}
+  .unit .mark{height:44px;display:flex;align-items:center;justify-content:center}
+  .unit .mark img{max-height:44px;max-width:88px;object-fit:contain}
+  .unit .mark b{font-size:28px;font-weight:800;font-stretch:118%;color:var(--blue)}
+  .unit .lbl{font-size:12px;font-weight:600;color:var(--navy);line-height:1.35;text-align:center}
+  .unit .cnt{font-size:11px;color:var(--muted)}
+  .tools{display:flex;gap:14px;align-items:center;margin:22px 0 26px;flex-wrap:wrap}
+  .search{flex:1 1 360px;display:flex;align-items:center;gap:10px;background:#fff;border:1.5px solid var(--navy);border-radius:4px;padding:0 14px;height:48px}
+  .search input{border:0;outline:0;font-size:15px;flex:1;min-width:0;background:transparent}
+  .search:focus-within{outline:3px solid var(--blue);outline-offset:2px}
+  .tools select{flex:0 1 340px;min-width:0;height:48px;border:1.5px solid var(--navy);border-radius:4px;background:#fff;font-size:15px;padding:0 12px}
+  .result{font-size:14px;color:var(--muted);margin-left:auto}
+  .grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px;list-style:none}
+  .card{width:100%;height:100%;min-height:256px;text-align:left;cursor:pointer;padding:0;background:#fff;border:1px solid var(--line);border-radius:8px;overflow:hidden;display:flex;flex-direction:column;transition:border-color .15s,transform .15s}
+  .card:hover{border-color:var(--navy);transform:translateY(-2px)}
+  .portrait{position:relative;display:grid;place-items:center;aspect-ratio:4/5;background-color:var(--sky);background-image:var(--ruled);font-weight:800;font-stretch:118%;color:var(--blue);letter-spacing:-.03em;border-radius:4px}
+  .portrait-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border-radius:inherit}
+  .card-head{display:grid;grid-template-columns:76px minmax(0,1fr);gap:14px;align-items:start;padding:16px 16px 0}
+  .card .portrait{width:76px;height:88px;aspect-ratio:auto;font-size:27px;border:1px solid var(--line)}
+  .card .identity{display:flex;flex-direction:column;align-items:flex-start;gap:4px;min-width:0;padding-top:2px}
+  .card .lead-label{font-size:11px;font-weight:700;color:var(--blue);line-height:1.25}
+  .badge{position:absolute;top:12px;left:12px;background:#fff;border:1.5px solid var(--navy);border-radius:4px;padding:3px 8px;font-size:11px;font-weight:700;color:var(--navy);letter-spacing:0}
+  .card .body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:10px;flex:1}
+  .ttl{font-size:12px;font-weight:700;color:var(--blue);letter-spacing:.02em}
+  .card .nm{font-size:18px;font-weight:750;font-stretch:110%;color:var(--navy);line-height:1.25}
+  .card .cv{font-size:13px;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .card .course{font-size:13px;color:var(--navy);font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .card .course::before{content:"Môn MOOC  ";font-weight:500;color:var(--muted)}
+  .card .us{display:flex;align-items:center;gap:8px;margin-top:auto;padding-top:10px;border-top:1px solid var(--line);font-size:12px;color:var(--navy);font-weight:600}
+  .card .us img{height:22px;width:28px;object-fit:contain}
+  .more{display:flex;justify-content:center;margin-top:32px}
+  .more .btn{font-size:15px;padding:14px 24px}
+  .empty{padding:48px 0;text-align:center;color:var(--muted)}
+  .empty .hand{font-size:22px;display:block;margin-bottom:6px}
+
+  /* drawer */
+  .scrim{position:fixed;inset:0;background:rgba(6,23,58,.45);z-index:40}
+  .drawer{position:fixed;top:0;right:0;bottom:0;width:min(460px,100%);background:var(--bg);border-left:1.5px solid var(--navy);z-index:41;overflow-y:auto;padding:24px 32px 32px;display:flex;flex-direction:column;gap:18px}
+  .drawer .head{display:flex;justify-content:space-between;align-items:center}
+  .drawer .head .hand{font-size:21px}
+  .close{width:44px;height:44px;border:1px solid var(--line);border-radius:4px;background:var(--bg-soft);font-size:24px;cursor:pointer;line-height:1}
+  .drawer .who{display:grid;grid-template-columns:120px minmax(0,1fr);gap:18px;align-items:end}
+  .drawer .portrait{font-size:36px}
+  .drawer .nm{font-size:26px;font-weight:800;font-stretch:112%;color:var(--navy);line-height:1.15;margin-top:4px}
+  .drawer .cv{font-size:14px;color:var(--muted);line-height:1.6}
+  .unit-row{display:flex;align-items:center;gap:10px;padding:12px 0;border-block:1px solid var(--line);font-size:14px;font-weight:600;color:var(--navy)}
+  .unit-row img{height:30px;width:36px;object-fit:contain}
+  .sub{font-size:12px;font-weight:700;color:var(--navy);margin-bottom:8px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{padding:6px 10px;background:var(--sky);border-radius:4px;font-size:13px;color:var(--navy);border:0;cursor:pointer;text-align:left}
+  .chip:hover{background:#d6e0f5}
+  .drawer .btn{padding:14px 24px;font-size:15px}
+
+  /* profile */
+  .crumbs{padding-top:22px;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+  .crumbs .pager{display:flex;gap:8px}
+  .crumbs .pager button{font-size:13px;cursor:pointer;background:#fff;border:1px solid var(--line);border-radius:4px;padding:6px 12px;color:var(--navy)}
+  .crumbs .pager button:hover{border-color:var(--navy)}
+  .pf-hero{position:relative;overflow:hidden}
+  .pf-hero::before{content:"";position:absolute;inset:0;background-image:linear-gradient(90deg,var(--rule) 1px,transparent 1px),linear-gradient(var(--rule) 1px,transparent 1px),repeating-linear-gradient(180deg,transparent 0 9px,#e4e9f6 9px 10px);background-size:40px 40px,40px 40px,auto;-webkit-mask-image:linear-gradient(90deg,transparent 30%,rgba(0,0,0,.6));mask-image:linear-gradient(90deg,transparent 30%,rgba(0,0,0,.6));pointer-events:none}
+  .pf-grid{position:relative;display:grid;grid-template-columns:minmax(0,240px) minmax(0,1fr);gap:48px;padding-block:36px 48px;align-items:center}
+  .pf-grid .portrait{font-size:clamp(64px,8vw,92px);border-radius:8px;border:1.5px solid var(--navy);aspect-ratio:1}
+  .pf-grid .portrait img{display:block;width:100%;height:100%;object-fit:cover;border-radius:6px}
+  .pf-info{display:flex;flex-direction:column;gap:16px;padding-bottom:8px}
+  .pf-info .lead-tag{align-self:flex-start;border:1.5px solid var(--navy);border-radius:4px;padding:4px 10px;font-size:12px;font-weight:700;color:var(--navy);background:#fff}
+  .pf-info h1{font-size:clamp(38px,5.5vw,64px);line-height:1.05;font-weight:800;font-stretch:112%;letter-spacing:-.035em;color:var(--navy);text-wrap:balance}
+  .pf-info h1 .pf-academic{font-size:.48em;font-weight:750;letter-spacing:-.01em;color:var(--blue);white-space:nowrap;vertical-align:.13em}
+  .pf-info p{font-size:18px;line-height:1.55;max-width:640px}
+  .pf-info .bio{font-size:16px;color:var(--muted)}
+  .pf-info .seed-note{font-size:13px;color:var(--muted)}
+  .pf-info .seed-note a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+  .pf-info .unit-row{border-top:1.5px solid var(--navy);border-bottom:0;padding-top:16px;max-width:640px;font-size:15px}
+  .pf-info .unit-row img{height:40px;width:48px}
+  .pf-body{background:var(--bg-soft);border-top:1px solid var(--line);padding:48px 0 72px}
+  .pf-cols{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:56px}
+  .blk-h{display:flex;align-items:baseline;gap:14px;border-bottom:1.5px solid var(--navy);padding-bottom:10px}
+  .blk-h h2{font-size:22px;font-weight:780;font-stretch:112%;color:var(--navy)}
+  .blk-h .hand{font-size:18px}
+  .peers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 32px;list-style:none}
+  .peer{display:grid;grid-template-columns:64px minmax(0,1fr);gap:16px;align-items:center;padding:16px 0;border-bottom:1px solid var(--line);color:inherit;width:100%;background:none;border-inline:0;border-top:0;text-align:left;cursor:pointer}
+  .peer:hover .pn{color:var(--blue)}
+  .peer .portrait{font-size:20px}
+  .peer .pn{font-size:16px;font-weight:700;color:var(--navy);line-height:1.3}
+  .peer .pn small{font-size:12px;color:var(--blue);font-weight:700;margin-right:6px}
+  .peer .pm{display:block;font-size:13px;color:var(--muted);line-height:1.45;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+  .course-list{list-style:none}
+  .course-list button{display:flex;width:100%;justify-content:space-between;align-items:center;gap:12px;padding:14px 0;border:0;border-bottom:1px solid var(--line);background:none;font-size:15px;font-weight:600;color:var(--navy);cursor:pointer;text-align:left}
+  .course-list button:hover{color:var(--blue)}
+  .course-list button span:last-child{color:var(--blue)}
+  .course-list small{display:block;font-weight:500;font-size:12px;color:var(--muted)}
+  .pf-side{display:flex;flex-direction:column;gap:32px}
+  .pf-side .sub{font-size:13px;padding-bottom:10px;border-bottom:1.5px solid var(--navy);margin:0}
+  .pf-extra{margin-bottom:32px}
+  .pf-extra h2{font-size:22px;font-weight:780;color:var(--navy);border-bottom:1.5px solid var(--navy);padding-bottom:10px;margin-bottom:12px}
+  .pf-extra ul{padding-left:20px;line-height:1.6}
+  .pf-extra .education-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:1.5px solid var(--navy);padding-bottom:10px;margin-bottom:12px;flex-wrap:wrap}
+  .pf-extra .education-heading h2{border:0;padding:0;margin:0}
+  .education-status{font-size:12px;font-weight:700;color:var(--blue)}
+  .education-status.is-demo{color:#925419}
+  .education-note{font-size:13px;color:var(--muted);margin:0 0 20px;max-width:64ch}
+  .education-note a{text-decoration:underline;text-underline-offset:3px}
+  .education-timeline{list-style:none!important;padding:0 0 0 32px!important;position:relative;display:grid;gap:14px}
+  .education-timeline::before{content:"";position:absolute;left:9px;top:14px;bottom:14px;border-left:2px solid var(--blue)}
+  .education-timeline li{position:relative;padding:0!important}
+  .education-timeline li::before{content:"";position:absolute;left:-31px;top:14px;width:16px;height:16px;border-radius:50%;border:3px solid var(--blue);background:#fff;box-shadow:0 0 0 3px var(--bg-soft)}
+  .education-timeline.is-demo::before{border-color:#b68545}
+  .education-timeline.is-demo li::before{border-color:#b68545}
+  .education-card{background:#fff;border:1px solid var(--line);border-left:3px solid var(--blue);border-radius:5px;padding:14px 18px;min-height:86px}
+  .education-timeline.is-demo .education-card{border-left-color:#b68545;background:#fffdf8}
+  .education-period{display:inline-block;background:var(--blue);color:#fff;border-radius:3px;padding:2px 10px;font-size:12px;font-weight:700;font-variant-numeric:tabular-nums;margin-bottom:8px}
+  .education-timeline.is-demo .education-period{background:#8f632d}
+  .education-degree{display:block;font-size:16px;font-weight:750;color:var(--navy);line-height:1.35}
+  .education-meta{display:block;font-size:13px;color:var(--muted);margin-top:3px;line-height:1.5}
+  .pf-side .profile-links{list-style:none;display:grid;gap:10px}
+  .pf-side .profile-links a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+
+  @media(max-width:1100px){
+    .units{grid-template-columns:repeat(4,minmax(0,1fr))}
+    .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+    .pf-cols{grid-template-columns:1fr}
+  }
+  @media(max-width:760px){
+    .wrap{padding:0 16px}
+    .top nav{display:none}
+    .top .logo img{height:30px}
+    .hero{padding:48px 0 40px}
+    .hero::after{left:8px}
+    .stats b{font-size:32px}
+    .stats div{padding-left:14px}
+    .units{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .unit{min-height:96px}
+    .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+    .card .portrait{font-size:27px}
+    .card .body{padding:12px}
+    .card .nm{font-size:16px}
+    .result{margin-left:0}
+    .tools select{flex:1 1 100%}
+    .pf-grid{grid-template-columns:1fr;gap:28px;padding-block:24px 40px}
+    .pf-grid .portrait{max-width:220px}
+    .peers{grid-template-columns:1fr}
+    .drawer{padding:20px 16px 28px}
+  }
+  @media(max-width:400px){.grid{grid-template-columns:1fr}}
+  @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#noi-dung">Bỏ qua điều hướng</a>
+<header class="top">
+  <div class="wrap">
+    <a href="index.html" class="logo" aria-label="Trang giới thiệu VNU-MOOC"><img src="assets/about/logos/VNUHCM.png" alt="Logo VNU-MOOC" width="6050" height="1986"></a>
+    <nav aria-label="Điều hướng">
+      <a href="index.html">← Giới thiệu</a>
+      <a href="giang-vien.html" aria-current="page">Giảng viên</a>
+      <a href="index.html#cac-don-vi">Các trường</a>
+    </nav>
+    <a href="https://mooc.ctlt.tech/clients/login" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Bắt đầu học</a>
+  </div>
+</header>
+
+<main id="noi-dung" tabindex="-1">
+  <!-- Danh bạ -->
+  <div id="view-dir">
+    <section class="hero" aria-labelledby="dir-title">
+      <div class="wrap">
+        <span class="hand">người đứng sau từng bài giảng</span>
+        <h1 id="dir-title">Đội ngũ giảng viên VNU-MOOC</h1>
+        <p>Các giảng viên, chuyên gia từ trường đại học thành viên ĐHQG-HCM trực tiếp xây dựng nội dung, thiết kế bài giảng và đồng hành cùng người học trên VNU-MOOC.</p>
+        <div class="stats">
+          <div><b id="st-gv">–</b><span>giảng viên</span></div>
+          <div><b id="st-mon">–</b><span>môn học MOOC</span></div>
+          <div><b id="st-tr">–</b><span>trường thành viên</span></div>
+        </div>
+      </div>
+    </section>
+    <section class="dir" aria-label="Danh bạ giảng viên">
+      <div class="wrap">
+        <div class="units" id="units" role="group" aria-label="Lọc theo trường"></div>
+        <div class="tools">
+          <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#535d74" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="sr-only">Tìm giảng viên</span><input id="q" type="search" placeholder="Tìm theo tên giảng viên…" autocomplete="off"></label>
+          <label class="sr-only" for="course">Lọc theo môn học</label>
+          <select id="course"><option value="all">Tất cả môn học</option></select>
+          <span class="result" id="result" aria-live="polite"></span>
+        </div>
+        <ul class="grid" id="cards"></ul>
+        <div class="empty" id="empty" hidden><span class="hand">chưa tìm thấy ai</span>Thử bỏ bớt bộ lọc hoặc tìm với tên khác.</div>
+        <div class="more" id="more" hidden><button type="button" class="btn btn-ghost">Xem thêm giảng viên</button></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Hồ sơ -->
+  <div id="view-pf" hidden>
+    <div class="wrap crumbs">
+      <span><a href="#">Đội ngũ giảng viên</a> / <span id="pf-crumb"></span></span>
+      <span class="pager"><button type="button" id="pf-prev">← Giảng viên trước</button><button type="button" id="pf-next">Giảng viên sau →</button></span>
+    </div>
+    <section class="pf-hero" aria-labelledby="pf-name">
+      <div class="wrap pf-grid">
+        <span class="portrait" id="pf-ini" aria-hidden="true"></span>
+        <div class="pf-info">
+          <span class="lead-tag" id="pf-lead" hidden>Trưởng nhóm chuyên môn</span>
+          <h1 id="pf-name"><span class="pf-academic" id="pf-t"></span><span id="pf-name-text"></span></h1>
+          <p id="pf-cv"></p>
+          <p class="bio" id="pf-bio" hidden></p>
+          <p class="seed-note" id="pf-seed-note" hidden>Thông tin tham khảo, đang rà soát. <a id="pf-seed-source" target="_blank" rel="noopener noreferrer" hidden>Xem nguồn ↗</a></p>
+          <div class="unit-row"><img id="pf-logo" alt=""><span id="pf-dv"></span></div>
+        </div>
+      </div>
+    </section>
+    <section class="pf-body">
+      <div class="wrap pf-cols">
+        <div>
+          <section class="pf-extra" id="pf-expertise-block" hidden><h2>Lĩnh vực chuyên môn</h2><ul id="pf-expertise"></ul></section>
+          <section class="pf-extra" id="pf-education-block" hidden>
+            <div class="education-heading"><h2>Học vấn</h2><span class="education-status" id="pf-education-status"></span></div>
+            <p class="education-note" id="pf-education-note"></p>
+            <ol class="education-timeline" id="pf-education"></ol>
+          </section>
+          <div class="blk-h"><h2>Cùng tổ chuyên môn</h2><span class="hand" id="pf-peer-note"></span></div>
+          <ul class="peers" id="pf-peers"></ul>
+        </div>
+        <aside class="pf-side">
+          <div>
+            <div class="sub">Môn học tham gia xây dựng</div>
+            <ul class="course-list" id="pf-mon"></ul>
+          </div>
+          <div id="pf-links-block" hidden><div class="sub">Hồ sơ học thuật</div><ul class="profile-links" id="pf-links"></ul></div>
+        </aside>
+      </div>
+    </section>
+  </div>
+</main>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dr-name" hidden>
+  <div class="head"><span class="hand">hồ sơ nhanh</span><button type="button" class="close" id="dr-close" aria-label="Đóng hồ sơ nhanh">×</button></div>
+  <div class="who">
+    <span class="portrait" id="dr-ini" aria-hidden="true"></span>
+    <div><div class="ttl" id="dr-t"></div><div class="nm" id="dr-name"></div></div>
+  </div>
+  <p class="cv" id="dr-cv"></p>
+  <div class="unit-row"><img id="dr-logo" alt=""><span id="dr-dv"></span></div>
+  <div><div class="sub">Môn học tham gia xây dựng</div><div class="chips" id="dr-mon"></div></div>
+  <a class="btn btn-primary" id="dr-full" href="#">Xem hồ sơ đầy đủ →</a>
+</aside>
+
+<script>
+(() => {
+  'use strict';
+  const UNITS = [
+    {u:'hcmut', label:'ĐH Bách khoa', logo:'assets/about/logos/hcmut.png'},
+    {u:'hcmus', label:'ĐH Khoa học Tự nhiên', logo:'assets/about/logos/hcmus.png'},
+    {u:'ussh', label:'ĐH KHXH&NV', logo:'assets/about/logos/ussh.png'},
+    {u:'uit', label:'ĐH Công nghệ Thông tin', logo:'assets/about/logos/uit.png'},
+    {u:'iu', label:'ĐH Quốc tế', logo:'assets/about/logos/iu.png'},
+    {u:'uel', label:'ĐH Kinh tế – Luật', logo:'assets/about/logos/uel.svg'},
+    {u:'agu', label:'ĐH An Giang', logo:'assets/about/logos/agu.png'}];
+  const LOGO = Object.fromEntries(UNITS.map(x => [x.u, x.logo]));
+  const GROUPS = [
+    ['Lý luận chính trị', ['Triết học Mác - Lênin','Tư tưởng Hồ Chí Minh','Chủ nghĩa xã hội khoa học','Kinh tế chính trị Mác - Lênin']],
+    ['Kinh tế – Luật – Xã hội', ['Thống kê trong kinh doanh','Quản trị học','Nguyên lý thị trường tài chính','Nguyên lý kế toán','Kinh tế vi mô','Kinh tế vĩ mô','Pháp luật đại cương','Tâm lý học']],
+    ['Công nghệ thông tin', ['Kiến trúc máy tính','Lập trình Python','Lập trình hướng đối tượng','Nhập môn trí tuệ nhân tạo','Nhập môn khoa học dữ liệu','Trực quan hóa dữ liệu','Phân tích dữ liệu với Python','Kỹ năng số']],
+    ['Khoa học cơ bản', ['Khối học phần Hóa học đại cương','Khối học phần Vật lý đại cương','Khối học phần Sinh học đại cương','Khối học phần Đại số tuyến tính','Khối học phần Giải tích','Khối học phần Toán rời rạc','Khối học phần Xác suất thống kê']]];
+  const PAGE = 12;
+
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
+  const ini = n => { const w = n.trim().split(/\s+/); return (w[0][0] + (w.length > 1 ? w[w.length - 1][0] : '')).toUpperCase(); };
+  const shortMon = m => m.replace('Khối học phần ', '');
+
+  let all = [], bySlug = new Map(), profiles = {}, educationSeeds = {};
+  const st = {unit:'all', course:'all', q:'', limit:PAGE};
+  let lastFocus = null;
+
+  function getPhoto(p) {
+    const key = `${p.u}:${fold(p.n).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+    const url = profiles[key]?.photo;
+    return typeof url === 'string' && (/^https:\/\//.test(url) || /^assets\//.test(url)) ? url : null;
+  }
+
+  function portrait(p) {
+    const photo = getPhoto(p);
+    return `<span class="portrait" aria-hidden="true">${esc(p.ini)}${photo ? `<img class="portrait-photo" src="${esc(photo)}" alt="" loading="lazy" decoding="async">` : ''}</span>`;
+  }
+
+  function renderUnits() {
+    const items = [{u:'all', label:'Tất cả các trường', n:all.length}, ...UNITS.map(x => ({...x, n:all.filter(a => a.u === x.u).length}))];
+    $('units').innerHTML = items.map(x => `<button type="button" class="unit" data-u="${x.u}" aria-pressed="${st.unit === x.u}">
+      <span class="mark">${x.logo ? `<img src="${x.logo}" alt="">` : `<b>${x.n}</b>`}</span>
+      <span class="lbl">${esc(x.label)}</span><span class="cnt">${x.n} giảng viên</span></button>`).join('');
+  }
+
+  function filtered() {
+    const q = fold(st.q.trim());
+    return all.filter(a => (st.unit === 'all' || a.u === st.unit)
+      && (st.course === 'all' || a.mon.includes(st.course))
+      && (!q || a.key.includes(q)));
+  }
+
+  function renderCards() {
+    const list = filtered(), shown = list.slice(0, st.limit);
+    $('cards').innerHTML = shown.map(p => `<li><button type="button" class="card" data-s="${p.slug}">
+      <span class="card-head">${portrait(p)}<span class="identity"><span class="ttl">${esc(p.t)}</span><span class="nm">${esc(p.n)}</span>${p.lead ? '<span class="lead-label">Trưởng nhóm chuyên môn</span>' : ''}</span></span>
+      <span class="body">
+      <span class="cv">${esc(p.cv)}</span>
+      <span class="course">${esc(shortMon(p.mon[0]))}${p.mon.length > 1 ? ` +${p.mon.length - 1} môn` : ''}</span>
+      <span class="us"><img src="${LOGO[p.u]}" alt="">${esc(p.us)}</span></span></button></li>`).join('');
+    $('result').textContent = `Hiển thị ${shown.length} / ${list.length} giảng viên`;
+    $('empty').hidden = list.length > 0;
+    $('more').hidden = list.length <= st.limit;
+  }
+
+  function openDrawer(p) {
+    lastFocus = document.activeElement;
+    $('dr-ini').textContent = p.ini; $('dr-t').textContent = p.t; $('dr-name').textContent = p.n;
+    const photo = getPhoto(p);
+    if (photo) { const img = document.createElement('img'); img.className = 'portrait-photo'; img.src = photo; img.alt = ''; $('dr-ini').append(img); }
+    $('dr-cv').textContent = p.cv; $('dr-logo').src = LOGO[p.u]; $('dr-dv').textContent = p.dv;
+    $('dr-mon').innerHTML = p.mon.map(m => `<button type="button" class="chip" data-mon="${esc(m)}">${esc(shortMon(m))}</button>`).join('');
+    $('dr-full').href = '#gv/' + p.slug;
+    $('drawer').hidden = $('scrim').hidden = false;
+    document.body.classList.add('locked');
+    $('dr-close').focus();
+  }
+  function closeDrawer(restore = true) {
+    if ($('drawer').hidden) return;
+    $('drawer').hidden = $('scrim').hidden = true;
+    document.body.classList.remove('locked');
+    if (restore && lastFocus) lastFocus.focus();
+  }
+
+  function setCourse(m) {
+    st.course = m; st.limit = PAGE; st.unit = 'all'; st.q = '';
+    $('course').value = m; $('q').value = '';
+    closeDrawer(false);
+    renderUnits();
+    if (location.hash) history.pushState(null, '', location.pathname);
+    route();
+    renderCards();
+    $('cards').scrollIntoView({behavior:'smooth', block:'start'});
+  }
+
+  function renderEducation(extra, key) {
+    const approvedText = extra.review_status === 'approved' && Array.isArray(extra.education) && extra.education.length;
+    const timeline = extra.education_timeline || (approvedText ? null : educationSeeds[key]);
+    const items = Array.isArray(timeline?.items) ? timeline.items :
+      (Array.isArray(extra.education) ? extra.education.filter(value => value && value !== 'Thời gian')
+        .map(value => ({period:'', degree:value, field:'', institution:''})) : []);
+    const demo = timeline?.status === 'demo';
+    $('pf-education-block').hidden = items.length === 0;
+    $('pf-education-status').textContent = demo ? 'Dữ liệu minh họa' :
+      timeline?.status === 'source_candidate' ? 'Nguồn trường · đang rà soát' : '';
+    $('pf-education-status').classList.toggle('is-demo', demo);
+    $('pf-education').classList.toggle('is-demo', demo);
+    const source = timeline?.source_url || extra.sources?.education;
+    $('pf-education-note').innerHTML = demo
+      ? 'Các mốc 20XX chỉ để xem trước giao diện; chưa phải học vấn của giảng viên.'
+      : timeline?.status === 'source_candidate' && /^https:\/\//.test(source || '')
+        ? `Các mốc được chép từ hồ sơ trường và đang chờ rà soát. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Xem nguồn ↗</a>`
+        : '';
+    $('pf-education-note').hidden = !$('pf-education-note').textContent;
+    $('pf-education').innerHTML = items.map(value => {
+      const detail = [value.field, value.institution].filter(Boolean).map(esc).join(' · ');
+      return `<li><div class="education-card">${value.period ? `<span class="education-period">${esc(value.period)}</span>` : ''}<span class="education-degree">${esc(value.degree)}</span>${detail ? `<span class="education-meta">${detail}</span>` : ''}</div></li>`;
+    }).join('');
+  }
+
+  function renderProfile(p) {
+    const i = all.indexOf(p);
+    const key = `${p.u}:${fold(p.n).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+    const extra = profiles[key] || {};
+    document.title = `${p.t} ${p.n} · Đội ngũ giảng viên VNU-MOOC`;
+    $('pf-crumb').textContent = p.n; $('pf-ini').textContent = p.ini;
+    const photo = getPhoto(p);
+    const validPhoto = !!photo;
+    $('pf-ini').setAttribute('aria-hidden', validPhoto ? 'false' : 'true');
+    if (validPhoto) {
+      const img = document.createElement('img'); img.src = photo; img.alt = `Ảnh ${p.n}`;
+      img.onerror = () => { $('pf-ini').textContent = p.ini; $('pf-ini').setAttribute('aria-hidden', 'true'); };
+      $('pf-ini').replaceChildren(img);
+    }
+    $('pf-lead').hidden = !p.lead; $('pf-t').textContent = p.t ? p.t + '\u00a0' : ''; $('pf-name-text').textContent = p.n;
+    $('pf-cv').textContent = p.cv; $('pf-logo').src = LOGO[p.u]; $('pf-dv').textContent = p.dv;
+    $('pf-bio').textContent = extra.bio || ''; $('pf-bio').hidden = !extra.bio;
+    const hasCandidate = extra.bio || extra.photo || extra.expertise?.length || extra.education?.length || Object.keys(extra.links || {}).length;
+    $('pf-seed-note').hidden = extra.review_status !== 'pending' || !hasCandidate;
+    const source = extra.sources?.bio || extra.sources?.expertise || extra.sources?.education || extra.links?.official;
+    $('pf-seed-source').hidden = !source || !/^https:\/\//.test(source);
+    if (!$('pf-seed-source').hidden) $('pf-seed-source').href = source;
+    for (const [field, id] of [['expertise', 'pf-expertise']]) {
+      const values = Array.isArray(extra[field]) ? extra[field] : [];
+      $(id).innerHTML = values.map(value => `<li>${esc(value)}</li>`).join('');
+      $(id + '-block').hidden = values.length === 0;
+    }
+    renderEducation(extra, key);
+    const labels = {official:'Nguồn tại trường', orcid:'ORCID', scholar:'Google Scholar'};
+    $('pf-links').innerHTML = Object.entries(extra.links || {}).filter(([key, url]) =>
+      labels[key] && typeof url === 'string' && /^https:\/\//.test(url))
+      .map(([key, url]) => `<li><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${labels[key]} ↗</a></li>`).join('');
+    $('pf-links-block').hidden = !$('pf-links').children.length;
+    $('pf-mon').innerHTML = p.mon.map(m => {
+      const n = all.filter(a => a.mon.includes(m)).length;
+      return `<li><button type="button" data-mon="${esc(m)}"><span>${esc(shortMon(m))}<small>${n} giảng viên trong tổ</small></span><span aria-hidden="true">→</span></button></li>`;
+    }).join('');
+    const peers = all.filter(a => a !== p && a.mon.some(m => p.mon.includes(m)))
+      .sort((a, b) => (b.lead - a.lead));
+    $('pf-peer-note').textContent = peers.length ? `${peers.length} người` : '';
+    $('pf-peers').innerHTML = peers.map(a => `<li><a class="peer" href="#gv/${a.slug}">
+      ${portrait(a)}<span><span class="pn"><small>${esc(a.t)}</small>${esc(a.n)}</span>
+      <span class="pm">${a.lead ? 'Trưởng nhóm · ' : ''}${esc(a.us)}</span></span></a></li>`).join('')
+      || '<li class="empty">Chưa có thông tin.</li>';
+    $('pf-prev').onclick = () => { location.hash = 'gv/' + all[(i - 1 + all.length) % all.length].slug; };
+    $('pf-next').onclick = () => { location.hash = 'gv/' + all[(i + 1) % all.length].slug; };
+  }
+
+  function route() {
+    const m = location.hash.match(/^#gv\/(.+)$/);
+    const p = m && bySlug.get(decodeURIComponent(m[1]));
+    closeDrawer(false);
+    $('view-dir').hidden = !!p; $('view-pf').hidden = !p;
+    if (p) { renderProfile(p); scrollTo(0, 0); $('pf-name').focus?.(); }
+    else document.title = 'Đội ngũ giảng viên VNU-MOOC';
+  }
+
+  function init(data) {
+    const seen = new Map();
+    all = data.map(a => {
+      let slug = fold(a.n).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      if (seen.has(slug)) slug += '-' + a.u;
+      seen.set(slug, true);
+      return {...a, slug, ini:ini(a.n), key:fold(a.t + ' ' + a.n)};
+    });
+    bySlug = new Map(all.map(a => [a.slug, a]));
+    $('st-gv').textContent = all.length;
+    $('st-mon').textContent = new Set(all.flatMap(a => a.mon)).size;
+    $('st-tr').textContent = new Set(all.map(a => a.u)).size;
+    $('course').insertAdjacentHTML('beforeend', GROUPS.map(([g, list]) =>
+      `<optgroup label="${esc(g)}">${list.map(c => `<option value="${esc(c)}">${esc(shortMon(c))}</option>`).join('')}</optgroup>`).join(''));
+    $('pf-name').tabIndex = -1;
+    renderUnits(); renderCards(); route();
+  }
+
+  $('units').addEventListener('click', e => {
+    const b = e.target.closest('.unit'); if (!b) return;
+    st.unit = b.dataset.u; st.limit = PAGE; renderUnits(); renderCards();
+    $('units').querySelector(`[data-u="${st.unit}"]`).focus();
+  });
+  $('q').addEventListener('input', e => { st.q = e.target.value; st.limit = PAGE; renderCards(); });
+  $('course').addEventListener('change', e => { st.course = e.target.value; st.limit = PAGE; renderCards(); });
+  $('more').addEventListener('click', () => { st.limit += PAGE; renderCards(); });
+  $('cards').addEventListener('click', e => { const b = e.target.closest('.card'); if (b) openDrawer(bySlug.get(b.dataset.s)); });
+  $('scrim').addEventListener('click', () => closeDrawer());
+  $('dr-close').addEventListener('click', () => closeDrawer());
+  $('dr-full').addEventListener('click', () => closeDrawer(false));
+  document.addEventListener('click', e => { const b = e.target.closest('[data-mon]'); if (b) setCourse(b.dataset.mon); });
+  document.addEventListener('keydown', e => {
+    if ($('drawer').hidden) return;
+    if (e.key === 'Escape') closeDrawer();
+    if (e.key === 'Tab') {
+      const f = [...$('drawer').querySelectorAll('button, a[href]')];
+      const first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+  document.addEventListener('error', e => { if (e.target.matches?.('img.portrait-photo')) e.target.remove(); }, true);
+  addEventListener('hashchange', route);
+
+  Promise.all([
+    fetch('data/instructors.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/instructors_profiles.json').then(r => r.ok ? r.json() : {}).catch(() => ({})),
+    fetch('data/instructors_education_seed.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
+  ])
+    .then(([data, approved, timeline]) => { profiles = approved; educationSeeds = timeline; init(data); })
+    .catch(() => { $('result').textContent = ''; $('empty').hidden = false; $('empty').innerHTML = '<span class="hand">chưa tải được danh sách</span>Vui lòng tải lại trang.'; });
+})();
+</script>
+</body>
+</html>
