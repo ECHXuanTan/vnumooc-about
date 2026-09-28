@@ -263,6 +263,7 @@
 </style>
 <link rel="stylesheet" href="assets/about/about.css">
 <link rel="stylesheet" href="assets/about/notebook.css">
+<link rel="stylesheet" href="assets/about/featured.css">
 </head>
 <body>
 <a class="skip-link" href="#noi-dung">Bỏ qua điều hướng</a>
@@ -464,10 +465,20 @@
  <div class="step reveal"><span class="n">02</span><div><h3>Tập huấn thiết kế bài giảng trực tuyến</h3><p>Đội ngũ được tập huấn về thiết kế cho môi trường số, phát triển và ghi hình bài giảng.</p></div></div>
  <div class="step reveal"><span class="n">03</span><div><h3>Rà soát trước khi đưa lên hệ thống</h3><p>Nội dung, bài giảng và hoạt động đánh giá được rà soát kỹ lưỡng.</p></div></div>
 </div>
-<div class="faculty-cta reveal" style="display:flex;align-items:center;flex-wrap:wrap;gap:14px 20px;margin-top:28px"><a href="giang-vien.html" class="btn btn-primary">Gặp gỡ đội ngũ giảng viên <span aria-hidden="true">→</span></a><span style="font-size:14px;color:var(--muted)">184 giảng viên từ 7 trường thành viên</span></div>
       </div>
 <div class="academic-gallery reveal"><figure class="gallery-main"><img src="assets/about/faculty.webp" alt="Đội ngũ giảng viên, chuyên gia tham gia tập huấn xây dựng môn học MOOC" width="1600" height="1067" class="" loading="lazy" decoding="async"><figcaption>Cộng đồng cùng xây dựng học liệu số</figcaption></figure><figure><img src="assets/about/workshop.webp" alt="Hoạt động tập huấn thiết kế bài giảng trực tuyến" width="1600" height="1067" class="" loading="lazy" decoding="async"><figcaption>Tập huấn thiết kế</figcaption></figure><figure><img src="assets/about/studio.webp" alt="Đội ngũ thực hiện ghi hình bài giảng tại studio" width="1600" height="1200" class="" loading="lazy" decoding="async"><figcaption>Ghi hình bài giảng</figcaption></figure></div>
     </div>
+
+<div class="star" id="giang-vien-tieu-bieu" hidden>
+ <div class="star-top">
+  <div><span class="eyebrow">những gương mặt nổi bật</span><h3 id="star-title">Giảng viên tiêu biểu và môn học họ xây dựng</h3></div>
+  <div class="star-nav"><button type="button" class="star-prev" aria-label="Giảng viên trước"><span aria-hidden="true">←</span></button><span class="star-count" id="star-count" aria-live="polite"></span><button type="button" class="star-next" aria-label="Giảng viên tiếp theo"><span aria-hidden="true">→</span></button><button type="button" class="star-toggle" aria-pressed="false">Tạm dừng</button></div>
+ </div>
+ <div class="star-track" id="star-track" role="region" aria-roledescription="carousel" aria-labelledby="star-title" tabindex="0"></div>
+ <div class="star-dots" id="star-dots" role="group" aria-label="Chọn giảng viên"></div>
+ <p class="star-note" hidden>Thông tin tham khảo theo báo chí và các trường thành viên, đang rà soát cùng giảng viên.</p>
+</div>
+<div class="faculty-cta reveal" style="display:flex;align-items:center;flex-wrap:wrap;gap:14px 20px;margin-top:32px"><a href="giang-vien.html" class="btn btn-primary">Gặp gỡ đội ngũ giảng viên <span aria-hidden="true">→</span></a><span style="font-size:14px;color:var(--muted)">184 giảng viên từ 7 trường thành viên</span></div>
 
 <ol class="production-flow reveal" aria-label="Từ chuyên môn đến trải nghiệm học tập" tabindex="0"><li>Chuyên gia và giảng viên đồng hành xây dựng môn học</li><li>Xây dựng nội dung</li><li>Thiết kế bài giảng số</li><li>Rà soát chất lượng</li><li>Xuất bản trên VNU-MOOC</li><li>Sinh viên học tập</li><li>Không ngừng rà soát, cải thiện chất lượng môn học</li></ol><div class="logo-strip member-directory" id="cac-don-vi" aria-labelledby="members-title">
  <div class="member-heading"><div><span class="eyebrow">Cùng trong hệ thống ĐHQG-HCM</span><h3 id="members-title">Các trường đại học thành viên</h3></div><p>Kết nối với các trường qua website chính thức.</p></div>
@@ -639,5 +650,6 @@
 <dialog id="support-dialog" aria-labelledby="support-title"><div class="dialog-head"><span class="eyebrow">Hỗ trợ người học</span><button type="button" class="dialog-close" aria-label="Đóng thông tin hỗ trợ">×</button></div><h2 id="support-title">Khi cần hỗ trợ kỹ thuật</h2><p>Trong quá trình sử dụng VNU-MOOC, bạn có thể gửi yêu cầu qua biểu mẫu hỗ trợ trên hệ thống. Mô tả vấn đề và nội dung đang truy cập để bộ phận hỗ trợ có cơ sở hướng dẫn.</p><p class="dialog-note">Nếu chưa đăng nhập được, hãy liên hệ đầu mối hỗ trợ tại cơ sở đào tạo của bạn.</p></dialog>
 
 <script src="assets/about/about.js" defer></script>
+<script src="assets/about/featured.js" defer></script>
 </body>
 </html>

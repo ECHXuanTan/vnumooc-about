@@ -7,7 +7,9 @@ Trang giới thiệu tĩnh. Chạy tại thư mục này bằng `python3 -m http
 | File | Vai trò | Nguồn |
 | --- | --- | --- |
 | `../../eportfolio/data/giang_vien_mooc.json` | **Dữ liệu gốc** về tên, học hàm/học vị, chức vụ, trường, môn học và trưởng nhóm | Tổng hợp từ hồ sơ/quyết định nội bộ; xem `eportfolio/tao_json_giang_vien.py` ở repo VNUMOOC |
-| `data/instructors.json` | Bản xuất cho danh bạ và hồ sơ web; **không phải dữ liệu crawl** | `python3 eportfolio/xuat_giang_vien_about.py` ở repo VNUMOOC; chạy lại sẽ ghi đè file này |
+| `data/instructors.json` | Bản xuất cho danh bạ và hồ sơ web. `dot` ghi đợt đầu tiên của GV trong từng môn, `lead_mon` ghi các môn GV làm trưởng nhóm; **không phải dữ liệu crawl** | `python3 eportfolio/xuat_giang_vien_about.py` ở repo VNUMOOC; chạy lại sẽ ghi đè file này |
+| `data/featured.json` | Mục "Giảng viên tiêu biểu" ở `giang-vien.html` và slideshow ở `index.html` (`assets/about/featured.js`): 6 người, thành tích biên tập tay kèm URL nguồn báo chí/trang trường, kiểm tra ngày 29/09/2026. `status: pending` hiện nhãn đang rà soát | Sửa tay; không có script sinh |
+| `data/dot.json` | Sổ các đợt quyết định: ngày, số GV lần đầu tham gia, các môn lần đầu có tổ | Cùng lệnh xuất ở trên |
 | `data/instructors_seed.json` | **Seed ứng viên từ Google**, chưa xác minh và chưa hiển thị; được Git bỏ qua | `scripts/crawl_instructors.py` dùng Google Search qua Serper, rồi đọc trang chính thức của trường |
 | `data/instructors_profiles.json` | Bản seed đầy đủ 184 hồ sơ: 8 field gốc cùng 5 field bổ sung; trang chi tiết đọc file này | `scripts/crawl_instructors.py --publish-seed` xuất cả hồ sơ chờ duyệt; `--publish` chỉ xuất hồ sơ đã duyệt |
 | `data/instructors_education_seed.json` | Seed timeline học vấn cho 184 hồ sơ; **không phải dữ liệu gốc**. 6 hồ sơ có mốc chép từ trang trường, 178 hồ sơ còn lại là mốc giao diện minh họa `20XX` | `scripts/seed_instructor_education.py`; mỗi hồ sơ ghi `status` và `source_url` |

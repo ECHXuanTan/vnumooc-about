@@ -1,0 +1,93 @@
+{
+ "checked_at": "2026-09-29",
+ "status": "pending",
+ "note": "Biên tập tay từ nguồn báo chí/trang trường; chờ giảng viên xác nhận trước khi công bố.",
+ "items": [
+  {
+   "person_id": "hcmus:mai-hoang-bien",
+   "t": "GS.TS.",
+   "mark": "giáo sư 2024",
+   "headline": "Một trong bốn giáo sư ngành Toán được công nhận năm 2024",
+   "detail": "Nghiên cứu vành chia và nhóm tuyến tính trên vành chia, với 46 bài báo trên tạp chí quốc tế.",
+   "sources": [
+    {
+     "label": "Dân Việt",
+     "url": "https://danviet.vn/soi-ho-so-cua-tan-giao-su-toan-hoc-sinh-nam-1982-la-truong-khoa-tai-mot-truong-dai-hoc-noi-tieng-20241202152145963-d1198115.html"
+    },
+    {
+     "label": "ĐH Khoa học Tự nhiên",
+     "url": "https://hcmus.edu.vn/giao-su-mai-hoang-bien-neu-khong-cong-tac-tai-truong-dh-khoa-hoc-tu-nhien-co-le-toi-chua-the-dat-chuan-giao-su-thoi-diem-nay/"
+    }
+   ]
+  },
+  {
+   "person_id": "hcmut:huynh-ky-phuong-ha",
+   "t": "GS.TS.",
+   "mark": "giáo sư 2025",
+   "headline": "Quyền Hiệu trưởng Trường Đại học An Giang từ tháng 9/2026",
+   "detail": "Được công nhận giáo sư năm 2025, Phó Hiệu trưởng Trường Đại học Bách khoa từ năm 2024.",
+   "sources": [
+    {
+     "label": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/gsts-huynh-ky-phuong-ha-lam-quyen-hieu-truong-truong-dai-hoc-an-giang-10026091117421988.htm"
+    },
+    {
+     "label": "Dân trí",
+     "url": "https://dantri.com.vn/giao-duc/pho-hieu-truong-bach-khoa-tphcm-lam-quyen-hieu-truong-dh-an-giang-20260828191024890.htm"
+    }
+   ]
+  },
+  {
+   "person_id": "hcmus:nguyen-thanh-binh",
+   "t": "PGS.TS.",
+   "mark": "Quả cầu vàng 2021",
+   "headline": "Giải thưởng Quả cầu vàng 2021 về trí tuệ nhân tạo ứng dụng trong công nghiệp",
+   "detail": "Có bằng sáng chế được cấp tại Mỹ về hệ thống đánh giá chất lượng sợi vải tự động.",
+   "sources": [
+    {
+     "label": "Giáo dục và Thời đại",
+     "url": "https://giaoducthoidai.vn/ts-nguyen-thanh-binh-duong-den-qua-cau-vang-post569375.html"
+    }
+   ]
+  },
+  {
+   "person_id": "uit:cao-thanh-tinh",
+   "t": "PGS.TS.",
+   "mark": "giảng viên của năm",
+   "headline": "Được ĐHQG-HCM vinh danh Giảng viên của năm 2022",
+   "detail": "Danh hiệu tôn vinh giảng viên có nhiều thành tích trong giảng dạy và nghiên cứu khoa học.",
+   "sources": [
+    {
+     "label": "ĐH Công nghệ Thông tin",
+     "url": "https://tuyensinh.uit.edu.vn/ts-cao-thanh-tinh-phuong-huong-phat-trien-mang-tam-chien-luoc-khien-toi-mong-muon-tro-thanh-mot-phan-tai-uit"
+    }
+   ]
+  },
+  {
+   "person_id": "iu:huynh-kim-lam",
+   "t": "PGS.TS.",
+   "mark": "hơn 100 bài ISI",
+   "headline": "Tác giả và đồng tác giả hơn 100 bài báo ISI",
+   "detail": "Nghiên cứu mô hình hóa đa thang đo và mô phỏng tính toán cho năng lượng, xúc tác và vật liệu.",
+   "sources": [
+    {
+     "label": "Khoa học Phổ thông",
+     "url": "https://tuoitre.vn/khoahocphothong/pgs-ts-huynh-kim-lam-toi-muon-la-tia-nang-tuoi-dep-soi-roi-cho-hoc-tro-cua-minh-256487.html"
+    }
+   ]
+  },
+  {
+   "person_id": "hcmus:le-hoai-bac",
+   "t": "GS.TS.",
+   "mark": "giáo sư 2019",
+   "headline": "Giáo sư ngành Công nghệ thông tin, trưởng nhóm môn Nhập môn trí tuệ nhân tạo",
+   "detail": "Chủ trì nhiều đề tài NAFOSTED, đề tài cấp ĐHQG-HCM và Sở Khoa học và Công nghệ TP.HCM.",
+   "sources": [
+    {
+     "label": "Khoa CNTT, ĐH Khoa học Tự nhiên",
+     "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1109"
+    }
+   ]
+  }
+ ]
+}

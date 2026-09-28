@@ -178,10 +178,61 @@
   .pf-side .profile-links{list-style:none;display:grid;gap:10px}
   .pf-side .profile-links a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
 
+  /* giảng viên tiêu biểu */
+  .feat-sec{padding:56px 0 64px;border-top:1px solid var(--line)}
+  .feat{list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-block:2px solid var(--navy)}
+  .feat>li{display:flex;flex-direction:column;gap:10px;padding:24px 24px 26px;border-left:1px solid var(--line)}
+  .feat>li:nth-child(3n+1){border-left:0;padding-left:0}
+  .feat>li:nth-child(n+4){border-top:1px solid var(--line)}
+  .ft-mark{font-size:20px;line-height:1;transform:rotate(-1.5deg);transform-origin:left center;align-self:flex-start}
+  .ft-link{display:flex;flex-direction:column;gap:14px;color:inherit}
+  .ft-head{font-size:20px;font-weight:750;font-stretch:108%;line-height:1.3;color:var(--navy);letter-spacing:-.01em;text-wrap:balance}
+  .ft-link:hover .ft-head{color:var(--blue)}
+  .ft-who{display:grid;grid-template-columns:52px minmax(0,1fr);gap:12px;align-items:center}
+  .ft-who .portrait{width:52px;height:60px;aspect-ratio:auto;font-size:18px;border:1px solid var(--line)}
+  .ft-who b{display:block;font-size:15px;font-weight:700;color:var(--navy);line-height:1.3}
+  .ft-who b small{font-size:12px;color:var(--blue);margin-right:5px}
+  .ft-who span span{display:block;font-size:13px;color:var(--muted);line-height:1.4}
+  .ft-detail{font-size:14px;color:var(--ink);line-height:1.55}
+  .ft-src{margin-top:auto;font-size:12px;color:var(--muted)}
+  .ft-src a{text-decoration:underline;text-underline-offset:3px}
+  .feat-note{margin-top:14px;font-size:13px;color:var(--muted)}
+
+  /* sổ các đợt */
+  .sec-h{max-width:680px;margin-bottom:28px}
+  .sec-h .hand{display:inline-block;font-size:22px;transform:rotate(-1.2deg);transform-origin:left center}
+  .sec-h h2{margin:6px 0 10px;font-size:clamp(28px,3.6vw,40px);line-height:1.1;font-weight:800;font-stretch:112%;letter-spacing:-.03em;color:var(--navy)}
+  .sec-h p{color:var(--muted);text-wrap:pretty}
+
+  .ledger-sec{padding:64px 0 80px;border-top:1px solid var(--line)}
+  .ledger{list-style:none;display:grid;grid-template-columns:repeat(var(--n,4),minmax(0,1fr));border-block:2px solid var(--navy)}
+  .ledger>li{padding:22px 22px 26px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:12px}
+  .ledger>li:first-child{border-left:0;padding-left:0}
+  .ledger .yr{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+  .ledger .yr b{font-size:44px;font-weight:800;font-stretch:118%;letter-spacing:-.03em;line-height:1;color:var(--blue);font-variant-numeric:tabular-nums}
+  .ledger .yr span{font-size:15px;font-weight:650;color:var(--navy)}
+  .ledger time{font-size:13px;color:var(--muted)}
+  .ledger .add{font-size:17px;font-weight:700;color:var(--navy)}
+  .ledger .bar{height:8px;background:var(--bg-soft);border-radius:2px;display:flex;overflow:hidden}
+  .ledger .bar i{display:block;height:100%;background:var(--blue)}
+  .ledger .bar i+i{background:var(--accent)}
+  .ledger .cum{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .ledger ul{list-style:none;display:flex;flex-wrap:wrap;gap:6px}
+  .ledger ul button{padding:4px 8px;background:var(--sky);border:0;border-radius:4px;font-size:13px;color:var(--navy);cursor:pointer;text-align:left;line-height:1.35}
+  .ledger ul button:hover{background:#d6e0f5}
+  .ledger .sub{margin:4px 0 0}
+
   @media(max-width:1100px){
     .units{grid-template-columns:repeat(4,minmax(0,1fr))}
     .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
     .pf-cols{grid-template-columns:1fr}
+    .ledger{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .ledger>li:nth-child(odd){border-left:0;padding-left:0}
+    .ledger>li:nth-child(n+3){border-top:1px solid var(--line)}
+    .feat{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .feat>li:nth-child(n){border-left:1px solid var(--line);padding-left:24px;border-top:0}
+    .feat>li:nth-child(odd){border-left:0;padding-left:0}
+    .feat>li:nth-child(n+3){border-top:1px solid var(--line)}
   }
   @media(max-width:760px){
     .wrap{padding:0 16px}
@@ -203,6 +254,14 @@
     .pf-grid .portrait{max-width:220px}
     .peers{grid-template-columns:1fr}
     .drawer{padding:20px 16px 28px}
+    .feat-sec{padding:40px 0 48px}
+    .feat{grid-template-columns:1fr}
+    .feat>li:nth-child(n){border-left:0;padding-inline:0}
+    .feat>li:nth-child(n+2){border-top:1px solid var(--line)}
+    .ft-head{font-size:18px}
+    .ledger{grid-template-columns:1fr}
+    .ledger>li{border-left:0;padding-left:0;padding-right:0}
+    .ledger>li+li{border-top:1px solid var(--line)}
   }
   @media(max-width:400px){.grid{grid-template-columns:1fr}}
   @media(prefers-reduced-motion:reduce){*{transition:none!important}}
@@ -237,6 +296,17 @@
         </div>
       </div>
     </section>
+    <section class="feat-sec" id="tieu-bieu" aria-labelledby="feat-title" hidden>
+      <div class="wrap">
+        <div class="sec-h">
+          <span class="hand">những gương mặt nổi bật</span>
+          <h2 id="feat-title">Giảng viên tiêu biểu</h2>
+          <p>Một vài thành tích của giảng viên trong đội ngũ, theo tin từ báo chí và các trường thành viên.</p>
+        </div>
+        <ul class="feat" id="feat"></ul>
+        <p class="feat-note" id="feat-note" hidden>Thông tin tham khảo, đang rà soát cùng giảng viên.</p>
+      </div>
+    </section>
     <section class="dir" aria-label="Danh bạ giảng viên">
       <div class="wrap">
         <div class="units" id="units" role="group" aria-label="Lọc theo trường"></div>
@@ -249,6 +319,16 @@
         <ul class="grid" id="cards"></ul>
         <div class="empty" id="empty" hidden><span class="hand">chưa tìm thấy ai</span>Thử bỏ bớt bộ lọc hoặc tìm với tên khác.</div>
         <div class="more" id="more" hidden><button type="button" class="btn btn-ghost">Xem thêm giảng viên</button></div>
+      </div>
+    </section>
+    <section class="ledger-sec" id="cac-dot" aria-labelledby="dot-title" hidden>
+      <div class="wrap">
+        <div class="sec-h">
+          <span class="hand" id="dot-note"></span>
+          <h2 id="dot-title">Đội ngũ lớn lên qua từng đợt</h2>
+          <p>Mỗi đợt, ĐHQG-HCM ra quyết định thành lập tổ chuyên môn cho những môn học mới. Số giảng viên ghi theo lần đầu tham gia.</p>
+        </div>
+        <ol class="ledger" id="ledger"></ol>
       </div>
     </section>
   </div>
@@ -333,8 +413,12 @@
   const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
   const ini = n => { const w = n.trim().split(/\s+/); return (w[0][0] + (w.length > 1 ? w[w.length - 1][0] : '')).toUpperCase(); };
   const shortMon = m => m.replace('Khối học phần ', '');
+  // trưởng nhóm của đúng môn này; dữ liệu cũ chỉ có cờ gộp
+  const leadIn = (a, m) => (a.lead_mon ? a.lead_mon.includes(m) : a.lead) ? 1 : 0;
+  // "2024" → "năm 2024", "2025 đợt 1" → "đợt 1 năm 2025"
+  const fmtDot = d => { const m = /^(\d{4}) (đợt \d+)$/.exec(d || ''); return m ? `${m[2]} năm ${m[1]}` : `năm ${d}`; };
 
-  let all = [], bySlug = new Map(), profiles = {}, educationSeeds = {};
+  let all = [], bySlug = new Map(), profiles = {}, educationSeeds = {}, dots = [], featured = null;
   const st = {unit:'all', course:'all', q:'', limit:PAGE};
   let lastFocus = null;
 
@@ -374,6 +458,41 @@
     $('result').textContent = `Hiển thị ${shown.length} / ${list.length} giảng viên`;
     $('empty').hidden = list.length > 0;
     $('more').hidden = list.length <= st.limit;
+  }
+
+  function renderFeatured() {
+    const items = (featured?.items || []).map(f => ({f, p:all.find(a => a.pid === f.person_id)})).filter(x => x.p);
+    if (!items.length) return;
+    const safe = u => /^https:\/\//.test(u || '');
+    $('feat').innerHTML = items.map(({f, p}) => `<li>
+      <span class="hand ft-mark">${esc(f.mark)}</span>
+      <a class="ft-link" href="#gv/${p.slug}"><span class="ft-head">${esc(f.headline)}</span>
+        <span class="ft-who">${portrait(p)}<span><b><small>${esc(f.t || p.t)}</small>${esc(p.n)}</b><span>${esc(p.us)}, môn ${esc(shortMon(p.mon[0]))}</span></span></span></a>
+      <p class="ft-detail">${esc(f.detail)}</p>
+      <p class="ft-src">Nguồn: ${(f.sources || []).filter(x => safe(x.url)).map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.label)} ↗</a>`).join(', ')}</p></li>`).join('');
+    $('feat-note').hidden = featured.status !== 'pending';
+    $('tieu-bieu').hidden = false;
+  }
+
+  function renderLedger() {
+    if (!Array.isArray(dots) || !dots.length) return;
+    const total = dots.reduce((n, d) => n + d.gv_moi, 0);
+    let cum = 0;
+    $('ledger').style.setProperty('--n', dots.length);
+    $('ledger').innerHTML = dots.map(d => {
+      const before = cum; cum += d.gv_moi;
+      const [yr, ...rest] = d.dot.split(' ');
+      const [y, mo] = d.ngay.split('-');
+      return `<li><span class="yr"><b>${esc(yr)}</b>${rest.length ? `<span>${esc(rest.join(' '))}</span>` : ''}</span>
+        <time datetime="${esc(d.ngay)}">Tháng ${+mo}/${y}</time>
+        <span class="add">Thêm ${d.gv_moi} giảng viên</span>
+        <span class="bar" aria-hidden="true"><i style="width:${before / total * 100}%"></i><i style="width:${d.gv_moi / total * 100}%"></i></span>
+        <span class="cum">Đội ngũ lên ${cum} người</span>
+        <div><div class="sub">${d.mon_moi.length} môn mới có tổ chuyên môn</div>
+        <ul>${d.mon_moi.map(m => `<li><button type="button" data-mon="${esc(m)}">${esc(shortMon(m))}</button></li>`).join('')}</ul></div></li>`;
+    }).join('');
+    $('dot-note').textContent = `từ ${dots[0].gv_moi} người năm ${dots[0].dot.split(' ')[0]}`;
+    $('cac-dot').hidden = false;
   }
 
   function openDrawer(p) {
@@ -466,14 +585,16 @@
     $('pf-links-block').hidden = !$('pf-links').children.length;
     $('pf-mon').innerHTML = p.mon.map(m => {
       const n = all.filter(a => a.mon.includes(m)).length;
-      return `<li><button type="button" data-mon="${esc(m)}"><span>${esc(shortMon(m))}<small>${n} giảng viên trong tổ</small></span><span aria-hidden="true">→</span></button></li>`;
+      const since = p.dot?.[m] ? `, tham gia từ ${fmtDot(p.dot[m])}` : '';
+      return `<li><button type="button" data-mon="${esc(m)}"><span>${esc(shortMon(m))}<small>${n} giảng viên trong tổ${since}</small></span><span aria-hidden="true">→</span></button></li>`;
     }).join('');
     const peers = all.filter(a => a !== p && a.mon.some(m => p.mon.includes(m)))
-      .sort((a, b) => (b.lead - a.lead));
+      .map(a => ({a, lead:p.mon.some(m => a.mon.includes(m) && leadIn(a, m))}))
+      .sort((x, y) => y.lead - x.lead);
     $('pf-peer-note').textContent = peers.length ? `${peers.length} người` : '';
-    $('pf-peers').innerHTML = peers.map(a => `<li><a class="peer" href="#gv/${a.slug}">
+    $('pf-peers').innerHTML = peers.map(({a, lead}) => `<li><a class="peer" href="#gv/${a.slug}">
       ${portrait(a)}<span><span class="pn"><small>${esc(a.t)}</small>${esc(a.n)}</span>
-      <span class="pm">${a.lead ? 'Trưởng nhóm · ' : ''}${esc(a.us)}</span></span></a></li>`).join('')
+      <span class="pm">${lead ? 'Trưởng nhóm · ' : ''}${esc(a.us)}</span></span></a></li>`).join('')
       || '<li class="empty">Chưa có thông tin.</li>';
     $('pf-prev').onclick = () => { location.hash = 'gv/' + all[(i - 1 + all.length) % all.length].slug; };
     $('pf-next').onclick = () => { location.hash = 'gv/' + all[(i + 1) % all.length].slug; };
@@ -494,7 +615,8 @@
       let slug = fold(a.n).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
       if (seen.has(slug)) slug += '-' + a.u;
       seen.set(slug, true);
-      return {...a, slug, ini:ini(a.n), key:fold(a.t + ' ' + a.n)};
+      const pid = `${a.u}:${fold(a.n).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+      return {...a, slug, pid, ini:ini(a.n), key:fold(a.t + ' ' + a.n)};
     });
     bySlug = new Map(all.map(a => [a.slug, a]));
     $('st-gv').textContent = all.length;
@@ -503,7 +625,7 @@
     $('course').insertAdjacentHTML('beforeend', GROUPS.map(([g, list]) =>
       `<optgroup label="${esc(g)}">${list.map(c => `<option value="${esc(c)}">${esc(shortMon(c))}</option>`).join('')}</optgroup>`).join(''));
     $('pf-name').tabIndex = -1;
-    renderUnits(); renderCards(); route();
+    renderFeatured(); renderUnits(); renderCards(); renderLedger(); route();
   }
 
   $('units').addEventListener('click', e => {
@@ -535,9 +657,11 @@
   Promise.all([
     fetch('data/instructors.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/instructors_profiles.json').then(r => r.ok ? r.json() : {}).catch(() => ({})),
-    fetch('data/instructors_education_seed.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
+    fetch('data/instructors_education_seed.json').then(r => r.ok ? r.json() : {}).catch(() => ({})),
+    fetch('data/dot.json').then(r => r.ok ? r.json() : []).catch(() => []),
+    fetch('data/featured.json').then(r => r.ok ? r.json() : null).catch(() => null)
   ])
-    .then(([data, approved, timeline]) => { profiles = approved; educationSeeds = timeline; init(data); })
+    .then(([data, approved, timeline, batches, feat]) => { profiles = approved; educationSeeds = timeline; dots = batches; featured = feat; init(data); })
     .catch(() => { $('result').textContent = ''; $('empty').hidden = false; $('empty').innerHTML = '<span class="hand">chưa tải được danh sách</span>Vui lòng tải lại trang.'; });
 })();
 </script>
