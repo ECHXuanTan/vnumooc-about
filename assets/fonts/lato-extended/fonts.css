@@ -1,0 +1,7 @@
+/* Lato Extended (Lato 2.0, có dấu tiếng Việt): cùng font hệ thống MOOC đang dùng.
+   Bản woff2 lấy từ CDN của hệ thống; giấy phép SIL OFL 1.1, © Łukasz Dziedzic (latofonts.com). */
+@font-face{font-family:"Lato Extended";font-style:normal;font-weight:300;src:url("Lato-Light.woff2") format("woff2");font-display:swap}
+@font-face{font-family:"Lato Extended";font-style:normal;font-weight:400;src:url("Lato-Regular.woff2") format("woff2");font-display:swap}
+@font-face{font-family:"Lato Extended";font-style:italic;font-weight:400;src:url("Lato-Italic.woff2") format("woff2");font-display:swap}
+@font-face{font-family:"Lato Extended";font-style:normal;font-weight:700;src:url("Lato-Bold.woff2") format("woff2");font-display:swap}
+@font-face{font-family:"Lato Extended";font-style:italic;font-weight:700;src:url("Lato-BoldItalic.woff2") format("woff2");font-display:swap}

@@ -10,9 +10,8 @@
 }
 body{background:var(--bg)}
 
-/* Headings: Archivo bản rộng, không bóng, không gradient */
-h1,h2,h3,.vm-core-title,.num,.yr{font-stretch:118%}
-h2.title{font-weight:780;letter-spacing:-.025em;color:var(--navy);line-height:1.1}
+/* Headings: Lato Extended (font của hệ thống MOOC), không bóng, không gradient */
+h2.title{font-weight:700;letter-spacing:-.025em;color:var(--navy);line-height:1.1}
 .lead{color:var(--muted)}
 
 /* Eyebrow → ghi chú bút đỏ bên lề, viết thường */
@@ -60,7 +59,7 @@ h2.title{font-weight:780;letter-spacing:-.025em;color:var(--navy);line-height:1.
 .hero::before{content:"";position:absolute;top:0;bottom:0;z-index:1;width:0;border-left:2px solid var(--pen);opacity:.7;
   left:max(10px,calc((100% - var(--max))/2 - 8px));transform-origin:top;animation:nbMargin 1.1s cubic-bezier(.3,.7,.2,1) both}
 .hero-grid{z-index:2}
-.hero h1{color:var(--blue);font-weight:800;font-stretch:112%;letter-spacing:-.035em;margin:20px 0 26px}
+.hero h1{color:var(--blue);font-weight:800;letter-spacing:-.015em;margin:20px 0 26px}
 .hero h1 span{animation:nbWrite .9s cubic-bezier(.3,.7,.2,1) both}
 .hero h1 span:nth-child(2){animation-delay:.25s}
 .hero h1 span:nth-child(3){animation-delay:.5s}
@@ -74,7 +73,7 @@ h2.title{font-weight:780;letter-spacing:-.025em;color:var(--navy);line-height:1.
 /* Carousel: màn hình thật, viền mực, không kính mờ */
 .stage{border-radius:var(--r-md);box-shadow:none}
 .scene{border-radius:var(--r-md);background:#fff;border:1.5px solid var(--navy);backdrop-filter:none;-webkit-backdrop-filter:none;padding:18px}
-.scene-tag{color:var(--navy);text-transform:none;letter-spacing:0;font-size:15px;font-weight:650}
+.scene-tag{color:var(--navy);text-transform:none;letter-spacing:0;font-size:15px;font-weight:700}
 .scene-body{border-radius:var(--r-sm);padding:0;background:transparent}
 .scene-body img{border-radius:var(--r-sm);background:var(--bg-soft)}
 .hero .scene-body p{color:var(--muted);padding:0}
@@ -112,7 +111,7 @@ h2.title{font-weight:780;letter-spacing:-.025em;color:var(--navy);line-height:1.
 
 /* Manifesto: một câu, căn trái, dạ quang ở phần nhấn sẵn có */
 .manifesto{background:var(--bg);text-align:left;border-block:1px solid var(--line)}
-.manifesto p{margin:0;max-width:980px;font-weight:650;font-stretch:108%;color:var(--navy);line-height:1.3}
+.manifesto p{margin:0;max-width:980px;font-weight:700;color:var(--navy);line-height:1.3}
 .manifesto p em{color:var(--muted);font-weight:500}
 .manifesto p strong,.manifesto strong{color:var(--navy);padding:0 .14em;margin:0 -.06em;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 20' preserveAspectRatio='none'%3E%3Cpath d='M4 4.5C45 2.2 92 4.6 141 2.8S188 3.4 197 5L196 15.8C158 17.6 109 15.7 61 17.4S14 16.2 3 16.8Z' fill='%23ffe27a' fill-opacity='.85'/%3E%3C/svg%3E") 0 72%/100% 58% no-repeat;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 
@@ -123,7 +122,7 @@ h2.title{font-weight:780;letter-spacing:-.025em;color:var(--navy);line-height:1.
 .stat + .stat{border-top:1px solid var(--line)}
 .stat::before{display:none}
 .stat .num{order:2;text-align:right;color:var(--blue);font-weight:800;font-size:clamp(46px,6vw,84px);letter-spacing:-.03em}
-.stat .num small{display:inline;margin:0 .35em 0 0;font-size:.3em;color:var(--muted);font-weight:500;vertical-align:.35em;font-stretch:100%}
+.stat .num small{display:inline;margin:0 .35em 0 0;font-size:.3em;color:var(--muted);font-weight:500;vertical-align:.35em}
 .stat p{order:1;margin:0;color:var(--ink);font-size:clamp(17px,1.6vw,21px);font-weight:500}
 .development-story li{border-top:1.5px solid var(--navy)}
 .development-story li::before{border-radius:0;width:9px;height:9px;top:-5px;background:var(--blue)}
@@ -192,7 +191,7 @@ h2.title{font-weight:780;letter-spacing:-.025em;color:var(--navy);line-height:1.
 .pillar:hover{transform:none}
 .pillar::before,.pillar::after,.pillar .idx{display:none}
 .pillar .icon-lg{position:static;width:28px;height:28px;margin-bottom:16px;stroke:var(--blue);opacity:1}
-.pillar h3{color:var(--blue);font-size:clamp(19px,1.7vw,23px);letter-spacing:-.01em;font-weight:780}
+.pillar h3{color:var(--blue);font-size:clamp(19px,1.7vw,23px);letter-spacing:-.01em;font-weight:700}
 .pillar p{color:var(--muted);font-size:14px}
 .vision-note{border-top-color:var(--line)}
 @media(max-width:1024px){.pillar:nth-child(3){padding-left:0;border-left:0}.pillar:nth-child(n+3){border-top:1px solid var(--line);margin-top:18px}}
@@ -223,5 +222,5 @@ dialog{border-radius:var(--r-md);border-color:var(--navy)}
 .topic-list li{border-radius:var(--r-sm)}
 .dialog-note{border-left-color:var(--pen);border-radius:0}
 
-@media(max-width:600px){.hero h1{font-stretch:110%}h2.title,.overview-copy .title{font-stretch:100%}.eyebrow,.hero .eyebrow{font-size:21px;letter-spacing:0}.stat{grid-template-columns:1fr;gap:6px}.stat .num{order:0;text-align:left;font-size:58px}}
+@media(max-width:600px){.eyebrow,.hero .eyebrow{font-size:21px;letter-spacing:0}.stat{grid-template-columns:1fr;gap:6px}.stat .num{order:0;text-align:left;font-size:58px}}
 @media(prefers-reduced-motion:reduce){.hero::before,.hero h1 span{animation:none}}
