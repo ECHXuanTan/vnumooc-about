@@ -67,7 +67,7 @@ h2.title{font-weight:700;letter-spacing:-.025em;color:var(--navy);line-height:1.
 .hero h1 .hl{background:none;color:inherit;-webkit-text-fill-color:currentColor}
 .hero p{color:var(--ink)}
 @keyframes nbMargin{from{transform:scaleY(0)}to{transform:scaleY(1)}}
-@keyframes nbWrite{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+@keyframes nbWrite{from{clip-path:inset(-.3em 100% -.3em -.1em)}to{clip-path:inset(-.3em -.1em -.3em -.1em)}}
 .hero .scroll-hint{color:var(--muted);letter-spacing:.04em;text-transform:none;font-size:13px}
 .scroll-hint i{background:linear-gradient(var(--muted),transparent)}
 
