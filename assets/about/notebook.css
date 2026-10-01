@@ -10,7 +10,8 @@
 }
 body{background:var(--bg)}
 
-/* Headings: Lato Extended (font của hệ thống MOOC), không bóng, không gradient */
+/* Headings: Be Vietnam Pro như trang chủ hệ thống MOOC, không bóng, không gradient */
+h1,h2,h3,h4,.vm-core-title,.num,.yr,.manifesto p{font-family:var(--font-display)}
 h2.title{font-weight:700;letter-spacing:-.025em;color:var(--navy);line-height:1.1}
 .lead{color:var(--muted)}
 
@@ -98,7 +99,7 @@ h2.title{font-weight:700;letter-spacing:-.025em;color:var(--navy);line-height:1.
 .vm-card-desc,.vm-card-learner .vm-card-desc{color:var(--muted)}
 .vm-core-frame{padding:0;border-radius:var(--r-md)}
 .vm-core-inner{background:var(--blue);border-radius:var(--r-md);color:#fff}
-.vm-core-title{background:none;color:#fff;-webkit-text-fill-color:currentColor;animation:none;font-weight:800}
+.vm-core-title{background:none;color:#fff;-webkit-text-fill-color:currentColor;animation:none;font-weight:800;font-size:clamp(30px,3.2vw,46px);white-space:nowrap}
 .vm-core-sub{color:rgba(255,255,255,.82)}
 .vm-chip{background:transparent;border:1px solid rgba(255,255,255,.4);border-radius:var(--r-sm)}
 .vm-chip:hover{transform:none;background:transparent;border-color:rgba(255,255,255,.4)}
