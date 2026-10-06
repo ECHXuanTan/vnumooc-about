@@ -52,8 +52,8 @@
       "website": "https://uel.edu.vn/",
       "logo_source": "https://uel.edu.vn/storage/logo.svg",
       "local_file": "uel.svg",
-      "retrieved": "2026-09-21",
-      "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+      "retrieved": "2026-10-06",
+      "processing": "Cropped to the round emblem (viewBox 0 0 80 80, wordmark paths removed); colors unchanged."
     },
     {
       "id": "uhs",
@@ -74,6 +74,15 @@
       "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
     },
     {
+      "id": "ier",
+      "name": "Viện Môi trường và Tài nguyên",
+      "website": "https://www.hcmier.edu.vn/",
+      "logo_source": "https://hcmier.edu.vn/vn/img/logoLogin.png",
+      "local_file": "ier.png",
+      "retrieved": "2026-10-06",
+      "processing": "Copied as is (310x60, largest official file found)."
+    },
+    {
       "id": "ptnk",
       "name": "Trường Phổ thông Năng khiếu",
       "website": "https://ptnk.edu.vn/",
@@ -88,6 +97,5 @@
     "https://hcmus.edu.vn/dhqg-tp-hcm-va-cac-don-vi-thanh-vien/",
     "https://ptnk.edu.vn/"
   ],
-  "ier_logo_status": "Official logo URL https://hcmier.edu.vn/vn/img/logoLogin.png repeatedly timed out; institute shown as text, no substitute logo invented.",
   "list_update": "Eight universities from official VNU-HCM directory. Removed unverified University of Politics and Public Administration label from the earlier prototype."
 }
