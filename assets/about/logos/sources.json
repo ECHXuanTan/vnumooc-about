@@ -78,9 +78,9 @@
       "name": "Viện Môi trường và Tài nguyên",
       "website": "https://www.hcmier.edu.vn/",
       "logo_source": "https://hcmier.edu.vn/vn/img/logoLogin.png",
-      "local_file": "ier.png",
+      "local_file": "ier.svg",
       "retrieved": "2026-10-06",
-      "processing": "Copied as is (310x60, largest official file found)."
+      "processing": "Original 310x60 PNG (largest official file found) embedded as base64 in an SVG wrapper, because the Cohota editor cannot upload binary files."
     },
     {
       "id": "ptnk",
