@@ -63,6 +63,18 @@
   .btn-ghost{background:rgba(255,255,255,.1);color:#fff;border:1px solid rgba(255,255,255,.35)}
   .btn-ghost:hover{background:rgba(255,255,255,.18)}
   .nav .btn{padding:10px 20px;font-size:14px}
+  .nav-actions{display:flex;align-items:center;gap:10px}
+  .nav-lang{position:relative}
+  .nav-lang>summary{list-style:none;display:inline-flex;align-items:center;gap:7px;cursor:pointer;padding:8px 12px;border:1px solid var(--rule);border-radius:999px;color:var(--muted);background:rgba(255,255,255,.6);font-size:13px;font-weight:700;line-height:1;transition:color .2s,border-color .2s}
+  .nav-lang>summary::-webkit-details-marker{display:none}
+  .nav-lang>summary:hover{color:var(--blue);border-color:var(--blue)}
+  .nav-lang__globe{width:18px;height:18px;flex:none}
+  .nav-lang__chev{width:13px;height:13px;flex:none;transition:transform .25s}
+  .nav-lang[open] .nav-lang__chev{transform:rotate(180deg)}
+  .nav-lang__pop{position:absolute;right:0;top:calc(100% + 8px);min-width:158px;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:0 16px 40px -16px rgba(10,42,94,.35);padding:6px;display:flex;flex-direction:column;gap:2px;z-index:60}
+  .nav-lang__pop a{padding:10px 12px;border-radius:8px;font-size:14px;font-weight:600;color:var(--ink)}
+  .nav-lang__pop a:hover{background:var(--bg-soft);color:var(--blue)}
+  .nav-lang__pop a.is-active{background:var(--sky);color:var(--blue)}
   @media (max-width:860px){.nav-links{display:none}}
 
   /* 01 HERO */
@@ -250,7 +262,7 @@
   .cta{padding:0 0 clamp(72px,10vw,120px)}
   .cta-box{border-radius:32px;padding:clamp(48px,7vw,88px) clamp(24px,5vw,72px);color:#fff;text-align:center;position:relative;overflow:hidden;
     background:radial-gradient(600px 300px at 90% 0%,rgba(255,176,32,.35),transparent 60%),radial-gradient(700px 400px at 0% 100%,rgba(47,124,246,.55),transparent 60%),linear-gradient(135deg,#06173a,#0e3a86)}
-  .cta-box h2{font-size:clamp(28px,4.4vw,52px);font-weight:800;letter-spacing:-.02em;line-height:1.12;max-width:780px;margin:0 auto 18px;text-wrap:balance}
+  .cta-box h2{color:white;font-size:clamp(28px,4.4vw,52px);font-weight:800;letter-spacing:-.02em;line-height:1.12;max-width:780px;margin:0 auto 18px;text-wrap:balance}
   .cta-box > p{color:rgba(255,255,255,.75);max-width:560px;margin:0 auto 36px}
   .cta-btns{display:flex;justify-content:center;flex-wrap:wrap;gap:14px}
   .shortcuts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:760px;margin:48px auto 0}
@@ -281,7 +293,7 @@
       <a href="#hanh-trinh">Hành trình</a>
       <a href="#gia-tri">Giá trị</a>
     </nav>
-    <div class="nav-actions"><a href="https://mooc.ctlt.tech/clients/login" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Bắt đầu học</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="page-nav"><span aria-hidden="true">☰</span><span class="sr-only">Mở menu</span></button></div>
+    <div class="nav-actions"><details class="nav-lang"><summary aria-haspopup="true" aria-label="Ngôn ngữ"><svg class="nav-lang__globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.6 3 2.6 15 0 18M12 3c-2.6 3-2.6 15 0 18"/></svg><span>VI</span><svg class="nav-lang__chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></summary><div class="nav-lang__pop"><a href="index.html" class="is-active" aria-current="true">Tiếng Việt</a><a href="en/index.html" class="">English</a></div></details><a href="https://mooc.vnuhcm.edu.vn/clients/login" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Bắt đầu học</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="page-nav"><span aria-hidden="true">☰</span><span class="sr-only">Mở menu</span></button></div>
   </div>
 </header>
 
@@ -618,12 +630,12 @@
       <p>Chọn môn học phù hợp, học theo nhịp của bạn và để mỗi bài học trở thành một bước tiến trong lộ trình đại học.</p>
       <div class="cta-btns">
         <button type="button" data-dialog="courses-dialog" class="btn btn-primary">Khám phá các môn học</button>
-        <a href="https://mooc.ctlt.tech/clients/login" target="_blank" rel="noopener noreferrer" class="btn btn-ghost">Đăng nhập VNU-MOOC</a>
+        <a href="https://mooc.vnuhcm.edu.vn/clients/login" target="_blank" rel="noopener noreferrer" class="btn btn-ghost">Đăng nhập VNU-MOOC</a>
       </div>
       <div class="shortcuts">
         <a href="#tan-sinh-vien" class="shortcut"><span>Tân sinh viên<small>Chuẩn bị cho năm nhất</small></span><span class="go">→</span></a>
         <button type="button" data-dialog="courses-dialog" class="shortcut"><span>Môn học<small>Tìm hiểu các môn MOOC</small></span><span class="go" aria-hidden="true">→</span></button>
-        <a href="https://mooc.ctlt.tech/clients/login" target="_blank" rel="noopener noreferrer" class="shortcut"><span>Hướng dẫn sử dụng<small>Bắt đầu sử dụng VNU-MOOC</small></span><span class="go" aria-hidden="true">→</span></a>
+        <a href="https://mooc.vnuhcm.edu.vn/clients/login" target="_blank" rel="noopener noreferrer" class="shortcut"><span>Hướng dẫn sử dụng<small>Bắt đầu sử dụng VNU-MOOC</small></span><span class="go" aria-hidden="true">→</span></a>
       </div>
     </div>
   </div>
