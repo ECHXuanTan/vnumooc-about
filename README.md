@@ -34,6 +34,6 @@ Hướng dẫn đầy đủ nằm ở repo `vnumooc-canvas`, file `docs/GIAO_DIE
 - CSS: thêm khối cuối `about.css`, sửa nhiều chỗ trong `notebook.css` (màu nền nhạt từng mục, ô số liệu màu, giảm khoảng cách). Đưa CSS và snippet lên **cùng lúc**, vì `.stats`/`.stat` đổi kiểu.
 - JS: `about.js` nhận `data-format="en"` (in "5,000").
 - Tài sản mới: `logos/ier-mark.svg`, `logos/vih.svg` (PNG nhúng base64 trong SVG, giống `ier.svg`).
-- Danh mục môn trong mục Con số chép tay từ `data/ma_mon_2026S1.tsv` của `vnumooc-canvas` (38 dòng trừ 5 môn bổ sung 28/09); đổi danh sách môn thì sửa cả hai file HTML.
+- Danh mục môn trong mục Con số (`.catalog`, `.cat-block`) mô phỏng infographic Canva "[2.1] 33 môn MOOC" (trang 1): nhóm, thứ tự và tên môn theo Canva, hình minh họa là SVG tự vẽ. Tiêu đề và nhãn nhóm dùng font **Oswald** (Google Fonts), nên khi đưa lên theme phải thêm `family=Oswald:wght@500;600` vào link Google Fonts đang nạp Patrick Hand. Đổi danh sách môn thì sửa cả hai file HTML.
 
 Ô Search toàn workspace của editor không chạy; mở file rồi dùng Cmd+F.
