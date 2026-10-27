@@ -52,7 +52,8 @@
   });
   // Stable fallback values are in HTML. Animation runs once, only on entry.
   const counted = new WeakSet();
-  const format = (n, el) => el.dataset.format === 'vi' ? n.toLocaleString('vi-VN') : String(n);
+  const locales = {vi:'vi-VN', en:'en-US'};
+  const format = (n, el) => locales[el.dataset.format] ? n.toLocaleString(locales[el.dataset.format]) : String(n);
   function countUp(el) {
     if (counted.has(el)) return;
     counted.add(el);

@@ -83,6 +83,15 @@
       "processing": "Original 310x60 PNG (largest official file found) embedded as base64 in an SVG wrapper, because the Cohota editor cannot upload binary files."
     },
     {
+      "id": "ier-mark",
+      "name": "Viện Môi trường và Tài nguyên (biểu trưng)",
+      "website": "https://www.hcmier.edu.vn/",
+      "logo_source": "https://hcmier.edu.vn/vn/img/logoLogin.png",
+      "local_file": "ier-mark.svg",
+      "retrieved": "2026-10-27",
+      "processing": "Same embedded PNG as ier.svg, cropped by viewBox 0 0 62 60 to the round emblem for the one-row member grid; colors unchanged."
+    },
+    {
       "id": "ptnk",
       "name": "Trường Phổ thông Năng khiếu",
       "website": "https://ptnk.edu.vn/",
@@ -90,6 +99,15 @@
       "local_file": "ptnk.png",
       "retrieved": "2026-09-21",
       "processing": "Original proportions and colors retained; PNG optimized or SVG copied."
+    },
+    {
+      "id": "vih",
+      "name": "Trung tâm Đổi mới sáng tạo ĐHQG-HCM (VNUHCM Innovation Hub)",
+      "website": null,
+      "logo_source": "CTLT repo cdihe2026.site, images/vih-logo.png (1600x362)",
+      "local_file": "vih.svg",
+      "retrieved": "2026-10-27",
+      "processing": "Resized to 640x145 PNG, embedded as base64 in an SVG wrapper because the Cohota editor cannot upload binary files. Used in place of a CTLT logo, per review comment 27/10/2026."
     }
   ],
   "directory_sources": [
