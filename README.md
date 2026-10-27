@@ -37,3 +37,13 @@ Hướng dẫn đầy đủ nằm ở repo `vnumooc-canvas`, file `docs/GIAO_DIE
 - Danh mục môn theo phong cách infographic Canva "[2.1] 33 môn MOOC" (nhãn trắng đè khối xanh đậm, không hình minh họa); nhóm, thứ tự và tên môn theo Canva, khớp `data/ma_mon_2026S1.tsv` của `vnumooc-canvas` (38 dòng trừ 5 môn bổ sung 28/09). Tiêu đề và nhãn nhóm dùng font **Oswald**: khi đưa lên theme phải thêm `family=Oswald:wght@500;600` vào link Google Fonts đang nạp Patrick Hand. Đổi danh sách môn thì sửa cả hai file HTML.
 
 Ô Search toàn workspace của editor không chạy; mở file rồi dùng Cmd+F.
+
+## Dựng snippet từ hai file HTML (`tools/`)
+
+`theme/_about_landing.liquid` là bản snippet đang (hoặc sắp) chạy trên theme, dựng từ `index.html` + `en/index.html` của cùng commit. Lần sau sửa trang thì dựng lại bằng script, không sửa tay snippet:
+
+1. Đọc snippet đang chạy trên editor ra một file, đối chiếu với `theme/_about_landing.liquid` (khác thì Cohota đã sửa, xem kỹ trước).
+2. `python3 tools/build_snippet.py <snippet đang chạy> <index.html cũ> <en/index.html cũ> index.html en/index.html <bản mới>`: "cũ" là cặp HTML của commit đã dựng ra snippet đang chạy (`git show <commit>:index.html`). Script lấy phần đầu (`<style>`, font) từ bản đang chạy, trộn thân từ hai file HTML, rồi áp lại các chỉnh riêng cho theme (link `linklist`, `?locale=`, nhãn `translate`) rút ra từ chênh lệch giữa cặp HTML cũ và bản đang chạy. Script tự kiểm: dựng ngược mỗi ngôn ngữ phải khớp từng ký tự với file HTML.
+3. Xem trước: `python3 tools/render_liquid.py <bản mới> vi|en <đường dẫn tới assets> out.html` (giả lập tối giản `asset_url`, `translate`, `linklist`, `if/else`).
+
+**Ghi lên editor đừng dùng clipboard của máy** khi có phiên khác đang chạy: ngày 28/10/2026 clipboard bị ghi đè giữa lúc chép và dán, `about.css` trên editor thành một dòng chữ lạ (đã Cmd+Z kịp, CDN không đổi). Cách an toàn: đưa file lên GitHub Pages của repo này, trong trang editor `fetch` file đó, kiểm sha256, rồi dán bằng sự kiện `paste` giả lập (`DataTransfer`) vào vùng soạn thảo; đọc ngược bằng cách bắt sự kiện `copy` trong trang và so sha256 trước khi lưu.
