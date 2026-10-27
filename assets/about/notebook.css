@@ -29,6 +29,7 @@ h2.title{font-weight:700;letter-spacing:-.025em;color:var(--navy);line-height:1.
 /* Eyebrow → ghi chú bút đỏ bên lề, viết thường */
 .eyebrow{font-family:var(--hand);font-size:24px;font-weight:400;letter-spacing:0;text-transform:none;color:var(--pen);transform:rotate(-1.2deg);transform-origin:left center}
 .eyebrow::before{display:none}
+.eyebrow{display:inline-block}
 .hero .eyebrow{color:var(--pen)}
 .journey .eyebrow{color:#ffd3d8}
 .dialog-head .eyebrow,.member-heading .eyebrow{font-size:21px}

@@ -106,67 +106,93 @@
   document.addEventListener('visibilitychange',startRotation);
   motion.addEventListener('change',startRotation);
   startRotation();
-  // Đơn vị thành viên: slideshow theo nhóm ô vừa khung, đi lần lượt từ ô đầu (trái) tới ô cuối (phải)
-  // rồi quay lại; thanh điều hướng giống slideshow ảnh đầu trang. Dừng khi rê chuột/focus; không tự chạy
-  // khi người dùng chọn giảm chuyển động. Số nhóm tính lại theo độ rộng khung.
+  // Đơn vị thành viên: slideshow lặp vô tận, mỗi lần dịch một ô sang trái (ô mới vào từ mép phải),
+  // sau ô cuối là ô đầu (danh sách được nhân đôi để nối vòng). Mỗi đơn vị một nút như slideshow đầu trang.
+  // Dừng khi rê chuột/focus; vuốt ngang để chuyển; không tự chạy khi người dùng chọn giảm chuyển động.
   const slider = document.querySelector('.member-slider');
   const sliderDots = document.querySelector('.member-dots');
   if (slider && sliderDots) {
     const strip = slider.querySelector('.member-track');
-    const cards = [...strip.children];
-    let stops = [0], current = 0, sliderTimer, hold = false, sliderTicking = false;
-    const computeStops = () => {
-      const view = strip.clientWidth, max = strip.scrollWidth - view;
-      stops = [0];
-      let start = 0;
-      while (start < max - 1) {
-        const next = cards.find(card => card.offsetLeft + card.offsetWidth > start + view + 1);
-        if (!next) break;
-        start = Math.min(next.offsetLeft, max);
-        stops.push(start);
-      }
+    const originals = [...strip.children];
+    const total = originals.length;
+    originals.forEach(item => {
+      const copy = item.cloneNode(true);
+      copy.setAttribute('aria-hidden', 'true');
+      copy.querySelectorAll('a, button').forEach(el => el.setAttribute('tabindex', '-1'));
+      strip.append(copy);
+    });
+    let pos = 0, step = 0, sliderTimer, hold = false;
+    const measure = () => { step = strip.children[1].offsetLeft - strip.children[0].offsetLeft; };
+    const place = animate => {
+      strip.classList.toggle('no-anim', !animate);
+      strip.style.transform = `translateX(${-pos * step}px)`;
     };
-    const markDot = () => {
-      current = stops.reduce((best, stop, i) => Math.abs(stop - strip.scrollLeft) < Math.abs(stops[best] - strip.scrollLeft) ? i : best, 0);
-      [...sliderDots.children].forEach((dot, i) => {
-        dot.classList.toggle('on', i === current);
-        dot.setAttribute('aria-pressed', String(i === current));
-      });
+    const unitDots = originals.map((item, i) => {
+      const dot = document.createElement('button');
+      dot.type = 'button';
+      dot.className = 'scene-dot';
+      dot.setAttribute('aria-label', sliderDots.dataset.dotLabel.replace('{i}', i + 1).replace('{n}', total).replace('{name}', item.querySelector('.member-name').textContent));
+      dot.append(document.createElement('span'));
+      dot.addEventListener('click', () => { goTo(i); startSlider(); });
+      return dot;
+    });
+    sliderDots.replaceChildren(...unitDots);
+    const mark = () => unitDots.forEach((dot, i) => {
+      const on = i === pos % total;
+      dot.classList.toggle('on', on);
+      dot.setAttribute('aria-pressed', String(on));
+    });
+    // Đi quá ô cuối thì đang đứng ở bản sao: nhảy về ô thật tương ứng, không hiệu ứng.
+    const normalize = () => { if (pos >= total) { pos -= total; place(false); } };
+    function goTo(next, animate = !motion.matches) {
+      pos = next;
+      place(animate);
+      mark();
+      if (!animate) normalize();
+    }
+    const forward = () => goTo(pos + 1);
+    const backward = () => {
+      if (pos === 0) { pos = total; place(false); void strip.offsetWidth; }
+      goTo(pos - 1);
     };
-    const goTo = i => strip.scrollTo({left: stops[i], behavior: motion.matches ? 'auto' : 'smooth'});
-    const buildDots = () => {
-      computeStops();
-      sliderDots.replaceChildren(...stops.map((_, i) => {
-        const dot = document.createElement('button');
-        dot.type = 'button';
-        dot.className = 'scene-dot';
-        dot.setAttribute('aria-label', sliderDots.dataset.dotLabel.replace('{i}', i + 1).replace('{n}', stops.length));
-        dot.append(document.createElement('span'));
-        dot.addEventListener('click', () => { goTo(i); startSlider(); });
-        return dot;
-      }));
-      sliderDots.parentElement.hidden = stops.length < 2;
-      markDot();
-    };
+    strip.addEventListener('transitionend', event => { if (event.target === strip) normalize(); });
     function startSlider() {
       clearInterval(sliderTimer);
-      if (motion.matches || document.hidden || stops.length < 2) return;
-      sliderTimer = setInterval(() => { if (!hold) goTo((current + 1) % stops.length); }, 3500);
+      if (motion.matches || document.hidden) return;
+      sliderTimer = setInterval(() => { if (!hold) forward(); }, 3000);
     }
-    strip.addEventListener('scroll', () => {
-      if (!sliderTicking) { requestAnimationFrame(() => { markDot(); sliderTicking = false; }); sliderTicking = true; }
-    }, {passive:true});
-    [slider, sliderDots].forEach(el => {
-      el.addEventListener('pointerenter', () => { hold = true; });
-      el.addEventListener('pointerleave', () => { hold = false; });
+    slider.addEventListener('pointerenter', () => { hold = true; });
+    slider.addEventListener('pointerleave', () => { hold = false; });
+    // Tab tới một ô đang khuất thì kéo ô đó vào khung.
+    slider.addEventListener('focusin', event => {
+      hold = true;
+      slider.scrollLeft = 0;
+      const item = event.target.closest('li'), i = originals.indexOf(item);
+      if (i < 0) return;
+      const box = item.getBoundingClientRect(), view = slider.getBoundingClientRect();
+      if (box.left < view.left || box.right > view.right) goTo(i);
     });
-    slider.addEventListener('focusin', () => { hold = true; });
     slider.addEventListener('focusout', () => { hold = false; });
+    let startX = null, swiped = false;
+    slider.addEventListener('pointerdown', event => { startX = event.clientX; swiped = false; });
+    slider.addEventListener('pointerup', event => {
+      if (startX === null) return;
+      const dx = event.clientX - startX;
+      startX = null;
+      if (Math.abs(dx) < 40) return;
+      swiped = true;
+      dx < 0 ? forward() : backward();
+      startSlider();
+    });
+    slider.addEventListener('pointercancel', () => { startX = null; });
+    slider.addEventListener('click', event => { if (swiped) { event.preventDefault(); swiped = false; } }, true);
     let resizeTimer;
-    addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(() => { buildDots(); startSlider(); }, 150); });
+    addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(() => { measure(); place(false); }, 150); });
     document.addEventListener('visibilitychange', startSlider);
     motion.addEventListener('change', startSlider);
-    buildDots();
+    measure();
+    place(false);
+    mark();
     startSlider();
   }
   // Native modal dialogs contain only About-page information, no fake login form.
