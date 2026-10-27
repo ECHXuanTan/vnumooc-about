@@ -28,7 +28,7 @@ Hướng dẫn đầy đủ nằm ở repo `vnumooc-canvas`, file `docs/GIAO_DIE
 
 `en/index.html` dựng ngày 20/10/2026 từ bản tiếng Anh đang chạy trên `/clients?locale=en`; phần CSS/JS và bản tiếng Việt cũng đã khớp trang thật ngày đó.
 
-**27/10/2026: bản gốc đi trước trang thật.** Đã sửa theo góp ý "Chỉnh sửa giao diện VNU-MOOC" (Google Docs, chữ xanh là mục mới) nhưng chưa đưa lên theme. Khi chuyển sang snippet:
+**28/10/2026: đã lưu lên theme** bản sửa theo góp ý "Chỉnh sửa giao diện VNU-MOOC" (Google Docs, chữ xanh là mục mới) và bản tiếng Anh: assets lên CDN ngay, snippet `theme/_about_landing.liquid` đã lưu trên editor, **chờ Cohota deploy** mới hiện ở `/clients`. Rollback và nhật ký ở `docs/GIAO_DIEN_TRANG_CHU.md` của `vnumooc-canvas`. Những gì đã đổi so với bản 20/10:
 
 - HTML đổi gần như mọi mục: mục Con số có danh mục 33 môn ở hàng riêng dưới ô số liệu (`.catalog`, `.cat-grid`), Đội ngũ đổi sang 4 nhóm đội ngũ + quy trình 3 bước (`.build-flow`, thay `.production-flow`), 9 đơn vị thành viên thành slideshow lặp vô tận, mỗi đơn vị một nút trên thanh điều hướng ở giữa, giống slideshow đầu trang (`.member-slider`, `.member-dots`, thẻ ngang `.member-row`) và đơn vị trực thuộc PTNK + VIH cùng cỡ thẻ (VIH: innovationhub.vnuhcm.edu.vn), Đồng hành bỏ đánh số bước (`.journey-grid`, thay `.timeline`), CTA bỏ ba ô tắt.
 - CSS: thêm khối cuối `about.css`, sửa nhiều chỗ trong `notebook.css` (màu nền nhạt từng mục, ô số liệu màu, giảm khoảng cách). Đưa CSS và snippet lên **cùng lúc**, vì `.stats`/`.stat` đổi kiểu.
