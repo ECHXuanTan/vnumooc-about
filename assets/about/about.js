@@ -106,6 +106,30 @@
   document.addEventListener('visibilitychange',startRotation);
   motion.addEventListener('change',startRotation);
   startRotation();
+  // Dải đơn vị thành viên chạy trái → phải: nhân đôi danh sách để vòng lặp liền mạch.
+  // Dừng khi rê chuột/focus (CSS) hoặc bấm nút; tắt hẳn khi người dùng chọn giảm chuyển động.
+  const marquee = document.querySelector('.member-marquee');
+  const marqueeToggle = document.querySelector('.marquee-toggle');
+  if (marquee) {
+    const track = marquee.querySelector('.member-track');
+    [...track.children].forEach(item => {
+      const copy = item.cloneNode(true);
+      copy.setAttribute('aria-hidden', 'true');
+      copy.querySelectorAll('a, button').forEach(el => el.setAttribute('tabindex', '-1'));
+      track.appendChild(copy);
+    });
+    const syncMarquee = () => {
+      marquee.classList.toggle('is-running', !motion.matches);
+      if (marqueeToggle) marqueeToggle.hidden = motion.matches;
+    };
+    marqueeToggle?.addEventListener('click', () => {
+      const paused = marquee.classList.toggle('is-paused');
+      marqueeToggle.setAttribute('aria-pressed', String(paused));
+      marqueeToggle.textContent = paused ? marqueeToggle.dataset.play : marqueeToggle.dataset.pause;
+    });
+    motion.addEventListener('change', syncMarquee);
+    syncMarquee();
+  }
   // Native modal dialogs contain only About-page information, no fake login form.
   let opener;
   document.querySelectorAll('[data-dialog]').forEach(button => button.addEventListener('click', () => {

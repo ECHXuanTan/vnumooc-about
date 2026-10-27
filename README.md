@@ -30,10 +30,10 @@ Hướng dẫn đầy đủ nằm ở repo `vnumooc-canvas`, file `docs/GIAO_DIE
 
 **27/10/2026: bản gốc đi trước trang thật.** Đã sửa theo góp ý "Chỉnh sửa giao diện VNU-MOOC" (Google Docs, chữ xanh là mục mới) nhưng chưa đưa lên theme. Khi chuyển sang snippet:
 
-- HTML đổi gần như mọi mục: mục Con số có danh mục 33 môn ở hàng riêng dưới ô số liệu (`.catalog`, `.cat-grid`), Đội ngũ đổi sang 4 nhóm đội ngũ + quy trình 3 bước (`.build-flow`, thay `.production-flow`), hàng 9 đơn vị thành viên (`.member-grid-main`) và đơn vị trực thuộc PTNK + VIH, Đồng hành bỏ đánh số bước (`.journey-grid`, thay `.timeline`), CTA bỏ ba ô tắt.
+- HTML đổi gần như mọi mục: mục Con số có danh mục 33 môn ở hàng riêng dưới ô số liệu (`.catalog`, `.cat-grid`), Đội ngũ đổi sang 4 nhóm đội ngũ + quy trình 3 bước (`.build-flow`, thay `.production-flow`), dải 9 đơn vị thành viên chạy trái → phải (`.member-marquee`, thẻ ngang `.member-row`, có nút Tạm dừng) và đơn vị trực thuộc PTNK + VIH cùng cỡ thẻ, Đồng hành bỏ đánh số bước (`.journey-grid`, thay `.timeline`), CTA bỏ ba ô tắt.
 - CSS: thêm khối cuối `about.css`, sửa nhiều chỗ trong `notebook.css` (màu nền nhạt từng mục, ô số liệu màu, giảm khoảng cách). Đưa CSS và snippet lên **cùng lúc**, vì `.stats`/`.stat` đổi kiểu.
-- JS: `about.js` nhận `data-format="en"` (in "5,000").
-- Tài sản mới: `logos/ier-mark.svg`, `logos/vih.svg` (PNG nhúng base64 trong SVG, giống `ier.svg`).
+- JS: `about.js` nhận `data-format="en"` (in "5,000"); nhân đôi danh sách đơn vị thành viên để dải chạy vòng liền mạch, nút Tạm dừng, tắt chạy khi người dùng chọn giảm chuyển động.
+- Tài sản mới: `logos/ier-mark.svg`, `logos/ptnk-mark.svg`, `logos/vih-mark.svg` (biểu trưng cắt bằng `viewBox` cho thẻ ngang), `logos/vih.svg` (PNG nhúng base64 trong SVG, giống `ier.svg`).
 - Danh mục môn theo phong cách infographic Canva "[2.1] 33 môn MOOC" (nhãn trắng đè khối xanh đậm, không hình minh họa); nhóm, thứ tự và tên môn theo Canva, khớp `data/ma_mon_2026S1.tsv` của `vnumooc-canvas` (38 dòng trừ 5 môn bổ sung 28/09). Tiêu đề và nhãn nhóm dùng font **Oswald**: khi đưa lên theme phải thêm `family=Oswald:wght@500;600` vào link Google Fonts đang nạp Patrick Hand. Đổi danh sách môn thì sửa cả hai file HTML.
 
 Ô Search toàn workspace của editor không chạy; mở file rồi dùng Cmd+F.
