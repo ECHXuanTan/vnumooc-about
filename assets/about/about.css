@@ -160,10 +160,8 @@ dialog{border:1px solid var(--line);border-radius:24px;padding:28px;max-width:66
 .build-flow p{font-size:14px;color:var(--muted);line-height:1.5}
 @media(max-width:760px){.build-flow{grid-template-columns:1fr;gap:20px}.build-flow li:not(:last-child)::after{display:none}}
 
-/* Đơn vị: thẻ ngang (logo trái, tên phải), cùng cỡ cho thành viên và trực thuộc; thành viên chạy thành dải trái → phải */
+/* Đơn vị: thẻ ngang (logo trái, tên phải), cùng cỡ cho thành viên và trực thuộc; thành viên là slideshow theo nhóm ô */
 .member-heading{display:flex;align-items:center}
-.marquee-toggle{flex:none;padding:7px 14px;border:1.5px solid var(--navy);border-radius:999px;background:#fff;color:var(--navy);font-size:13px;font-weight:600;cursor:pointer}
-.marquee-toggle:hover{background:var(--sky)}
 .member-card.member-row{--row-w:320px;width:var(--row-w);height:104px;display:grid;grid-template-columns:72px minmax(0,1fr);grid-template-rows:1fr auto auto auto 1fr;grid-template-areas:"logo ." "logo name" "logo kind" "logo visit" "logo .";column-gap:14px;padding:12px 18px;text-align:left;align-items:center;background:#fff;border:1px solid var(--line);border-radius:8px}
 .member-card.member-row:hover{background:#fff;border-color:#8eaed9}
 .member-row .member-logo{grid-area:logo;grid-row:1/-1;width:72px;height:64px;margin:0;justify-content:center}
@@ -171,14 +169,12 @@ dialog{border:1px solid var(--line);border-radius:24px;padding:28px;max-width:66
 .member-row .member-name{grid-area:name;max-width:none;font-size:14px;line-height:1.35}
 .member-row .member-kind{grid-area:kind;margin-top:2px;font-size:12px}
 .member-row .member-visit{grid-area:visit;padding-top:4px;margin-top:0;font-size:11px}
-.member-marquee{overflow-x:auto;scrollbar-width:thin;padding:2px 0 6px}
-.member-marquee.is-running{overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,#000 5%,#000 95%,transparent);mask-image:linear-gradient(90deg,transparent,#000 5%,#000 95%,transparent)}
-.member-marquee:not(.is-running) .member-track>[aria-hidden="true"]{display:none}
-.member-track{display:flex;width:max-content;list-style:none}
-.member-track>li{flex:none;margin-right:16px}
-.member-marquee.is-running .member-track{animation:memberSlide 70s linear infinite}
-.member-marquee.is-running:hover .member-track,.member-marquee.is-running:focus-within .member-track,.member-marquee.is-paused .member-track{animation-play-state:paused}
-@keyframes memberSlide{from{transform:translateX(-50%)}to{transform:translateX(0)}}
+.member-slider{position:relative}
+.member-track{position:relative;display:flex;gap:16px;list-style:none;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;scrollbar-width:none;padding:2px 0}
+.member-track::-webkit-scrollbar{display:none}
+.member-track>li{flex:none;scroll-snap-align:start}
+.member-track:focus-visible{outline:3px solid #e57400;outline-offset:4px}
+.member-controls{max-width:none;margin:8px 0 0;justify-content:flex-start}
 .member-row-list{display:flex;flex-wrap:wrap;gap:16px;list-style:none}
 @media(max-width:600px){.member-card.member-row{--row-w:272px;height:96px;padding:10px 14px;grid-template-columns:60px minmax(0,1fr)}.member-row .member-logo{width:60px;height:54px}.member-row .member-name{font-size:13px}}
 

@@ -82,8 +82,8 @@
     document.documentElement.classList.add('js-ready');
   }
   // Carousel: continuous autoplay with manual dot selection.
-  const scenes = [...document.querySelectorAll('.scene')];
-  const dots = [...document.querySelectorAll('.scene-dot')];
+  const scenes = [...document.querySelectorAll('.hero .scene')];
+  const dots = [...document.querySelectorAll('.hero .scene-dot')];
   let index = 0, timer;
   function showScene(next) {
     const leaving = index;
@@ -106,29 +106,68 @@
   document.addEventListener('visibilitychange',startRotation);
   motion.addEventListener('change',startRotation);
   startRotation();
-  // Dải đơn vị thành viên chạy trái → phải: nhân đôi danh sách để vòng lặp liền mạch.
-  // Dừng khi rê chuột/focus (CSS) hoặc bấm nút; tắt hẳn khi người dùng chọn giảm chuyển động.
-  const marquee = document.querySelector('.member-marquee');
-  const marqueeToggle = document.querySelector('.marquee-toggle');
-  if (marquee) {
-    const track = marquee.querySelector('.member-track');
-    [...track.children].forEach(item => {
-      const copy = item.cloneNode(true);
-      copy.setAttribute('aria-hidden', 'true');
-      copy.querySelectorAll('a, button').forEach(el => el.setAttribute('tabindex', '-1'));
-      track.appendChild(copy);
-    });
-    const syncMarquee = () => {
-      marquee.classList.toggle('is-running', !motion.matches);
-      if (marqueeToggle) marqueeToggle.hidden = motion.matches;
+  // Đơn vị thành viên: slideshow theo nhóm ô vừa khung, đi lần lượt từ ô đầu (trái) tới ô cuối (phải)
+  // rồi quay lại; thanh điều hướng giống slideshow ảnh đầu trang. Dừng khi rê chuột/focus; không tự chạy
+  // khi người dùng chọn giảm chuyển động. Số nhóm tính lại theo độ rộng khung.
+  const slider = document.querySelector('.member-slider');
+  const sliderDots = document.querySelector('.member-dots');
+  if (slider && sliderDots) {
+    const strip = slider.querySelector('.member-track');
+    const cards = [...strip.children];
+    let stops = [0], current = 0, sliderTimer, hold = false, sliderTicking = false;
+    const computeStops = () => {
+      const view = strip.clientWidth, max = strip.scrollWidth - view;
+      stops = [0];
+      let start = 0;
+      while (start < max - 1) {
+        const next = cards.find(card => card.offsetLeft + card.offsetWidth > start + view + 1);
+        if (!next) break;
+        start = Math.min(next.offsetLeft, max);
+        stops.push(start);
+      }
     };
-    marqueeToggle?.addEventListener('click', () => {
-      const paused = marquee.classList.toggle('is-paused');
-      marqueeToggle.setAttribute('aria-pressed', String(paused));
-      marqueeToggle.textContent = paused ? marqueeToggle.dataset.play : marqueeToggle.dataset.pause;
+    const markDot = () => {
+      current = stops.reduce((best, stop, i) => Math.abs(stop - strip.scrollLeft) < Math.abs(stops[best] - strip.scrollLeft) ? i : best, 0);
+      [...sliderDots.children].forEach((dot, i) => {
+        dot.classList.toggle('on', i === current);
+        dot.setAttribute('aria-pressed', String(i === current));
+      });
+    };
+    const goTo = i => strip.scrollTo({left: stops[i], behavior: motion.matches ? 'auto' : 'smooth'});
+    const buildDots = () => {
+      computeStops();
+      sliderDots.replaceChildren(...stops.map((_, i) => {
+        const dot = document.createElement('button');
+        dot.type = 'button';
+        dot.className = 'scene-dot';
+        dot.setAttribute('aria-label', sliderDots.dataset.dotLabel.replace('{i}', i + 1).replace('{n}', stops.length));
+        dot.append(document.createElement('span'));
+        dot.addEventListener('click', () => { goTo(i); startSlider(); });
+        return dot;
+      }));
+      sliderDots.parentElement.hidden = stops.length < 2;
+      markDot();
+    };
+    function startSlider() {
+      clearInterval(sliderTimer);
+      if (motion.matches || document.hidden || stops.length < 2) return;
+      sliderTimer = setInterval(() => { if (!hold) goTo((current + 1) % stops.length); }, 3500);
+    }
+    strip.addEventListener('scroll', () => {
+      if (!sliderTicking) { requestAnimationFrame(() => { markDot(); sliderTicking = false; }); sliderTicking = true; }
+    }, {passive:true});
+    [slider, sliderDots].forEach(el => {
+      el.addEventListener('pointerenter', () => { hold = true; });
+      el.addEventListener('pointerleave', () => { hold = false; });
     });
-    motion.addEventListener('change', syncMarquee);
-    syncMarquee();
+    slider.addEventListener('focusin', () => { hold = true; });
+    slider.addEventListener('focusout', () => { hold = false; });
+    let resizeTimer;
+    addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(() => { buildDots(); startSlider(); }, 150); });
+    document.addEventListener('visibilitychange', startSlider);
+    motion.addEventListener('change', startSlider);
+    buildDots();
+    startSlider();
   }
   // Native modal dialogs contain only About-page information, no fake login form.
   let opener;
